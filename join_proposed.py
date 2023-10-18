@@ -7,7 +7,7 @@ import re
 # Load the spaCy English language model
 nlp = spacy.load("en_core_web_sm")
 
-files=["best","wins","clusters","goes","nominee","receives"]
+files=["best","wins","clusters","goes","nominee","receives","winner"]
 
 confident=open("proposed_awards/combined_confident.txt", "w")
 no_confident=open("proposed_awards/combined_not_confident.txt", "w")

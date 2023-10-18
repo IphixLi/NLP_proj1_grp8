@@ -8,7 +8,7 @@ import json
 # Load the spaCy English language model
 nlp = spacy.load("en_core_web_sm")
 
-f = open('stage/receives_keyword.json',encoding="utf-8", errors="ignore")
+f = open('stage/winner_keyword.json',encoding="utf-8", errors="ignore")
 data=json.load(f)
 
 # Extract the keys (text items) from the dictionary
@@ -44,8 +44,8 @@ for label, text in zip(cluster_labels, texts):
     else:
         grouped_texts[label] = [text]
 
-with open("clusters/receives_clusters.txt", "w") as file:
-    with open("proposed_awards/proposed_from_receives.txt", "w") as d:
+with open("clusters/winner_clusters.txt", "w") as file:
+    with open("proposed_awards/proposed_from_winner.txt", "w") as d:
         for label, group in grouped_texts.items():
             file.write(f"Cluster {label}:\n")
             cluster = []

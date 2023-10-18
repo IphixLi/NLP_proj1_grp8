@@ -1,46 +1,46 @@
 Cluster 47:
     best television series comedy,10,0
 
-Cluster 49:
+Cluster 50:
     best picture - drama,20,0
 
-Cluster 27:
+Cluster 45:
     best performance by an actress in a television series - musical or comedy,4,0
 
-Cluster 3:
+Cluster 2:
     best performance by an actor in a supporting role in a motion picture,3,0
     best performance by an actor in a motion picture - drama,25,0
 
-Cluster 28:
+Cluster 27:
     best original song the only original thing from that movie,4,0
 
 Cluster 25:
     best original score - movie,6,0
 
-Cluster 8:
+Cluster 3:
     best motion picture musical comedy,7,0
     best motion pic (comedy/musical,1,0
 
-Cluster 48:
+Cluster 49:
     best motion picture comedymusical,6,0
 
-Cluster 6:
+Cluster 5:
     best miniseries or television movie,7,0
     best miniseries or tv movie,6,0
 
 Cluster 41:
     best mini - series or television movie,11,0
 
-Cluster 9:
+Cluster 10:
     best director - motion picture,9,0
     best director - motion picture,15,0
     best director - motion picture,7,0
 
-Cluster 20:
+Cluster 9:
     the best tv series drama,4,0
     best tv series - drama,4,0
 
-Cluster 18:
+Cluster 8:
     best tv series - comedy or musical,5,0
     best actress in a tv series - comedy or musical,8,0
     best actor tv series - comedy or musical,13,0
@@ -58,7 +58,7 @@ Cluster 11:
     best screenplay - motion picture,3,0
     best screenplay - motion picture,1,0
 
-Cluster 32:
+Cluster 37:
     best picture - drama,19,0
 
 Cluster 7:
@@ -66,11 +66,12 @@ Cluster 7:
     best comedy or musical,4,0
     best actress - musical or comedy,1,0
     best comedy or musical,3,0
+    best actress in a comedy or musical,3,0
 
-Cluster 26:
+Cluster 28:
     best mini-series or tv movie,10,0
 
-Cluster 2:
+Cluster 6:
     best lead actor in a drama,3,0
     best actor in a tv drama,4,0
     best actor in a drama,18,0
@@ -87,7 +88,7 @@ Cluster 22:
     best actress in a miniseries or movie,3,0
     best actress in a miniseries or tv movie,3,0
 
-Cluster 29:
+Cluster 24:
     best actress in a dramatic film,7,0
 
 Cluster 0:
@@ -95,16 +96,16 @@ Cluster 0:
     best actress in a drama series,1,0
     best actress in a tv series - drama,1,0
 
-Cluster 10:
+Cluster 4:
     best actor in a tv movie,3,0
     best actor in a mini-series/tv movie,7,0
 
-Cluster 5:
+Cluster 12:
     best actor in a motion picture - comedy or musical,3,0
     best actress in a motion picture comedy or musical,5,0
     best actor in a motion picture comedy/musical,6,0
 
-Cluster 4:
+Cluster 14:
     best actor in a miniseries or tv movie,6,0
     best supporting actor in a tv show, miniseries or tv movie,7,0
     best actor in a miniseries/tv movie,14,0
@@ -118,29 +119,29 @@ Cluster 35:
 Cluster 38:
     best tv show drama,1,0
 
-Cluster 14:
+Cluster 30:
     best song in a motion picture,1,0
     best original song in a motion picture,3,0
 
 Cluster 31:
     best picture in the oscars,1,0
 
-Cluster 30:
+Cluster 46:
     best motion picture - drama,1,0
 
-Cluster 37:
+Cluster 34:
     best group of bad asses in a motion picture,1,0
 
 Cluster 39:
     best dramatic role during comedy,1,0
 
-Cluster 34:
+Cluster 29:
     a fucking best picture like are you kidding me,1,0
 
-Cluster 24:
+Cluster 48:
     a best picture oscar,1,0
 
-Cluster 42:
+Cluster 18:
     a best picture golden globe,1,0
 
 Cluster 36:
@@ -152,27 +153,30 @@ Cluster 16:
 Cluster 44:
     best actress tv series comedy,4,0
 
-Cluster 45:
+Cluster 32:
     best actress in a tv comedy/musical,6,0
 
 Cluster 19:
     best actress in a motion picture drama,13,0
 
-Cluster 15:
+Cluster 42:
     best actress in a mini-series/tv movie,13,0
 
-Cluster 46:
+Cluster 23:
     best actor in comedy/musical,3,0
 
 Cluster 17:
     best actor in a motion picture drama,10,0
 
-Cluster 12:
+Cluster 26:
     as expected, best actress, tv drama,5,0
 
-Cluster 23:
+Cluster 21:
     cecil b. de mille award,3,0
 
-Cluster 21:
+Cluster 15:
     a lifetime achievement award,1,0
+
+Cluster 20:
+    skyfall" best original song from a motion picture,2,0
 
