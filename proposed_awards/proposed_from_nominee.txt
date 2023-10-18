@@ -1,0 +1,4 @@
+best supporting actor in a motion picture,1,0
+best screenplay - motion picture,1,0
+best actress in a tv series - drama,1,0
+best actor in tv drama,1,0

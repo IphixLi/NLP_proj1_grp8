@@ -1,0 +1,85 @@
+Cluster 6:
+    “: best motion picture drama (Count: 6)
+    best motion picture drama (Count: 84)
+
+Cluster 17:
+    best tv series - drama (Count: 4)
+
+Cluster 19:
+    best supporting actress tv series, miniseries, or tv movie (Count: 22)
+
+Cluster 24:
+    best supporting actress in a motion picture (Count: 11)
+
+Cluster 0:
+    best supporting actor, motion picture (Count: 44)
+    best supporting actor in a motion picture (Count: 5)
+
+Cluster 20:
+    best supporting actor, drama (Count: 5)
+
+Cluster 21:
+    best supporting actor in a tv show, miniseries or tv movie (Count: 7)
+
+Cluster 18:
+    best screenplay - motion picture (Count: 3)
+
+Cluster 15:
+    best original song in a motion picture (Count: 3)
+
+Cluster 25:
+    best miniseries or tv movie (Count: 6)
+
+Cluster 26:
+    best director - motion picture (Count: 7)
+
+Cluster 16:
+    best comedy or musical (Count: 3)
+
+Cluster 8:
+    best animated feature film (Count: 9)
+
+Cluster 23:
+    best actress tv series comedy (Count: 4)
+
+Cluster 1:
+    best actress in a tv series, drama (Count: 7)
+    best actress in a tv drama (Count: 3)
+
+Cluster 12:
+    best actress in a tv comedy/musical (Count: 6)
+
+Cluster 2:
+    best actress in a tv comedy or musical (Count: 26)
+    best actress in a comedy or musical (Count: 3)
+
+Cluster 11:
+    best actress in a motion picture drama (Count: 13)
+
+Cluster 9:
+    best actress in a motion picture comedy or musical (Count: 5)
+
+Cluster 14:
+    best actress in a miniseries or tv movie (Count: 3)
+
+Cluster 22:
+    best actress in a mini-series/tv movie (Count: 13)
+
+Cluster 10:
+    best actor tv series - comedy or musical (Count: 13)
+
+Cluster 5:
+    best actor in comedy/musical (Count: 3)
+
+Cluster 4:
+    best actor in a motion picture drama (Count: 10)
+
+Cluster 7:
+    best actor in a motion picture comedy/musical (Count: 6)
+
+Cluster 3:
+    best actor in a miniseries/tv movie (Count: 14)
+
+Cluster 13:
+    as expected, best actress, tv drama (Count: 5)
+

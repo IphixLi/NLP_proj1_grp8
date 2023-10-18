@@ -2,18 +2,16 @@ best television series - comedy or musical,10,1
 best television series drama,37,1
 best television series comedy,10,0
 best screenplay - motion picture,10,1
-best picture musical or comedy,36,1
+best motion picture comedy or musical,73,1
 best picture - drama,20,0
 best performance by an actress in a television series - musical or comedy,4,0
 best performance by an actor in a supporting role in a motion picture,3,0
 best performance by an actor in a motion picture - drama,25,0
 best original song the only original thing from that movie,4,0
-best original song - motion picture,11,1
-best original song in a motion picture,32,0
+best original song in a motion picture,32,1
 best original score - motion picture,28,1
 best original score - movie,6,0
 best comedy or musical,16,1
-best motion picture comedy or musical,73,1
 best motion picture musical comedy,7,0
 best motion picture drama,172,1
 best motion picture comedymusical,6,0

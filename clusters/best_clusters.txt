@@ -1,0 +1,81 @@
+Cluster 8:
+    best television series musical or comedy (Count: 4)
+    best television series comedy or musical (Count: 8)
+    best television series - musical or comedy (Count: 3)
+    best television series - comedy or musical (Count: 10)
+
+Cluster 7:
+    best television series drama (Count: 37)
+    best television series - drama (Count: 20)
+
+Cluster 16:
+    best television series comedy (Count: 10)
+
+Cluster 6:
+    best screenplay motion picture (Count: 4)
+    best screenplay - motion picture (Count: 10)
+    best screenplay  motion picture (Count: 7)
+
+Cluster 2:
+    best picture musical or comedy (Count: 36)
+    best picture comedy or musical (Count: 4)
+    best picture - comedy or musical (Count: 7)
+    best motion picture musical or comedy (Count: 35)
+    best motion picture comedy or musical (Count: 73)
+    best motion picture - musical or comedy (Count: 8)
+    best motion picture - comedy or musical (Count: 13)
+
+Cluster 19:
+    best picture - drama (Count: 20)
+
+Cluster 10:
+    best performance by an actress in a television series - musical or comedy (Count: 4)
+
+Cluster 18:
+    best performance by an actor in a supporting role in a motion picture (Count: 3)
+
+Cluster 11:
+    best performance by an actor in a motion picture - drama (Count: 25)
+
+Cluster 13:
+    best original song the only original thing from that movie (Count: 4)
+
+Cluster 0:
+    best original song motion picture (Count: 5)
+    best original song in a motion picture (Count: 32)
+    best original song - motion picture (Count: 11)
+
+Cluster 1:
+    best original score motion picture (Count: 4)
+    best original score - motion picture (Count: 28)
+
+Cluster 20:
+    best original score - movie (Count: 6)
+
+Cluster 3:
+    best musical or comedy (Count: 6)
+    best comedy or musical (Count: 16)
+
+Cluster 9:
+    best motion picture musical comedy (Count: 7)
+
+Cluster 5:
+    best motion picture drama (Count: 172)
+    best motion picture - drama (Count: 24)
+    best drama motion picture (Count: 3)
+
+Cluster 14:
+    best motion picture comedymusical (Count: 6)
+
+Cluster 12:
+    best miniseries or television movie (Count: 7)
+
+Cluster 4:
+    best mini - series or television movie (Count: 11)
+
+Cluster 17:
+    best director - motion picture (Count: 9)
+
+Cluster 15:
+    best animated feature film (Count: 72)
+

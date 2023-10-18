@@ -1,0 +1,71 @@
+Cluster 16:
+    best television series - comedy or musical,10,1
+
+Cluster 11:
+    best television series drama,37,1
+
+Cluster 10:
+    best screenplay - motion picture,10,1
+
+Cluster 6:
+    best motion picture comedy or musical,73,1
+    best motion picture (comedy or musical,13,1
+
+Cluster 12:
+    best original song in a motion picture,32,1
+    best original song in a motion picture,31,1
+
+Cluster 15:
+    best original score - motion picture,28,1
+
+Cluster 19:
+    best comedy or musical,16,1
+
+Cluster 1:
+    best motion picture drama,172,1
+    best motion picture drama,23,1
+    best motion picture drama,84,1
+
+Cluster 13:
+    best animated feature film,72,1
+
+Cluster 2:
+    best actress in a motion picture,20,1
+    best actress in a motion picture - drama,9,1
+
+Cluster 18:
+    best tv series drama,9,1
+
+Cluster 7:
+    best actor in a motion picture,117,1
+
+Cluster 5:
+    best actress in tv drama,29,1
+    best actress in a tv series, drama,7,1
+
+Cluster 0:
+    best actress in a comedy or musical,15,1
+    best actress in a musical/comedy,5,1
+    best actress in a tv comedy or musical,26,1
+
+Cluster 20:
+    best actress in a miniseries or tv movie,8,1
+
+Cluster 17:
+    best actress in mini-series/tv movie,6,1
+
+Cluster 8:
+    best actress in a comedy,10,1
+
+Cluster 9:
+    best actor motion picture - drama,12,1
+
+Cluster 14:
+    best actor in a comedy or musical,12,1
+
+Cluster 4:
+    best supporting actor, motion picture,44,1
+
+Cluster 3:
+    cecil b. demille award,11,1
+

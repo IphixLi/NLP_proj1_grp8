@@ -1,0 +1,33 @@
+best television series comedy,10,0
+best picture - drama,20,0
+best performance by an actress in a television series - musical or comedy,4,0
+best original song the only original thing from that movie,4,0
+best original score - movie,6,0
+best motion picture comedymusical,6,0
+best mini - series or television movie,11,0
+best supporting actress in a tv movie,7,0
+best picture - drama,19,0
+best mini-series or tv movie,10,0
+best film in the comedy,18,0
+best actress in a dramatic film,7,0
+two golden globes tonight "best animated film" &amp; "outstanding animation in an animated feature film,4,0
+two golden globes tonight "best animated film,15,0
+best tv show drama,1,0
+best picture in the oscars,1,0
+best motion picture - drama,1,0
+best group of bad asses in a motion picture,1,0
+best dramatic role during comedy,1,0
+a fucking best picture like are you kidding me,1,0
+a best picture oscar,1,0
+a best picture golden globe,1,0
+best supporting actress tv series, miniseries, or tv movie,22,0
+best supporting actor, drama,5,0
+best actress tv series comedy,4,0
+best actress in a tv comedy/musical,6,0
+best actress in a motion picture drama,13,0
+best actress in a mini-series/tv movie,13,0
+best actor in comedy/musical,3,0
+best actor in a motion picture drama,10,0
+as expected, best actress, tv drama,5,0
+cecil b. de mille award,3,0
+a lifetime achievement award,1,0
