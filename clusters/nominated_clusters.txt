@@ -1,0 +1,27 @@
+Cluster 8:
+    two golden globes tonight "best animated film" &amp; "outstanding animation in an animated feature film (Count: 4)
+
+Cluster 5:
+    two golden globes tonight "best animated film (Count: 15)
+
+Cluster 7:
+    best tv show drama (Count: 1)
+
+Cluster 3:
+    best song in a motion picture (Count: 1)
+
+Cluster 4:
+    best motion picture - drama (Count: 1)
+
+Cluster 6:
+    best motion pic (comedy/musical (Count: 1)
+
+Cluster 2:
+    best group of bad asses in a motion picture (Count: 1)
+
+Cluster 1:
+    best dramatic role during comedy (Count: 1)
+
+Cluster 0:
+    best actress - musical or comedy (Count: 1)
+

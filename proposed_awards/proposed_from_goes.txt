@@ -1,0 +1,27 @@
+best motion picture drama,84,1
+best tv series - drama,4,0
+best supporting actress tv series, miniseries, or tv movie,22,0
+best supporting actress in a motion picture,11,0
+best supporting actor, motion picture,44,1
+best supporting actor, drama,5,0
+best supporting actor in a tv show, miniseries or tv movie,7,0
+best screenplay - motion picture,3,0
+best original song in a motion picture,3,0
+best miniseries or tv movie,6,0
+best director - motion picture,7,0
+best comedy or musical,3,0
+best animated feature film,9,0
+best actress tv series comedy,4,0
+best actress in a tv series, drama,7,1
+best actress in a tv comedy/musical,6,0
+best actress in a tv comedy or musical,26,1
+best actress in a motion picture drama,13,0
+best actress in a motion picture comedy or musical,5,0
+best actress in a miniseries or tv movie,3,0
+best actress in a mini-series/tv movie,13,0
+best actor tv series - comedy or musical,13,0
+best actor in comedy/musical,3,0
+best actor in a motion picture drama,10,0
+best actor in a motion picture comedy/musical,6,0
+best actor in a miniseries/tv movie,14,0
+as expected, best actress, tv drama,5,0
