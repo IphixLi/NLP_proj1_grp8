@@ -1,0 +1,38 @@
+best television series - comedy or musical,10,1
+best television series drama,37,1
+best screenplay - motion picture,10,1
+best motion picture comedy or musical,73,1
+best original song in a motion picture,32,1
+best original score - motion picture,28,1
+best comedy or musical,16,1
+best motion picture drama,84,1
+best animated feature film,72,1
+best actress in a motion picture - drama,9,1
+best tv series drama,9,1
+best actor in a motion picture,117,1
+best actress in a tv series, drama,7,1
+best actress in a musical/comedy,5,1
+best actress in a miniseries or tv movie,8,1
+best actress in mini-series/tv movie,6,1
+best actress in a comedy,10,1
+best actor motion picture - drama,12,1
+best actor in a comedy or musical,12,1
+best supporting actor, motion picture,44,1
+cecil b. demille award,11,1
+best performance by an actor in a motion picture - drama,25,0
+best motion picture musical comedy,7,0
+best miniseries or television movie,7,0
+best director - motion picture,15,0
+the best tv series drama,4,0
+best actor tv series - comedy or musical,13,0
+best supporting actress in a motion picture,38,0
+best screenplay - motion picture,7,0
+best picture - comedy or musical,6,0
+best actor in a drama,18,0
+best animated feature film,25,0
+best actress in a miniseries or movie,3,0
+best actress in a drama,22,0
+best actor in a mini-series/tv movie,7,0
+best actor in a motion picture comedy/musical,6,0
+best actor in a miniseries/tv movie,14,0
+best original song in a motion picture,3,0
