@@ -3,7 +3,7 @@ import re
 # import nltk
 import collections
 
-f = open("gg2013.json",encoding="utf-8", errors="ignore")
+f = open("yifan/tweets/normal_tweets.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
 track={}
 
@@ -37,7 +37,7 @@ for entry in json_text:
     #print(entry['text'].encode('utf-8'))
     #print(normalize(entry['text']).encode('utf-8'))
 
-    normalized_text=normalize(entry['text'])
+    normalized_text=normalize(entry['new_text'])
     stop_words=['and', ' to',' at', 'goes',' is', 'like', 'not', 'she', 'http', 
             'it','this', 'my', 'i ']
     
