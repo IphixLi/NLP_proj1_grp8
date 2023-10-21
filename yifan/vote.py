@@ -57,12 +57,12 @@ class Vote:
         return self.results
 
 if __name__ == "__main__":
-    tweets = json.load(open("syntax_match1.json"))
+    tweets = json.load(open("nominees?.json"))
     
     v = Vote(awards)
     v.vote_for_awards(awards, tweets)
     res = v.get_results()
     
-    with open("try_vote_syntax1.json", "w") as f:
+    with open("try_vote_nominees.json", "w") as f:
         json.dump(res, f, indent=4)
         
