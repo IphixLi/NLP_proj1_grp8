@@ -1,9 +1,16 @@
-Cluster 2:
-    cecil b. demille award (Count: 11)
+Cluster 4:
+    standing ovation. he is in heaven. &lt;&lt;he is so cool... lol (Count: 1)
 
-Cluster 1:
-    cecil b. de mille award (Count: 3)
+Cluster 3:
+    standing ovation as he wins best director (Count: 1)
 
 Cluster 0:
+    cecil b. demille award (Count: 8)
+    cecil b. de mille award (Count: 3)
+
+Cluster 2:
+    an award (Count: 1)
+
+Cluster 1:
     a lifetime achievement award (Count: 1)
 

@@ -1,38 +1,87 @@
+with ‘girls’:  best per,3,0
 the best tv series drama,4,0
-best actress in a motion picture,20,1
-best tv series drama,9,1
+the best original screenplay,3,0
+the best animated feature film award,6,0
+the best actress in a motion picture,11,1
+his first best director  award,25,1
+golden globes best actress award,17,1
+except patinkin when he's the best part of the show,3,0
+best tv series drama,8,0
 best tv series - comedy or musical,5,0
-best supporting actress in a tv movie,7,0
-best supporting actress in a motion picture,38,0
-best actor in a motion picture,117,1
+best tv series,6,0
+best tv movie,5,0
+best tv drama,15,1
+best tv comedy,3,0
+best television series,6,0
+best supporting actress in a tv show,7,0
+best supporting actress in a motion picture,15,1
+best supporting actress,62,1
+best supporting actor globe,20,1
+best supporting actor,34,1
+best song,23,1
 best screenplay - motion picture,7,0
-best picture - drama,19,0
-best picture - comedy or musical,6,0
-best original song in a motion picture,31,1
-best motion picture (comedy or musical,13,1
-best motion picture drama,23,1
-best mini-series or tv movie,10,0
+best screenplay,19,1
+best picture - drama,19,1
+best picture - comedy or musical,5,0
+best original song while taylor swift gives her stank eye,3,0
+best original song motion picture,3,0
+best original song in a motion picture,9,0
+best original song,15,1
+best original score,7,0
+best motion picture screenplay,14,1
+best motion picture drama,21,1
+best motion picture - musical or comedy,4,0
+best motion picture - comedy or musical,8,0
+best motion picture (drama)  via,3,0
+best motion picture,117,1
+best mini-series or tv movie,8,0
 best lead actor in a drama,3,0
-best film in the comedy,18,0
-best director - motion picture,15,0
-best comedy or musical,4,0
-best animated feature film,25,0
-best actress in tv drama,29,1
-best actress in a comedy or musical,15,1
-best actress in a miniseries or tv movie,8,1
+best film director,14,1
+best facial hair of the night,3,0
+best drama to close the  awards show,4,0
+best director - motion picture,4,1
+best director,64,1
+best comedy/musical movie,5,0
+best comedy series,15,1
+best comedy or musical tv series,8,0
+best best television comedy/musical series,7,0
+best animated film - great year,4,0
+best animated film,16,1
+best animated feature film,13,1
+best animated feature,7,1
+best actress motion picture - comedy or musical,11,1
+best actress in tv drama,22,1
+best actress in musical or comedy,6,0
 best actress in mini-series/tv movie,6,1
-best actress in a tv series - comedy or musical,8,0
-best actress in a musical/comedy,5,1
-best actress in a motion picture - drama,9,1
-best actress in a miniseries or movie,3,0
+best actress in a tv series drama,3,0
+best actress in a tv series - comedy or musical,7,0
+best actress in a musical/comedy,5,0
+best actress in a motion picture,7,1
+best actress in a motion picture - drama,9,0
+best actress in a miniseries or motion picture made,4,0
+best actress in a mini-series or tv movie,6,0
 best actress in a dramatic film,7,0
-best actress in a drama,22,0
-best actress in a comedy,10,1
+best actress in a drama series,8,0
+best actress in a drama,22,1
+best actress in a comedy/musical,3,0
+best actress in a comedy series,12,1
+best actress in a comedy or musical movie,11,1
+best actress in a comedy or musical,5,0
+best actress in a comedy,8,1
+best actress,51,1
+best actor who did not have sex with that woman,11,1
 best actor motion picture - drama,12,1
+best actor in miniseries,3,0
 best actor in a tv movie,3,0
 best actor in a tv drama,4,0
-best actor in a comedy or musical,12,1
-best actor in a motion picture - comedy or musical,3,0
-best actor in a miniseries or tv movie,6,0
+best actor in a television series,5,0
+best actor in a musical or comedy award,8,0
+best actor in a motion picture,70,1
+best actor in a miniseries or motion picture made,5,0
 best actor in a mini-series/tv movie,7,0
-best actor in a drama,18,0
+best actor in a drama,3,0
+best actor in a comedy/musical,3,0
+best actor in a comedy or musical tv series,13,1
+best actor in a comedy or musical,12,1
+best actor - drama  award,3,0
+best actor,72,1

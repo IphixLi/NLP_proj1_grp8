@@ -3,11 +3,11 @@ import re
 # import nltk
 import collections
 
-f = open("../gg2013.json",encoding="utf-8", errors="ignore")
+f = open("gg2013.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
 track={}
 
-d = open("../gg2013answers.json",encoding="utf-8", errors="ignore")
+d = open("gg2013answers.json",encoding="utf-8", errors="ignore")
 award_text=json.load(d)
 # for award in award_text["award_data"].keys():
 #     print(award)
@@ -59,41 +59,54 @@ for entry in json_text:
             split_text=val.split(" ")
             if len(split_text)<4:
                 continue
-            if ('actress' in val or 'actor' in val) and 'performance' not in val:
-                 continue
+            # if ('actress' in val or 'actor' in val) and 'performance' not in val:
+            #      continue
             
-            words_to_check=['picture', 'drama', 'film', 'movie','comedy','musical']
-            if not any(val.lower().strip().endswith(word) for word in words_to_check):
-                continue
+            # words_to_check=['picture', 'drama', 'film', 'movie','comedy','musical']
+            # if not any(val.lower().strip().endswith(word) for word in words_to_check):
+            #     continue
 
             dash_split=val.split("-")
 
+            # if len(dash_split)>1:
+            #     if any(word in dash_split[1] for word in ['picture', 'drama', 'film', 'movie','comedy']):
+            #             val=dash_split[0].strip()+' - '+dash_split[1].strip()
+            #     else:
+            #          val=dash_split[0].strip()
+
             if len(dash_split)>1:
-                if any(word in dash_split[1] for word in ['picture', 'drama', 'film', 'movie','comedy']):
-                        val=dash_split[0].strip()+' - '+dash_split[1].strip()
+                part1=dash_split[0].strip()
+                part2=dash_split[1].strip()
+
+                if len(part1)>0 and len(part2)>0:
+                    val=part1+' - '+part2
+                elif len(part1)>0:
+                    val=part1
                 else:
-                     val=dash_split[0].strip()
+                    val=part2
 
             for_split=val.split(" for")
 
                      
-            if len(for_split)>1:
-                if  'television' in for_split[1]:
-                    val=for_split[0].strip()+' for '+for_split[1].strip()
-                else:
-                    val=for_split[0].strip()
-            tv_pattern = r'tv'
-            val=re.sub(tv_pattern, 'television', val)
+            # if len(for_split)>1:
+            #     if  'television' in for_split[1]:
+            #         val=for_split[0].strip()+' for '+for_split[1].strip()
+            #     else:
+            #         val=for_split[0].strip()
 
-            if not any(word in val for word in ['picture','musical','video', 'drama', 'film', 'movie','comedy']):
-                continue
+            val=for_split[0].strip()
+            # tv_pattern = r'tv'
+            # val=re.sub(tv_pattern, 'television', val)
+
+            # if not any(word in val for word in ['picture','musical','video', 'drama', 'film', 'movie','comedy']):
+            #     continue
 
             if val not in track:
                 track[val]=0
             track[val]+=1
             #print(val.encode('utf-8'))
             
-sorted_track=sorted(track.items(), key=lambda kv: kv[0], reverse=True)
+sorted_track=sorted(track.items(), key=lambda kv: kv[1], reverse=True)
 filtered_data = {key: value for key, value in sorted_track if value > 2 and len(key.split(" "))>3}
 sorted_dict = collections.OrderedDict(filtered_data)
 

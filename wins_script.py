@@ -6,13 +6,16 @@ f = open("gg2013.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
 track={}
 def strip_non_alphabetical(input_string):
-    # Remove non-alphabetical characters from the start
-    start_stripped = input_string.lstrip('0123456789!@#$%^&*()_+-=[]{}|;:,.<>?/"\\\' ')
+    pattern = r'^[a-zA-Z-\s].*[a-zA-Z-\s]$'
 
-    # Remove non-alphabetical characters from the end
-    end_stripped = start_stripped.rstrip('0123456789!@#$%^&*()_+-=[]{}|;:,.<>?/"\\\' ')
-
-    return end_stripped
+    # Use re.search() to find the matching pattern in the input text
+    match = re.search(pattern, input_string)
+    
+    if match:
+        return match.group()
+    else:
+        return ""
+    
 def normalize(text):
     pattern = r'^RT @\w+: '
     cleaned_text = re.sub(pattern, '', text)
@@ -51,23 +54,18 @@ for entry in json_text:
         split_res = re.split(pattern, nominated_corpus)
 
         for i in range(len(split_res)):
-            stop_pattern='|'.join([re.escape(s) for s in stop_words])
-            if any(word in split_res[i] for word in ['picture', 'drama', 'film', 'movie','comedy','musical']):
+            if any(word in split_res[i] for word in ['award']):
                     val=split_res[i]
-                    if i<len(split_res)-1 and 'television' in split_res[i+1]:
-                         val=val.strip()+' for '+'television'
-                    stripped=strip_non_alphabetical(val)
 
-                    
-                    words_to_check=['picture', 'drama', 'film', 'movie','comedy','musical']
-                    if not any(stripped.lower().strip().endswith(word) for word in words_to_check):
-                        continue
+            else:
+                val=split_res[0]
 
-                    if stripped not in track:
-                        track[stripped]=0
-                    track[stripped]+=1
+        stripped=strip_non_alphabetical(val)
+        if stripped not in track:
+                track[stripped]=0
+        track[stripped]+=1
                          
-                    print(stripped.encode('latin-1', errors='ignore').decode('unicode_escape').strip())
+        print(stripped.encode('latin-1', errors='ignore').decode('unicode_escape').strip())
 
 sorted_track=sorted(track.items(), key=lambda kv: kv[0], reverse=True)
 filtered_data = {key.strip(): value for key, value in sorted_track if value > 2 and 'best' in key and len(key.split(" "))>3}

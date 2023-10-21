@@ -1,85 +1,1196 @@
-Cluster 6:
-    “: best motion picture drama (Count: 6)
-    best motion picture drama (Count: 84)
+Cluster 382:
+    and the golden globes to "best twitter icon ever"  (Count: 1)
 
-Cluster 17:
-    best tv series - drama (Count: 4)
+Cluster 356:
+    and   (Count: 1)
 
-Cluster 19:
-    best supporting actress tv series, miniseries, or tv movie (Count: 22)
+Cluster 381:
+    biggest zinger so far (Count: 1)
 
-Cluster 24:
-    best supporting actress in a motion picture (Count: 11)
+Cluster 380:
+    first zinger  (Count: 1)
 
-Cluster 0:
-    best supporting actor, motion picture (Count: 44)
-    best supporting actor in a motion picture (Count: 5)
+Cluster 379:
+    when the camera  (Count: 1)
 
-Cluster 20:
-    best supporting actor, drama (Count: 5)
+Cluster 378:
+    and the   (Count: 1)
 
-Cluster 21:
-    best supporting actor in a tv show, miniseries or tv movie (Count: 7)
+Cluster 377:
+    and first globe  (Count: 1)
 
-Cluster 18:
-    best screenplay - motion picture (Count: 3)
+Cluster 376:
+    best supporting actor in a motion picture  (Count: 1)
 
-Cluster 15:
-    best original song in a motion picture (Count: 3)
+Cluster 375:
+    best supporting actor in a movie  (Count: 1)
 
-Cluster 25:
-    best miniseries or tv movie (Count: 6)
+Cluster 374:
+    first award of the night: best supporting actor  (Count: 1)
 
-Cluster 26:
-    best director - motion picture (Count: 7)
+Cluster 41:
+    the  award  (Count: 1)
+    the award  (Count: 1)
 
-Cluster 16:
-    best comedy or musical (Count: 3)
-
-Cluster 8:
-    best animated feature film (Count: 9)
-
-Cluster 23:
-    best actress tv series comedy (Count: 4)
-
-Cluster 1:
-    best actress in a tv series, drama (Count: 7)
-    best actress in a tv drama (Count: 3)
-
-Cluster 12:
-    best actress in a tv comedy/musical (Count: 6)
-
-Cluster 2:
-    best actress in a tv comedy or musical (Count: 26)
-    best actress in a comedy or musical (Count: 3)
-
-Cluster 11:
-    best actress in a motion picture drama (Count: 13)
+Cluster 373:
 
 Cluster 9:
-    best actress in a motion picture comedy or musical (Count: 5)
+    best supporting actor  (Count: 1)
+    bueh! si es como en inglorious basterds... “: best supporting actor  (Count: 1)
 
-Cluster 14:
-    best actress in a miniseries or tv movie (Count: 3)
+Cluster 372:
+    golden globes  (Count: 1)
 
-Cluster 22:
-    best actress in a mini-series/tv movie (Count: 13)
+Cluster 371:
+    best supporting actor, motion picture  (Count: 1)
+
+Cluster 370:
+    the first   (Count: 1)
+
+Cluster 369:
+    best per (Count: 1)
 
 Cluster 10:
-    best actor tv series - comedy or musical (Count: 13)
+    first award of the night  (Count: 1)
+    first  award of the night  (Count: 1)
 
-Cluster 5:
-    best actor in comedy/musical (Count: 3)
+Cluster 368:
+    golden globes: best supporting actor award  (Count: 1)
+
+Cluster 367:
+     (Count: 1)
+
+Cluster 366:
+    django unchained off to a good start rt : best supporting actor, motion picture  (Count: 1)
+
+Cluster 365:
+    and the most boring  speech  (Count: 1)
+
+Cluster 364:
+    and the awk award  (Count: 1)
+
+Cluster 363:
+    first award  (Count: 1)
+
+Cluster 362:
+    first award is  (Count: 1)
+
+Cluster 361:
+    best supporting actress  (Count: 1)
+
+Cluster 360:
+    best supporting actress, tv  (Count: 1)
+
+Cluster 359:
+    and the golden globes  (Count: 1)
+
+Cluster 358:
+    best supporting actress in a tv movie, series, or miniseries  (Count: 1)
+
+Cluster 357:
+    best supporting actor, drama  (Count: 1)
+
+Cluster 355:
+    supporting actor in a motion picture  (Count: 1)
 
 Cluster 4:
-    best actor in a motion picture drama (Count: 10)
+    supporting actress in tv  (Count: 1)
 
-Cluster 7:
-    best actor in a motion picture comedy/musical (Count: 6)
+Cluster 354:
+    best supporting actress in a television series  (Count: 1)
 
-Cluster 3:
-    best actor in a miniseries/tv movie (Count: 14)
+Cluster 352:
+    way to go django unchained kicks off the 1st award of the night  (Count: 1)
+
+Cluster 351:
+    best supporting actress in tv series, mini-series or tv movie  (Count: 1)
+
+Cluster 350:
+    best supporting actress tv series, miniseries, or tv movie  (Count: 1)
+
+Cluster 349:
+    best supporting actress in a tv show, miniseries or tv movie  (Count: 1)
+
+Cluster 64:
+    and the award  (Count: 1)
+    and the  award  (Count: 1)
+    and the  award   (Count: 1)
+
+Cluster 348:
+    best supporting actress in a tv series  (Count: 1)
+
+Cluster 347:
+    and the first golden globe  (Count: 1)
+
+Cluster 346:
+    supporting actress in a series, miniseries, or tv movie  (Count: 1)
+
+Cluster 345:
+    and the winner  (Count: 1)
+
+Cluster 344:
+    best mini-series or tv  (Count: 1)
+
+Cluster 343:
+    best movie/miniseries  (Count: 1)
+
+Cluster 20:
+    best miniseries or tv movie  (Count: 1)
+    best mini series or tv movie  (Count: 1)
+
+Cluster 342:
+    the golden globe  (Count: 1)
+
+Cluster 341:
+    television miniseries or movie  (Count: 1)
+
+Cluster 340:
+    just found out clint eastwoods daughter  (Count: 1)
+
+Cluster 339:
+    best mini-series/tv movie  (Count: 1)
+
+Cluster 337:
+    miniseries or tv movie  (Count: 1)
+
+Cluster 336:
+    best miniseries or tv movie award  (Count: 1)
+
+Cluster 19:
+    best actress in a mini series or tv movie  (Count: 1)
+    best actress in a miniseries or tv movie  (Count: 1)
+
+Cluster 334:
+    leading actress in a television miniseries or movie  (Count: 1)
+
+Cluster 75:
+    rt : best supporting actor, motion picture  (Count: 1)
+    rt  best supporting actor, motion picture  (Count: 1)
+
+Cluster 333:
+    and globe  (Count: 1)
+
+Cluster 332:
+    my vote  (Count: 1)
+
+Cluster 331:
+    best actress in a mini-series/tv movie  (Count: 1)
+
+Cluster 329:
+    best dressed  (Count: 1)
+
+Cluster 328:
+    and awkward moment of pretension  (Count: 1)
+
+Cluster 327:
+    best turtle  (Count: 1)
+
+Cluster 326:
+    first groan of the night  (Count: 1)
+
+Cluster 325:
+    first wrap-it-up award  (Count: 1)
+
+Cluster 324:
+    best dressed on my list  (Count: 1)
+
+Cluster 322:
+    and the golden globe  (Count: 1)
+
+Cluster 321:
+    best actor  (Count: 1)
+
+Cluster 320:
+    best actor in a tv series or drama  (Count: 1)
+
+Cluster 319:
+    best tv drama actor  (Count: 1)
+
+Cluster 130:
+    best actor, drama  (Count: 1)
+    best actor drama  (Count: 1)
+
+Cluster 318:
+    best actor in a tv drama award  (Count: 1)
+
+Cluster 317:
+    best mini series or to movie  the globe  (Count: 1)
+
+Cluster 316:
+    and 2013's golden globe awards  (Count: 1)
+
+Cluster 315:
+    best actor tv series drama  (Count: 1)
+
+Cluster 314:
+    golden globes: best actor tv drama award  (Count: 1)
+
+Cluster 313:
+    best actor in tv drama  (Count: 1)
+
+Cluster 312:
+    best supporting role tonight  (Count: 1)
+
+Cluster 311:
+    first  win of the night  (Count: 1)
+
+Cluster 310:
+    the best tv series (drama)  (Count: 1)
+
+Cluster 8:
+    best tv series- drama  (Count: 1)
+    best tv series  (Count: 1)
+
+Cluster 309:
+    best actor in tv series-drama  (Count: 1)
+
+Cluster 308:
+    best drama series  (Count: 1)
+
+Cluster 307:
+    and we have our first teleprompter fail of the evening leading into best drama series. but it  (Count: 1)
+
+Cluster 306:
+    best tv drama  (Count: 1)
+
+Cluster 36:
+    best tv series drama  (Count: 1)
+    best tv series - drama  (Count: 1)
+
+Cluster 304:
+    and tv series, drama  (Count: 1)
+
+Cluster 302:
+    when they just said the award  (Count: 1)
+
+Cluster 301:
+    television series, drama  (Count: 1)
+
+Cluster 300:
+    best television series actor  (Count: 1)
+
+Cluster 298:
+    best political shart  (Count: 1)
+
+Cluster 297:
+    the winner of the "people that can blow me while being deported award"  (Count: 1)
+
+Cluster 296:
+    worst on screen chemistry also  (Count: 1)
+
+Cluster 295:
+    biggest show": best tv series - drama  (Count: 1)
+
+Cluster 294:
+    let us watch it lol rt : best television drama  (Count: 1)
+
+Cluster 293:
+    best tv drama series  (Count: 1)
+
+Cluster 292:
+    the best awkward moment  (Count: 1)
+
+Cluster 291:
+    robert downey jr. nuzzling mel gibson's face as the   (Count: 1)
+
+Cluster 290:
+    golden globe  (Count: 1)
+
+Cluster 289:
+    best original score  (Count: 1)
+
+Cluster 288:
+    the  best original score award  (Count: 1)
+
+Cluster 287:
+    and "best sound"  (Count: 1)
+
+Cluster 286:
+    best use of a large doily  (Count: 1)
+
+Cluster 285:
+    best musical score  (Count: 1)
+
+Cluster 284:
+    algun dia dire “and the golden globes, screen actor guild, oscar  (Count: 1)
+
+Cluster 31:
+    best original song  (Count: 1)
+    best original song (Count: 1)
+
+Cluster 283:
+    best original song award  (Count: 1)
+
+Cluster 23:
+    best original song - motion picture  (Count: 1)
+    best original song motion picture  (Count: 1)
+    rt “:  best original song motion picture  (Count: 1)
+
+Cluster 282:
+    best original sing- motion picture  (Count: 1)
+
+Cluster 281:
+    and best original song  (Count: 1)
+
+Cluster 280:
+    adele  (Count: 1)
+
+Cluster 279:
+    who  (Count: 1)
+
+Cluster 278:
+    in a stacked best original song category, the golden globe  (Count: 1)
+
+Cluster 277:
+    best speech award  (Count: 1)
+
+Cluster 276:
+    the less known the person is receiving an award, the longer the speech...up next best bathroom (Count: 1)
+
+Cluster 275:
+    best song  (Count: 1)
+
+Cluster 274:
+    best swallowed rooster  (Count: 1)
+
+Cluster 273:
+    best original song in a motion picture  (Count: 1)
+
+Cluster 272:
+    and best acceptance speech  (Count: 1)
+
+Cluster 271:
+    winner  (Count: 1)
+
+Cluster 270:
+    i love that adele  (Count: 1)
+
+Cluster 269:
+    best  acceptance speech so far  (Count: 1)
+
+Cluster 268:
+    the gg  (Count: 1)
+
+Cluster 267:
+    wow,  (Count: 1)
+
+Cluster 266:
+    best speech of the night  (Count: 1)
+
+Cluster 265:
+    of course my family  (Count: 1)
+
+Cluster 264:
+    and the best golden globes acceptance speech  (Count: 1)
+
+Cluster 263:
+    and the first sore loser award of the evening  (Count: 1)
+
+Cluster 260:
+    best outfit of the night  (Count: 1)
+
+Cluster 259:
+    the top honor  (Count: 1)
+
+Cluster 258:
+    best actor in a tv miniseries  (Count: 1)
+
+Cluster 257:
+    everyone in these  is so glamorous! my love  (Count: 1)
+
+Cluster 256:
+    best actor in a miniseries/tv movie  (Count: 1)
+
+Cluster 255:
+    and the most boring acceptance speech award  (Count: 1)
+
+Cluster 254:
+    anddddd the award  (Count: 1)
+
+Cluster 253:
+    best affair ever  (Count: 1)
+
+Cluster 252:
+    and the speech of the night  (Count: 1)
+
+Cluster 251:
+    best tv movie or miniseries actor  (Count: 1)
+
+Cluster 250:
+    yeaa  rt : golden globes best original song  (Count: 1)
+
+Cluster 249:
+    best real life quote award  (Count: 1)
+
+Cluster 248:
+    he was awesome in it! rt : best actor in a miniseries/tv movie  (Count: 1)
+
+Cluster 247:
+    presenter of the year  (Count: 1)
+
+Cluster 246:
+    best accessory of the night  (Count: 1)
+
+Cluster 245:
+    best original score in a motion picture  (Count: 1)
+
+Cluster 244:
+    first time i'm laughing (Count: 1)
+
+Cluster 243:
+    congratulations best actress comedy  (Count: 1)
+
+Cluster 242:
+    the golden globe best per (Count: 1)
+
+Cluster 241:
+    best punchline by an actress  (Count: 1)
+
+Cluster 240:
+    best actress comedy or musical  (Count: 1)
+
+Cluster 11:
+    best actress  (Count: 1)
+    i wanted her to win, yay!! “: best actress  (Count: 1)
+
+Cluster 239:
+    best actress in a musical or comedy  (Count: 1)
+
+Cluster 238:
+    rt : biggest moment of the night on twitter so far  (Count: 1)
+
+Cluster 237:
+    and tackiest statement of the night  (Count: 1)
+
+Cluster 236:
+    toldja! supporting actress  (Count: 1)
+
+Cluster 235:
+    mustache of the night  (Count: 1)
+
+Cluster 234:
+    best actress motion picture comedy or musical  (Count: 1)
+
+Cluster 233:
+    best actress in a comedy or musical  (Count: 1)
+
+Cluster 232:
+    biggest moment of the night on twitter so far  (Count: 1)
 
 Cluster 13:
-    as expected, best actress, tv drama (Count: 5)
+    best actress in a motion picture (comedy or musical)  (Count: 1)
+    best actress in a motion picture comedy or musical  (Count: 1)
+
+Cluster 231:
+    best comedic combo  (Count: 1)
+
+Cluster 230:
+    best actress in a motion picture musical/comedy  (Count: 1)
+
+Cluster 229:
+    best acceptance speech  (Count: 1)
+
+Cluster 227:
+    best presenters ever  (Count: 1)
+
+Cluster 226:
+    funniest, best presenters so far  (Count: 1)
+
+Cluster 225:
+    my look of the    (Count: 1)
+
+Cluster 224:
+    huge thanks  (Count: 1)
+
+Cluster 223:
+    best supporting actor in tv  (Count: 1)
+
+Cluster 222:
+    best supporting actor in a tv show, miniseries or tv movie award  (Count: 1)
+
+Cluster 221:
+    supporting actress in a motion picture  (Count: 1)
+
+Cluster 220:
+    best supporting actor in a tv show, miniseries or tv movie  (Count: 1)
+
+Cluster 12:
+    best supporting actress in a motion picture  (Count: 1)
+    no surprise. “: best supporting actress in a motion picture  (Count: 1)
+
+Cluster 219:
+    best supporting handjob  (Count: 1)
+
+Cluster 218:
+    best supporting actress in a motion picture drama  (Count: 1)
+
+Cluster 217:
+    best supporting actress in motion picture  (Count: 1)
+
+Cluster 53:
+    best supporting actress motion picture  (Count: 1)
+    best supporting actress motion picture   (Count: 1)
+
+Cluster 216:
+    best supporting hug  (Count: 1)
+
+Cluster 213:
+    best supporting pageboy  (Count: 1)
+
+Cluster 212:
+    best supporting actor in a tv series or movie  (Count: 1)
+
+Cluster 211:
+    hurrah! : supporting actress in a motion picture  (Count: 1)
+
+Cluster 210:
+    and the greench of the golden globes  (Count: 1)
+
+Cluster 209:
+    the never ending speech  (Count: 1)
+
+Cluster 208:
+    sweetest, most heartfelt acceptance speech  (Count: 1)
+
+Cluster 207:
+    best editing  (Count: 1)
+
+Cluster 206:
+    annnnnd award  (Count: 1)
+
+Cluster 205:
+    rt: best original song (Count: 1)
+
+Cluster 5:
+    best screenplay  (Count: 1)
+    holy s**t!best screenplay  (Count: 1)
+
+Cluster 204:
+    screenplay  (Count: 1)
+
+Cluster 203:
+    globe  (Count: 1)
+
+Cluster 202:
+    best screenplay in a motion picture  (Count: 1)
+
+Cluster 201:
+    best motion picture screenplay  (Count: 1)
+
+Cluster 26:
+    award  (Count: 1)
+    -award  (Count: 1)
+
+Cluster 200:
+    love it! rt : best screenplay  (Count: 1)
+
+Cluster 24:
+    best screenplay - motion picture  (Count: 1)
+    best screenplay motion picture  (Count: 1)
+
+Cluster 198:
+    o sotaque dele falando "and the golden globes  (Count: 1)
+
+Cluster 197:
+    motion picture screenplay  (Count: 1)
+
+Cluster 196:
+    surprise! best screenplay  (Count: 1)
+
+Cluster 194:
+    and best mini-actor in a series  (Count: 1)
+
+Cluster 193:
+    best song in a motion picture (Count: 1)
+
+Cluster 47:
+    best actor in a tv series comedy or musical  (Count: 1)
+    best actor in a tv series - comedy or musical  (Count: 1)
+
+Cluster 192:
+    best actor tv comedy  (Count: 1)
+
+Cluster 190:
+    ainda tô meio hipnotizada lembrando do rob falando com todo aquele fodido sotaque britânico "and the golden globes  (Count: 1)
+
+Cluster 189:
+    best actor in a comedy  (Count: 1)
+
+Cluster 188:
+    best actor in a television series in a comedy or musical  (Count: 1)
+
+Cluster 187:
+    best actor in a tv comedy or musical  (Count: 1)
+
+Cluster 186:
+    and the prize  (Count: 1)
+
+Cluster 185:
+    and the fashion credit  (Count: 1)
+
+Cluster 184:
+    golden globes 2013 adele wins best original song  (Count: 1)
+
+Cluster 183:
+    best actor tv series - comedy or musical  (Count: 1)
+
+Cluster 182:
+    best  (Count: 1)
+
+Cluster 181:
+    and best screenplay  (Count: 1)
+
+Cluster 180:
+    best actor in a tv series  (Count: 1)
+
+Cluster 0:
+    did arnold just say “the gordon globe  (Count: 1)
+    lmao! rt  did arnold just say “the gordon globe  (Count: 1)
+    i heard that too lol rt :  did arnold just say “the gordon globe  (Count: 1)
+
+Cluster 15:
+    best speech  (Count: 1)
+    best speech (Count: 1)
+    best  speech  (Count: 1)
+
+Cluster 178:
+    as expected, best actress, tv drama  (Count: 1)
+
+Cluster 177:
+    best tv drama actress  (Count: 1)
+
+Cluster 353:
+    and best actress  (Count: 1)
+
+Cluster 175:
+    best actress in a tv drama  (Count: 1)
+
+Cluster 174:
+    best actress tv series drama  (Count: 1)
+
+Cluster 173:
+    winner of best tan by an actress  (Count: 1)
+
+Cluster 172:
+    best i'm a bi-polar cia agent who just had a baby in real life a month ago &amp; am rocking this red dress  (Count: 1)
+
+Cluster 16:
+    best actress in a tv series, drama,  (Count: 1)
+    best actress in a tv series - drama  (Count: 1)
+
+Cluster 171:
+    don't you mean worst, ickiest spray tan? rt : winner of best tan by an actress  (Count: 1)
+
+Cluster 170:
+    best drama tv actress  (Count: 1)
+
+Cluster 169:
+    in honor of the golden globes, the award  (Count: 1)
+
+Cluster 338:
+    worst tattoo on a human body  (Count: 1)
+
+Cluster 17:
+    best animated feature film  (Count: 1)
+    best animated feature film:)  (Count: 1)
+
+Cluster 335:
+    best animation  (Count: 1)
+
+Cluster 166:
+    best animated feature film award  (Count: 1)
+
+Cluster 165:
+    of course it  (Count: 1)
+
+Cluster 330:
+    best animated feature  (Count: 1)
+
+Cluster 163:
+    animation  (Count: 1)
+
+Cluster 162:
+    the most times we can say the movie title in the acceptance speech award  (Count: 1)
+
+Cluster 1:
+    te odio   rt :   (Count: 1)
+    rt:" :   (Count: 1)
+    rt :   (Count: 1)
+
+Cluster 323:
+    golden globes best original song  (Count: 1)
+
+Cluster 160:
+    and best animated film globe  (Count: 1)
+
+Cluster 159:
+    best animated film  (Count: 1)
+
+Cluster 158:
+    leading actor in a television miniseries or movie  (Count: 1)
+
+Cluster 157:
+    and worst joke of the night  (Count: 1)
+
+Cluster 156:
+    best disapperaing act  (Count: 1)
+
+Cluster 155:
+    best actress in a tv comedy/musical  (Count: 1)
+
+Cluster 154:
+    best actress in a tv comedy  (Count: 1)
+
+Cluster 153:
+    best actress in tv comedy/musical  (Count: 1)
+
+Cluster 305:
+    best actress in a comedy  (Count: 1)
+
+Cluster 303:
+    actress in a comedy series  (Count: 1)
+
+Cluster 150:
+    best actress, comedy  (Count: 1)
+
+Cluster 299:
+    best actress in a tv series comedy/musical  (Count: 1)
+
+Cluster 148:
+    best actress in a tv comedy or musical  (Count: 1)
+
+Cluster 146:
+    best actres in a tv series - comedy  (Count: 1)
+
+Cluster 145:
+    best tv comedy actress  (Count: 1)
+
+Cluster 144:
+    nice! rt : best actress in a tv comedy or musical  (Count: 1)
+
+Cluster 143:
+    best tv series actress in a comedy or musical  (Count: 1)
+
+Cluster 142:
+    best actress in a comedy or musical series  (Count: 1)
+
+Cluster 141:
+    heck yes. rt : best actress in a tv comedy or musical  (Count: 1)
+
+Cluster 139:
+    best tv series actress in comedy or musical  (Count: 1)
+
+Cluster 138:
+    best actress tv series comedy  (Count: 1)
+
+Cluster 137:
+    my 2000 tweet  (Count: 1)
+
+Cluster 136:
+    love her!  rt : best actress in a tv comedy or musical  (Count: 1)
+
+Cluster 135:
+    best actress in a television series drama  (Count: 1)
+
+Cluster 134:
+    cecil b. demille award (lifetime achievement)  (Count: 1)
+
+Cluster 133:
+    love it :d rt  : best animated feature film  (Count: 1)
+
+Cluster 132:
+    jodie foster comes out of the closet in the most spectacular way. she  (Count: 1)
+
+Cluster 131:
+    the longest speech in golden globe history  (Count: 1)
+
+Cluster 128:
+    best series of non sequiturs  (Count: 1)
+
+Cluster 127:
+    cecille b de mille awards  (Count: 1)
+
+Cluster 126:
+    and the cecil b demented award  (Count: 1)
+
+Cluster 125:
+    the most awkward uncom (Count: 1)
+
+Cluster 124:
+    best director  (Count: 1)
+
+Cluster 123:
+    thank.goodness. rt  best director  (Count: 1)
+
+Cluster 122:
+    and the best director  (Count: 1)
+
+Cluster 121:
+    best director of a motion picture  (Count: 1)
+
+Cluster 120:
+    most awkward/longest speech in history  (Count: 1)
+
+Cluster 119:
+    best director - motion picture  (Count: 1)
+
+Cluster 118:
+    director  (Count: 1)
+
+Cluster 117:
+    and worst dressed  (Count: 1)
+
+Cluster 116:
+    best tv series comedy or musical  (Count: 1)
+
+Cluster 115:
+    i can not contain my glee!! best director  (Count: 1)
+
+Cluster 114:
+    best television series, comedy or musical  (Count: 1)
+
+Cluster 228:
+    best tv comedy  (Count: 1)
+
+Cluster 112:
+    best tv comedy/musical  (Count: 1)
+
+Cluster 111:
+    best comedy or musical  (Count: 1)
+
+Cluster 110:
+    tv comedy  (Count: 1)
+
+Cluster 109:
+    and best director  (Count: 1)
+
+Cluster 108:
+    and the best tv series  (Count: 1)
+
+Cluster 215:
+    and the best theme of the night  (Count: 1)
+
+Cluster 214:
+    golden globes: best tv series comedy award  (Count: 1)
+
+Cluster 105:
+    best tv series - comedy  (Count: 1)
+
+Cluster 104:
+    best tv comedy or musical  (Count: 1)
+
+Cluster 103:
+    tonight  (Count: 1)
+
+Cluster 102:
+    congratz beautiful! rt : best actress  (Count: 1)
+
+Cluster 101:
+    best comedy series  (Count: 1)
+
+Cluster 100:
+    best direction  (Count: 1)
+
+Cluster 199:
+    best comedy  (Count: 1)
+
+Cluster 98:
+    best actor in a movie, musical or comedy  (Count: 1)
+
+Cluster 195:
+    best actor in a comedy film  (Count: 1)
+
+Cluster 96:
+    best actor in a motion picture comedy/musical  (Count: 1)
+
+Cluster 383:
+    golden globe actually  (Count: 1)
+
+Cluster 94:
+    actor in a motion picture comedy/musical  (Count: 1)
+
+Cluster 93:
+    best actor, comedy/musical  (Count: 1)
+
+Cluster 92:
+    best actor musical or comedy  (Count: 1)
+
+Cluster 91:
+    best actor in comedy/musical  (Count: 1)
+
+Cluster 90:
+    and the winner of best actor in a motion picture  (Count: 1)
+
+Cluster 179:
+    best actor in motion picture  (Count: 1)
+
+Cluster 88:
+    yay! best actor in a motion picture, comedy/musical  (Count: 1)
+
+Cluster 176:
+    best actor in comedy or musical  (Count: 1)
+
+Cluster 86:
+    cutest speech award  (Count: 1)
+
+Cluster 85:
+    jennifer gardner is so adorable oh my god!!! new fave celebrity couple  (Count: 1)
+
+Cluster 84:
+    best thank you to a spouse  (Count: 1)
+
+Cluster 38:
+    best comedy/musical  (Count: 1)
+    best comedy/musical   (Count: 1)
+
+Cluster 167:
+    best motion picture musical or comedy  (Count: 1)
+
+Cluster 82:
+    best movie - comedy/musical  (Count: 1)
+
+Cluster 37:
+    best motion picture - comedy or musical  (Count: 1)
+    best motion picture comedy or musical  (Count: 1)
+    best motion picture, comedy or musical  (Count: 1)
+
+Cluster 3:
+    best motion picture- comedy or musical  (Count: 1)
+    best motion picture  (Count: 1)
+
+Cluster 164:
+    pronounced "les miserabbluhhh" acc to hoffman rt  best motion picture (comedy or musical)  (Count: 1)
+
+Cluster 161:
+    best comedy/musical motion picture  (Count: 1)
+
+Cluster 79:
+    best pic  (Count: 1)
+
+Cluster 77:
+    and best movie  (Count: 1)
+
+Cluster 151:
+    best picture, musical or comedy,  (Count: 1)
+
+Cluster 149:
+    and the coveted  award  (Count: 1)
+
+Cluster 147:
+    i haven't watched argo yet. now i have to watch it. best director  (Count: 1)
+
+Cluster 18:
+    best motion picture, comedy/musical  (Count: 1)
+    best motion picture - comedy/musical  (Count: 1)
+
+Cluster 71:
+    best picture: comedy or musical  (Count: 1)
+
+Cluster 70:
+    best musical/comedy  (Count: 1)
+
+Cluster 140:
+    still to come: award  (Count: 1)
+
+Cluster 7:
+    best actress (drama)  (Count: 1)
+    best actress drama  (Count: 1)
+    best actress - drama  (Count: 1)
+
+Cluster 6:
+    best actress, motion picture drama  (Count: 1)
+    best actress (motion picture - drama)  (Count: 1)
+    best actress, motion picture/drama  (Count: 1)
+    best actress motion picture drama  (Count: 1)
+
+Cluster 68:
+    best actress in a motion picture drama  (Count: 1)
+
+Cluster 66:
+    wow!!! thanks rt : best actor in a miniseries/tv movie  (Count: 1)
+
+Cluster 65:
+    most sincere/best speech award  (Count: 1)
+
+Cluster 129:
+    leading actress in a motion picture, drama  (Count: 1)
+
+Cluster 25:
+    best actor in a motion picture drama  (Count: 1)
+    best actor in a motion picture, drama  (Count: 1)
+
+Cluster 62:
+    the best actor drama  (Count: 1)
+
+Cluster 61:
+    best actress in a motion picture  (Count: 1)
+
+Cluster 59:
+    leading actor in a motion picture, drama  (Count: 1)
+
+Cluster 58:
+    of course best actor  (Count: 1)
+
+Cluster 57:
+    and of course best motion picture - drama  (Count: 1)
+
+Cluster 113:
+    best actor, motion picture drama  (Count: 1)
+
+Cluster 55:
+    best actor in a drama  (Count: 1)
+
+Cluster 106:
+    yippee! best actor  (Count: 1)
+
+Cluster 51:
+    and best hair  (Count: 1)
+
+Cluster 99:
+    they should play that music throughout the speeches. it  (Count: 1)
+
+Cluster 97:
+    and the best actor  (Count: 1)
+
+Cluster 191:
+    the winner  (Count: 1)
+
+Cluster 46:
+    long live mr.president!!rt : best actor in a motion picture drama  (Count: 1)
+
+Cluster 45:
+    best actor (film/drama)  (Count: 1)
+
+Cluster 89:
+    clooney didn't even look (Count: 1)
+
+Cluster 87:
+    best movie award  (Count: 1)
+
+Cluster 42:
+    best drama  (Count: 1)
+
+Cluster 168:
+    and best picture - drama  (Count: 1)
+
+Cluster 2:
+    best motion picture - drama  (Count: 1)
+    best motion picture drama  (Count: 1)
+    best motion picture - drama -  (Count: 1)
+    no oscar nomination? the oscar academy sucks! rt “: best motion picture drama  (Count: 1)
+    gr8 movie! “: best motion picture drama  (Count: 1)
+
+Cluster 81:
+    motion picture, drama  (Count: 1)
+
+Cluster 80:
+    the gang  (Count: 1)
+
+Cluster 78:
+    i liked a  video  [hd] golden globes 2013: adele wins best original song  (Count: 1)
+
+Cluster 76:
+    the final award: best film drama  (Count: 1)
+
+Cluster 73:
+    best picture  (Count: 1)
+
+Cluster 72:
+    best picture drama  (Count: 1)
+
+Cluster 69:
+    standing ovation: the   (Count: 1)
+
+Cluster 67:
+    final award of the night, best picture drama,   (Count: 1)
+
+Cluster 32:
+    drama motion picture  (Count: 1)
+
+Cluster 63:
+    and the oscars  (Count: 1)
+
+Cluster 30:
+    best drama film is  (Count: 1)
+
+Cluster 60:
+    its over! final award of the night  (Count: 1)
+
+Cluster 28:
+    argo wins best drama. just  (Count: 1)
+
+Cluster 56:
+    very deserving!!!! “: best actor in motion picture drama  (Count: 1)
+
+Cluster 107:
+    best speech yet  (Count: 1)
+
+Cluster 52:
+    what the hell..channel 3  (Count: 1)
+
+Cluster 50:
+    best director &amp; best picture  (Count: 1)
+
+Cluster 95:
+    oh hey, julia! aaaaand best motion picture - drama  (Count: 1)
+
+Cluster 22:
+    and now the best motion picture  (Count: 1)
+
+Cluster 44:
+    best  analysis  (Count: 1)
+
+Cluster 83:
+    rt : best motion picture drama  (Count: 1)
+
+Cluster 39:
+    love this! rt  : best motion picture in drama  (Count: 1)
+
+Cluster 152:
+    best dressed of the night (Count: 1)
+
+Cluster 35:
+    yay!  ": best motion picture, comedy/musical  (Count: 1)
+
+Cluster 33:
+    maddd ": best motion picture drama  (Count: 1)
+
+Cluster 29:
+    all tv winners go to cable shows (Count: 1)
+
+Cluster 27:
+    i think the real award  (Count: 1)
+
+Cluster 54:
+    this is why i don't watch these award shows..i gave argo a b- lol ": best motion picture drama  (Count: 1)
+
+Cluster 49:
+    well deserved!!! rt : best motion picture drama  (Count: 1)
+
+Cluster 43:
+    cc  *uhuk* rt cosmoindonesia: finally   (Count: 1)
+
+Cluster 40:
+    and the least surprising award of the night  (Count: 1)
+
+Cluster 74:
+    best actor, drama: golden globe  (Count: 1)
+
+Cluster 261:
+    nice!!! argofuckyourself! ": best motion picture drama  (Count: 1)
+
+Cluster 14:
+    i liked a  video  golden globes 2013 adele wins best original song  (Count: 1)
+
+Cluster 21:
+    best actress in a drama  (Count: 1)
+
+Cluster 262:
+    best television series  (Count: 1)
+
+Cluster 48:
+    and the best look of the night  (Count: 1)
+
+Cluster 34:
+    weirdest inside joke about hamsters  (Count: 1)
 

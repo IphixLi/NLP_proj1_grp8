@@ -1,21 +1,410 @@
-best television series - comedy or musical,10,1
-best television series drama,37,1
-best television series comedy,10,0
-best screenplay - motion picture,10,1
-best motion picture comedy or musical,73,1
-best picture - drama,20,0
-best performance by an actress in a television series - musical or comedy,4,0
-best performance by an actor in a supporting role in a motion picture,3,0
-best performance by an actor in a motion picture - drama,25,0
-best original song the only original thing from that movie,4,0
-best original song in a motion picture,32,1
-best original score - motion picture,28,1
-best original score - movie,6,0
+best supporting actress in a motion picture - anne hathaway,282,1
+best original song - skyfall,247,1
+best motion picture - comedy or musical,231,1
+best original song motion picture skyfall by,210,1
+best motion picture - drama,191,1
+best director - ben affleck,187,1
+best actor in a motion picture - comedy or musical,187,1
+best actress in a motion picture - comedy or musical,176,1
+best supporting actor in a motion picture - christoph waltz,158,1
+best supporting actress in a tv movie series or miniseries - maggie sm,138,1
+best television series - drama,137,1
+best screenplay - quentin tarantino,132,1
+best actress in a comedy series,130,1
+best supporting actress in a motion picture,122,1
+best actor in a motion picture - drama,121,1
+best acceptance speech ever jodie foster,120,1
+best animated feature film - brave,115,1
+best actress in a motion picture - drama,98,1
+best actor in a motion picture musical or comedy hugh jackman les misrables,90,1
+best actress in a motion picture musical or comedy jennifer lawrence,89,1
+best motion picture drama argo,87,1
+best television series actor - drama,86,1
+best actress in a tv movie or miniseries - julianne moore,83,1
+best motion picture musical or comedy les misrables,79,1
+best comedy series we are dancing on our own amp w,75,1
+best animated feature film,74,1
+best miniseries or motion picture made,72,1
+best actor in a tv movie or miniseries - kevin costner,72,1
+best actor in a television series - comedy or musical,72,1
+best show on tv by miles,70,1
+best television series - comedy or musical,68,1
+best original song adele,66,1
+best actress in a television series - drama,66,1
+best supporting actor in a television series - ed harris,56,1
+best tv series actress - comedy or musical,56,1
+best golden globes opening ever,55,1
+best actress award so proud of jennifer,55,1
+best director motion picture  awarded,54,1
+best tv series comedy girls officially ending modern familys reign,51,1
+best supporting actor motion picture,50,1
+best tv series drama homel,49,1
+best actor in a motion picture drama daniel day - lewis,49,1
+best supporting actress tv maggie sm,48,1
+best actor in a tv series drama damian lewis,48,1
+best screenplay motion picture quentin tarantino,48,1
+best actress in a motion picture drama jessica chastain,48,1
+best actress in a tv series drama claire danes,45,1
+best actress in a tv comedy lena dunham,45,1
+best animated film brave,43,1
+best supporting actress anne hathaway,39,1
+best original song in a motion picture,38,1
+best picture musical or comedy,36,1
+best motion picture musical or comedy,35,1
+best director category wins,34,1
+best exotic marigold hotel,33,1
+best tv series drama,33,1
+best supporting actress in a tv series,32,1
+best nominee cutaway of the night a,31,1
+best motion picture comedy or musical congrats,31,1
+best actress in a tv comedy or musical,30,1
+best original score - motion picture,29,1
+best original score life of pi,29,1
+best actor movie comedy hugh jackman,29,1
+best movie comedy or musical les miserables,29,1
+best - picture golden globes day,29,1
+best picture nominee lincoln,28,1
+best original song win,28,1
+best actress in a tv series drama,28,1
+best moment of the,27,1
+best actress in a comedy or musical,26,1
+best supporting actress anne hathaway les miserables,26,1
+best performance by an actor in a motion picture - drama,26,1
+best actor drama golden globe,26,1
+best moments - usa,25,1
+best actress musical or comedy jennifer lawrence,25,1
+best director  award,25,1
+best motion picture - drama huge congrats,25,1
+best actress in a miniseries or tv movie julianne moore,24,1
+best actor tv series drama winner,24,1
+best supporting actress in les miserables,24,1
+best director - motion picture,24,1
+best actor tv series comedy don cheadle,24,1
+best supporting actor in a motion picture,23,1
+best actor in a drama,23,1
+best actress in a drama,23,1
+best actress drama winner,23,1
+best line of the  already when,22,1
+best supporting actor in django unchained,22,1
+best supporting actor in a drama christoph waltz,22,1
+best supporting actress tv series miniseries or tv movie,22,1
+best actor in a miniseries or tv movie kevin costner,22,1
+best string of yesterdays,22,1
+best actress in tv drama rubs in her  win,22,1
+best film of the year,22,1
+best supporting actress in a motion picture win,21,1
+best supporting actor globe,20,1
+best part of the golden globes,20,1
+best - salma hayek,20,1
+best actress in a comedy,20,1
+best amp worst tina fey,20,1
+best director - argo,20,1
+best picture - drama,20,1
+best movie drama argo,20,1
+best movie actor drama daniel day - lewis lincoln,19,1
+best dressed kate hudson in alex,19,1
+best tv series - comedy or a musical winner,18,1
+best actor comedymusical category,18,1
+best film in the comedy musical category,18,1
+best actor in a miniseriestv movie,17,1
+best actor  miniseries or television film,17,1
+best actress in a tv drama,17,1
+best things that have ever happened,16,1
+best actress award congrats jennifer,16,1
+best motion picture screenplay,16,1
+best actress in a tv series comedy or musical,16,1
 best comedy or musical,16,1
+best movie actress drama jessica chastain zero dark thirty,16,1
+best part of the,15,1
+best show on tv,15,1
+best golden globes ever,15,1
+best comedy actor in a television series the beverly hilton,15,1
+best drama methinks ben affleck has officially gotten his revenge on the acade,15,1
+best supporting actor movie christoph watlz,14,1
+best actress in a mini - seriestv movie,14,1
+best tv series drama do you agree,14,1
+best actress motion picture comedy or musical,14,1
+best actress in a motion picture,14,1
+best ever kristin wiig,14,1
+best actor in a tv series comedy,14,1
+best actor tv series - comedy or musical,14,1
+best actor in a motion picture musical or comedy,14,1
+best dressed  2 anne hathaway wearing wh,13,1
+best tv movie or miniseries game change,13,1
+best tv drama series,13,1
+best of all ferrell,13,1
+best sense of humor,13,1
+best screenplay - django unchained,13,1
+best actor in a comedy or musical tv series,13,1
+best comedy series paul rudd does,13,1
+best actor motion picture - drama,13,1
+best mini - series or tv movie,12,1
+best actress in a miniseries or tv movie,12,1
+best line of the night,12,1
+best actor in a tv movie,12,1
+best golden globes zingers,12,1
+best joke of the night from tina taylor swift stay away from michael j foxs son,12,1
+best supporting actor christoph waltz,11,1
+best supporting actress tv,11,1
+best tv series comedy,11,1
+best original song - motion picture,11,1
+best original song motion picture award,11,1
+best actor who did,11,1
+best actress in comedy or musical,11,1
+best string of yesterdays ive ever had,11,1
+best screenplay - motion picture,11,1
+best actress in a motion picture comedy,11,1
+best animated feature film  via,11,1
+best director our filmmaker of the year  congrats ben,11,1
+best directora category hes,11,1
+best actor in a musical or comedy,11,1
+best actor in a comedy or musical congrats hugh jackman,11,1
+best of the   jennifer lawrence what do you think,10,1
+best speech of the night,10,0
+best pronunciation of les miserables,10,0
+best thing about the golden globes,10,0
+best actress in a comedy or musical movie,10,0
+best actress in a musical or comedy golden globes 2013,10,0
+best motion picture - drama nomination,10,0
+best actress tv drama,10,0
+best director ben affleck argo,10,0
+best director golden globe,10,0
+best tv series - comedy or musical,10,1
+best motion picture drama win,10,0
+best dressed of the night,9,0
+best supporting actress in a tv movie series or miniseries,9,0
+best supporting actor winner,9,0
+best awkward moment on an awards show,9,0
+best actress in a drama series,9,0
+best opening monologue ever,9,0
+best supporting actress motion picture,9,0
+best screenplay - motion picture quentin tarantino django unchained,9,1
+best screenplay quentin tarantino django unchained,9,0
+best dressed  jessica alba nicole richie nicole kidman,9,0
+best actor musical or comedy,9,0
+best supporting actor christoph waltz django unchained,8,0
+best actor in a tv series drama,8,0
+best wave ang lee,8,0
+best actress in a comedic or musical film,8,0
+best animated feature film award,8,0
+best animated feature film brave the film about the l,8,0
+best comedy or musical tv series,8,0
+best actress in a motion picture drama  win,8,0
+best actor in a musical or comedy award,8,0
+best picture drama win,8,0
+best dressed so far,7,0
+best red carpet quotes from tina fey claire danes,7,0
+best supporting actress in a tv show everyone playing tina,7,0
+best actress in a min,7,0
+best actress in mini - seriestv movie,7,1
+best actress in a miniseries julianne moore did,7,0
+best actor in a tv series,7,0
+best song unsurprisingly seriously adele should sing the theme song,7,0
+best acceptance speech so far,7,0
+best jokes of all - time,7,0
+best actress in a comedymusical in silver linings playbook,7,0
+best supporting actor in a series mini - series or tv movie ed harris,7,0
+best supporting actor in a tv show miniseries or tv movie,7,0
+best actress we are so proud of you jenn,7,0
+best actress in tv drama,7,0
+best actor in a motion picture comedymusical,7,0
+best actor in a musicalcomedy,7,0
+best picture - comedy or musical,7,1
+best gifs of the 2013 golden globes,7,0
+best actress in a dramatic film,7,0
+best beauty look of the night,7,0
 best motion picture musical comedy,7,0
-best motion picture drama,172,1
+best picture musical or comedy winner,7,0
+best thing about the,6,0
+best tv movie or min,6,0
+best spoiling their own fucking show,6,0
+best picture of the year now playing in select theaters,6,0
+best original song award,6,0
+best original song category the golden globe,6,0
+best original song skyfall from the film skyfall - adele amp paul epworth,6,0
+best original score - movie,6,0
+best actor in a drama category but he can sure play softball,6,0
+best speech so far h,6,0
+best funniest golden globes ever   lmao,6,0
+best actress in a comedymusical,6,0
+best actress in a musical or comedy,6,0
+best actress in musical or comedy,6,0
+best supporting actor in tv,6,0
+best performance by an actress in a supporting role,6,0
+best actor in a tv series comedy or musical,6,0
+best actor in a comedy,6,0
+best supporting actress in a motion picture anne hathaway - les miserables,6,1
+best actress in a tv comedymusical,6,0
+best speech ever on so many levels kudos,6,0
+best musical or comedy,6,0
+best director acceptance speech,6,0
+best actor in a movie - comedy or musical hugh jackman les miserables,6,0
+best zingers from the  opener,6,0
 best motion picture comedymusical,6,0
-best miniseries or television movie,7,0
-best mini - series or television movie,11,0
-best director - motion picture,9,0
-best animated feature film,72,1
+best - dressed   story,5,0
+best or just only soul patch in the  audience,5,0
+best supporting actor drama,5,0
+best actress in a tv series,5,0
+best miniseries or tv movie game change,5,1
+best actress in a miniseries,5,0
+best actor in a tv drama,5,0
+best part of the night,5,0
+best acceptance speech ever,5,0
+best original song skyfall - adele  amp paul epworth,5,0
+best actor in a miniseries or motion picture made,5,0
+best actor in a miniseries hatfields amp mccoys,5,0
+best actor in a miniseries or tv movie,5,0
+best actress in a musicalcomedy,5,0
+best actress in a supporting role in a motion picture the,5,0
+best l so pra faxinar s pode verdade ela va,5,0
+best actress tv series drama claire danes homel,5,0
+best animated  feature,5,0
+best animated feature film wreck,5,0
+best actress in a tv comedy,5,0
+best director translation theres justice in the world,5,0
+best couple of the golden globes,5,0
+best actor hugh jackman,5,0
+best golden globes gags - fox news e onlinetina fey,5,0
+best dressed woman was,5,0
+best motion picture comedymusical les miserables  live blog,5,0
+best actress in motion picture drama congrats,5,0
+best looks right here,5,0
+best of the night,4,0
+best joke of the night,4,0
+best bad guy ever such a nice guy how he plays such assholes,4,0
+best supporting film actor,4,0
+best original song from a motion picture,4,0
+best supp actor see,4,0
+best look of the night,4,0
+best actress in a miniseries or motion picture made,4,0
+best t - mobile commercial in 2005,4,0
+best a im dying,4,0
+best tv series drama  rt if you think,4,0
+best score doesnt get,4,0
+best original song motion picture - skyfall,4,1
+best speech so far,4,0
+best original song the only original thing from that movie,4,0
+best actor in a miniseries,4,0
+best actor in miniseries,4,0
+best presenters so far,4,0
+best speech of the night so far,4,0
+best actress comedymusical - jennifer lawrence,4,0
+best supporting actor in a tv series,4,0
+best moment of the night,4,0
+best about the golden globes but brent musburger suggested otherwise,4,0
+best screenplay tarantino wins,4,0
+best animated film amp outst,4,0
+best animated film - great year,4,0
+best actress in a television series comedy or musical win,4,0
+best performance by an actress in a tv series - musical or comedy,4,0
+best tv comedy actress,4,0
+best actress tv series comedy,4,0
+best taylor swift stay away from michael j foxs son,4,0
+best tv series musical or comedy,4,0
+best actor in a comedymusical,4,0
+best actor in comedymusical,4,0
+best performance by actor in a motion picture musical or comedy win,4,0
+best actor in musicalcomedy in   think hes got a,4,0
+best performances of all time,4,0
+best picture drama golden globe winner,4,0
+best performance by an actor in a motion picture - much deserved d,4,0
+best thing about awards shows,4,0
+best dressed on the red carpet,3,0
+best of all time,3,0
+best facial hair of the night,3,0
+best golden globes ever c rt  drink,3,0
+best song nominee  in,3,0
+best performance by an actor in a supporting role in a motion picture,3,0
+best supporting actor award,3,0
+best supporting actress in a television series,3,0
+best support actress in tv movie series or miniseries,3,0
+best performance by an actress in a supporting role in a series,3,0
+best tv movie or miniseries,3,0
+best ever tina fey,3,0
+best original song the shows airs,3,0
+best supporting actor omg leonardo dicaprio was robbed,3,0
+best actress in a tv movie,3,0
+best part about the golden globes,3,0
+best show on television,3,0
+best actor tv series or drama his first win 3rd nom,3,0
+best actor in a television series drama,3,0
+best exotic marigold hotel sounds,3,0
+best actor tv series drama,3,0
+best actor tv series homel,3,0
+best drama tv series,3,0
+best drama series as well,3,0
+best performance by an actor,3,0
+best drama on golden globes  representing,3,0
+best tv drama because,3,0
+best performance by an actor in a motion picture,3,0
+best original score - life of p,3,0
+best original score motion picture michael danna life of p,3,0
+best score should go,3,0
+best actress in a miniseries or made,3,0
+best tv drama showtimes homel,3,0
+best original score va aaltro rullo d,3,0
+best parts in an already - awesome movie go adele,3,0
+best actor tv movie or min,3,0
+best actor of all time,3,0
+best l so pra faxinar s pode,3,0
+best actress in a movie - comedy or musical jennifer lawrence silver linings playbook,3,0
+best actress comedy or musical,3,0
+best actress in a comedy or musical also,3,0
+best actress makes sassy,3,0
+best original score you may,3,0
+best supporting actor in min,3,0
+best supporting actress in a motion picture went,3,0
+best supporting actress in a film,3,0
+best amp worst tina fey a,3,0
+best actress in a motion picture comedy or musical - jennifer lawrence,3,0
+best dress - claire danes 2 fastest post,3,0
+best screenplay motion picture w,3,0
+best screenplay the n - word,3,0
+best tv actor comedy or musical don cheadle,3,0
+best supporting actress anne hathaway les miserables obviously,3,0
+best actor in a tv comedy or musical series,3,0
+best tv drama actress,3,0
+best actress in a tv series - drama claire danes homel,3,0
+best drama tv actress,3,0
+best part of the golden globes so far,3,0
+best part of the show,3,0
+best part about sacha baron cohen,3,0
+best animated feature brave,3,0
+best actress television series comedy or musical - lena dunham girls,3,0
+best performance by an actress in a tv musical or comedy,3,0
+best rt  okay a,3,0
+best amp most beautiful supporting actress ah - maaaaazing annewere campaigning,3,0
+best amp worst dressed photos,3,0
+best most fantastic way possible goddamm,3,0
+best director proving that the  got their sh,3,0
+best director gets a st,3,0
+best tv series - comedy or musical girls,3,0
+best television series - musical or comedy,3,0
+best actor comedy or musical,3,0
+best performance of the year,3,0
+best actor in comedy or musical,3,0
+best actor - musical,3,0
+best golden globes gags - fox news,3,0
+best dressed australian actress nicole kidman was stunning in an alex,3,0
+best motion picture - comedy or musical les miserables,3,1
+best motion picture - comedy or musical les misrables,3,0
+best motion picture - musical,3,0
+best his  su,3,0
+best actress in a movie - drama jessica chastain zero dark thirty,3,0
+best movie actor drama daniel day - lewis,3,0
+best actor - drama  award,3,0
+best actress in a drama jessica chastain zero dark thirty,3,0
+best lead actor in a drama,3,0
+best actor drama - daniel day,3,0
+best drama motion picture,3,0
+best motion picture drama  via,3,0
+best motion picture drama argo  live blog,3,0
+best motion picture drama congrats,3,0
+best picture beating out lincoln everyone,3,0
+best film drama - argo  that,3,0
+best tv drama lead actress claire danes amp lead actor damian lewis,3,0
+best gifs of the 2013 golden globes now w,3,0
+best director golden globes ben affleck wins,3,0
+best s jessica chastain zero dark thirty daniel day - lewis lincoln,3,0
+best performance by an actor in a,3,0
+best actor winner speeches,3,0

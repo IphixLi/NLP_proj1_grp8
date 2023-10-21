@@ -60,25 +60,35 @@ for stage in name_map.keys():
             grouped_texts[label] = [text]
 
     for label, group in grouped_texts.items():
+        
         if stage=='yes':
             confident.write(f"Cluster {label}:\n")
             cluster = []
             for text in group:
-                cluster.append(re.split(r',(?![ ])', text))
+                splitted=re.split(r',(?![ ])', text)
+                selected=[i for i in splitted if len(i)>0]
+                cluster.append(selected)
                 confident.write(f"    {text}")
             confident.write("\n")
             # for text in group:
             #     confident.write(f"{text}")
-            max_count_item = max(cluster, key=lambda x: x[1])
+            # print(cluster)
+            try:
+                max_count_item = max(cluster, key=lambda x: x[1])
+            except Exception as e:
+                print(e, cluster)
             combined.write(",".join(max_count_item))
         else:
             no_confident.write(f"Cluster {label}:\n")
             cluster = []
             for text in group:
-                cluster.append(re.split(r',(?![ ])', text))
+                splitted=re.split(r',(?![ ])', text)
+                selected=[i for i in splitted if len(i)>0]
+                cluster.append(selected)
                 no_confident.write(f"    {text}")
             no_confident.write("\n")
 
+            print("hehe:", file, cluster)
             max_count_item = max(cluster, key=lambda x: int(x[1]))
             # if something had many iterations or was mentioned multiple times, it is more likely that it's a W
             if len(cluster) > 1 or int(max_count_item[1]) > 40:
