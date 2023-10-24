@@ -15,3 +15,11 @@
         - nominated for
         - (takes|took) home
     - "best"?
+
+
+
+
+
+- find nominee?
+    - better win
+    - 
