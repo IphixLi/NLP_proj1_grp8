@@ -16,11 +16,8 @@ nominate_verbs = ["nominate"]                           # Y is nominated for X
 punct_pattern = r'[!"#$%&\'()*+,-./:;<=>?@^_`{|}~]'
 remove_punct_pattern = r'((?<= )' + punct_pattern + ' |^' + punct_pattern + ' | ' + punct_pattern + '$)'
 
-def find_root(spacy_output):
-    for token in spacy_output:
-        if token.dep_ == "ROOT":
-            return token
-    return None
+def find_root(spacy_output) -> list:
+    return [token for token in spacy_output if token.dep_ == "ROOT"]
 
 def find_persons(spacy_output) -> list:
     return [ent for ent in spacy_output.ents if ent.label_ == "PERSON"]
@@ -86,11 +83,11 @@ def keyword_punct_match(sentence, root, winner, award):
     winner += [ent.text for ent in persons + works]
     
     
-def verb_based_match(spacy_output, sentence, root, winner, nominee, award):
+def verb_based_match(spacy_output, sentence, root, winner, nominee, award, always_nominee=False):
     try:
         # Y wins X / Y is nominated for X
         if root.lemma_ in active_award_verbs or root.lemma_ in nominate_verbs:
-            is_nominee = root.lemma_ in nominate_verbs
+            is_nominee = root.lemma_ in nominate_verbs or always_nominee
             for child in root.children:
                 if child.dep_ == "dobj":
                     award += generate_candidates(child, root)
@@ -142,7 +139,7 @@ def verb_based_match(spacy_output, sentence, root, winner, nominee, award):
         return
     
 
-def syntax_based_match(tweet: dict):
+def syntax_based_match(tweet: dict, always_nominee=False):
     text = tweet['new_text']
     spacy_output = spacy_model(text)
     winner = []
@@ -154,7 +151,7 @@ def syntax_based_match(tweet: dict):
         if root is None:
             continue
         if root.pos_ == "VERB":
-            verb_based_match(spacy_output, sentence, root, winner, nominee, award)
+            verb_based_match(spacy_output, sentence, root, winner, nominee, award, always_nominee)
         elif "best" in sentence.text.lower():
             keyword_punct_match(sentence, root, winner, award)
 
@@ -164,6 +161,50 @@ def syntax_based_match(tweet: dict):
         tweet['nominee_candidates'] = tweet.get('nominee_candidates', []) + nominee
     if award:
         tweet['award_candidates'] = tweet.get('award_candidates', []) + award
+
+
+def match_nominee_verb_pattern(text: str) -> bool:
+    # List of verb-based patterns
+    patterns = [
+        r'\b(nominated for)\b',
+        r'\b((should|would) have (won|received|got|taken home|gone to|been awarded to))\b',
+        r'\b((should|will) (win|receive|get|take home|go to|be awarded to))\b',
+        r'I (wish|hope|guess|think|bet|predict|expect) .*(wins|win|receives|receive|gets|get|goes to|go to|awarded to|take(s) home)\b',
+        r'\b((was|is|got|get) robbed)\b',
+    ]
+    
+    # Check each pattern against the text
+    for pattern in patterns:
+        if re.search(pattern, text, re.IGNORECASE):
+            return True
+    return False
+
+def match_nominee_keyword_pattern(text: str) -> bool:
+    # List of verb-based patterns
+    patterns = [
+        r'\b(nominee|nominees|nominated|nomination)\b',
+    ]
+    
+    # Check each pattern against the text
+    for pattern in patterns:
+        if re.search(pattern, text, re.IGNORECASE):
+            return True
+    return False
+
+def match_winner_verb_pattern(text: str) -> bool:
+    # List of verb-based patterns
+    patterns = [
+        r'\b(wins|won|win|receives|received|receive|gets|got|get)\b',
+        r'\b(goes|went) to\b',
+        r'\bawarded to\b',
+        r'\b(takes|took) home\b'
+    ]
+    
+    # Check each pattern against the text
+    for pattern in patterns:
+        if re.search(pattern, text, re.IGNORECASE):
+            return True
+    return False
 
 def syntax_based_match_from_tweets(tweets: list):
     start_time = time.time()

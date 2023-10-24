@@ -1,4 +1,5 @@
 - data pre-process
+    - **remove hashtags that are definitedly after the end of a sentence**
     - quoting: "@account: "
     - foreign_language -> foreign_data.txt (confidence > 0.95)
     - [1 word or two] and no 'best' in it -> probably a news title -> save it?
@@ -14,3 +15,11 @@
         - nominated for
         - (takes|took) home
     - "best"?
+
+
+
+
+
+- find nominee?
+    - better win
+    - 

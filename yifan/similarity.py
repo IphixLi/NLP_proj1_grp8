@@ -13,6 +13,10 @@ def jaccard_similarity(set1, set2):
     union = len(set1.union(set2))
     return intersection / union
 
+def compute_similarity_for_one_candidate(award, candidate):
+    award_tokens = tokenize(award)
+    return jaccard_similarity(award_tokens, tokenize(candidate))
+
 def compute_similarity(award, candidates):
     """Compute a single similarity score for a list of candidates against a given award."""
     if len(candidates) == 0:

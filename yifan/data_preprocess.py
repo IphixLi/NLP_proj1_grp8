@@ -9,17 +9,18 @@ import cld3
 filename = 'gg2013.json'
     
 class TweetsPreprocessor:
-    def __init__(self, filename=filename):
-        self.filename = filename
+    def __init__(self, tweets_data_file=filename):
+        self.tweets_data_file = tweets_data_file
+        self.output_dir = 'preprocessed_tweets'
         self.filenames = {
-            'retweets': 'tweets/retweets.json',
-            'empty_tweets': 'tweets/empty_tweets.json',
-            'foreign_tweets': 'tweets/foreign_tweets.json',
-            'guess_tweets': 'tweets/guess_tweets.json',
-            'I_tweets': 'tweets/I_tweets.json',
-            'should_tweets': 'tweets/should_tweets.json',
-            'normal_tweets': 'tweets/normal_tweets.json',
-            'retweet_count': 'tweets/retweet_count.json',
+            'retweets': f'{self.output_dir}/retweets.json',
+            'empty_tweets': f'{self.output_dir}/empty_tweets.json',
+            'foreign_tweets': f'{self.output_dir}/foreign_tweets.json',
+            'guess_tweets': f'{self.output_dir}/guess_tweets.json',
+            'I_tweets': f'{self.output_dir}/I_tweets.json',
+            'should_tweets': f'{self.output_dir}/should_tweets.json',
+            'normal_tweets': f'{self.output_dir}/normal_tweets.json',
+            'retweet_count': f'{self.output_dir}/retweet_count.json',
         }
         self.tweets_classification = {
             'retweets': [],             # tweets that include retweets
@@ -31,10 +32,10 @@ class TweetsPreprocessor:
             'normal_tweets': [],        # tweets that don't fall into any of the above categories
             'retweet_count': {},        # retweets and their counts
         }
-        self.tweets = self.load_data(filename)
+        self.tweets = self.load_data(tweets_data_file)
     
-    def load_data(self, filename: str):
-        with open(filename) as f:
+    def load_data(self, tweets_data_file: str):
+        with open(tweets_data_file) as f:
             return json.load(f)
     
     def save_all_tweets(self):
@@ -45,6 +46,8 @@ class TweetsPreprocessor:
     def load_all_tweets(self):
         if not path.exists(self.filenames['foreign_tweets']):
             self.preprocess_tweets()
+            self.split_tweets()
+            self.split_result_stats()
             self.save_all_tweets()
         for key, filename in self.filenames.items():
             with open(filename) as f:
@@ -239,8 +242,10 @@ class TweetsPreprocessor:
     def fix_tweet_features(self, tweet: dict):
         """Fix tweet features (e.g. username, hashtag)"""
         self.extract_retweets(tweet)
-        tweet['new_text'] = self.fix_username(tweet['new_text'])
-        tweet['new_text'] = self.fix_hashtag(tweet['new_text'])
+        
+        new_text = self.remove_trailing_hashtags_and_usernames(tweet['new_text'])
+        new_text = self.fix_username(new_text)
+        tweet['new_text'] = self.fix_hashtag(new_text)
         
 
 if __name__ == '__main__':
