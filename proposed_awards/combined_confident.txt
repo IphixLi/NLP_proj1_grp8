@@ -1,558 +1,135 @@
-Cluster 32:
-    best supporting actress in a motion picture - anne hathaway,282,1
-    best supporting actress in a motion picture anne hathaway - les miserables,6,1
-
-Cluster 139:
-    best original song - skyfall,247,1
-
-Cluster 37:
-    best motion picture - comedy or musical,231,1
-    best motion picture musical or comedy les misrables,79,1
-    best picture musical or comedy,36,1
-    best motion picture musical or comedy,35,1
-    best motion picture comedy or musical congrats,31,1
-    best picture - comedy or musical,7,1
-    best motion picture - comedy or musical les miserables,3,1
-    best motion picture - comedy or musical,1,1
-    best motion picture- comedy or musical,1,1
-    best motion picture, comedy/musical,1,1
-
-Cluster 151:
-    best original song motion picture skyfall by,210,1
+Cluster 2:
+    best television series musical or comedy,4,1
+    best television series - comedy or musical,78,1
+    best television series actress - comedy or musical,56,1
+    best actress in a television series comedy or musical,16,1
+    best actor television series - comedy or musical,14,1
+    best actor in a television series - comedy or musical,73,1
+    best actor television series - comedy or musical,14,1
 
 Cluster 4:
-    best motion picture - drama,191,1
-    best actress in a motion picture - drama,98,1
-    best motion picture drama,21,1
-    best actress, motion picture drama,1,1
-    best motion picture - drama,1,1
-
-Cluster 97:
-    best director - ben affleck,187,1
-
-Cluster 0:
-    best actor in a motion picture - comedy or musical,187,1
-    best actress in a motion picture - comedy or musical,176,1
-    best actress in a motion picture musical or comedy jennifer lawrence,89,1
-    best actress motion picture comedy or musical,14,1
-    best actor in a motion picture musical or comedy,14,1
-    best actress motion picture - comedy or musical,11,1
-    best actress in a motion picture (comedy or musical),1,1
-
-Cluster 135:
-    best supporting actor in a motion picture - christoph waltz,158,1
-
-Cluster 3:
-    best supporting actress in a tv movie series or miniseries - maggie sm,138,1
-    best supporting actress tv series miniseries or tv movie,22,1
-
-Cluster 147:
-    best television series - drama,137,1
-
-Cluster 112:
-    best screenplay - quentin tarantino,132,1
-
-Cluster 18:
-    best actress in a comedy series,130,1
-    best actress in a comedy,20,1
-    best actress in a comedy series,12,1
-    best actress in a comedy,8,1
-    best actress in a comedy series,112,1
-
-Cluster 38:
-    best supporting actress in a motion picture,122,1
-    best supporting actress in a motion picture win,21,1
-    best actress in a motion picture,14,1
-    best supporting actress in a motion picture,15,1
-    best actress in a motion picture,7,1
-    best supporting actress in a motion picture,1,1
-    best supporting actress motion picture,1,1
-
-Cluster 1:
-    best actor in a motion picture - drama,121,1
-    best actor motion picture - drama,13,1
-    best actor motion picture - drama,12,1
-    best actor in a motion picture,70,1
-    best actor in a motion picture drama,1,1
-
-Cluster 99:
-    best acceptance speech ever jodie foster,120,1
-
-Cluster 149:
-    best animated feature film - brave,115,1
-
-Cluster 105:
-    best actor in a motion picture musical or comedy hugh jackman les misrables,90,1
-
-Cluster 137:
-    best motion picture drama argo,87,1
-
-Cluster 128:
+    best television series - drama,154,1
     best television series actor - drama,86,1
+    best actor in a television series drama,12,1
+    best television series drama,7,1
 
-Cluster 28:
-    best actress in a tv movie or miniseries - julianne moore,83,1
-    best actress in a miniseries or tv movie julianne moore,24,1
-    best actress in a miniseries or tv movie,12,1
+Cluster 26:
+    best television series comedy,11,1
 
-Cluster 87:
-    best comedy series we are dancing on our own amp w,75,1
+Cluster 16:
+    best supporting actress television series miniseries or television movie,22,1
+    best actress in a miniseries or television movie,13,1
+    best actress in a miniseries or television movie,8,1
+    best supporting actress television series miniseries or television movie,22,1
 
-Cluster 57:
-    best animated feature film,74,1
-    best animated feature film,13,1
-    best animated feature,7,1
-    best animated feature film,1,1
+Cluster 23:
+    best supporting actress television,11,1
 
-Cluster 103:
-    best miniseries or motion picture made,72,1
-
-Cluster 47:
-    best actor in a tv movie or miniseries - kevin costner,72,1
-    best actor in a miniseries or tv movie kevin costner,22,1
-
-Cluster 155:
-    best actor in a television series - comedy or musical,72,1
-
-Cluster 120:
-    best show on tv by miles,70,1
-
-Cluster 142:
-    best television series - comedy or musical,68,1
-
-Cluster 131:
-    best original song adele,66,1
-
-Cluster 114:
-    best actress in a television series - drama,66,1
-
-Cluster 133:
-    best supporting actor in a television series - ed harris,56,1
-
-Cluster 10:
-    best tv series actress - comedy or musical,56,1
-    best actress in a tv comedy or musical,30,1
-    best actress in a tv series comedy or musical,16,1
-
-Cluster 145:
-    best golden globes opening ever,55,1
-
-Cluster 84:
-    best actress award so proud of jennifer,55,1
-
-Cluster 5:
-    best director motion picture  awarded,54,1
-    best director - motion picture,24,1
-    best director - motion picture,4,1
-
-Cluster 136:
-    best tv series comedy girls officially ending modern familys reign,51,1
-
-Cluster 12:
-    best supporting actor motion picture,50,1
-    best supporting actor in a motion picture,23,1
-    rt : best supporting actor, motion picture,1,1
+Cluster 15:
+    best show on television,18,1
 
 Cluster 8:
-    best tv series drama homel,49,1
-    best tv series drama,33,1
-    best tv drama series,13,1
-    best tv series- drama,1,1
-    best tv series drama,1,1
+    best picture musical or comedy,36,1
+    best picture - comedy or musical,7,1
+    best motion picture musical or comedy,35,1
+    best motion picture - comedy or musical,231,1
+    best actress motion picture comedy or musical,16,1
+    best actress in a motion picture - comedy or musical,176,1
+    best actor in a musical or comedy,11,1
+    best actor in a motion picture musical or comedy,14,1
+    best actor in a motion picture - comedy or musical,187,1
+    best motion picture musical or comedy,33,1
+    best motion picture comedy or musical,56,1
+    best actress motion picture comedy or musical,12,1
+    best actor in a motion picture musical or comedy,14,1
+    best actor in a motion picture comedy or musical,74,1
 
-Cluster 109:
-    best actor in a motion picture drama daniel day - lewis,49,1
+Cluster 19:
+    best picture - drama,20,1
 
-Cluster 98:
-    best supporting actress tv maggie sm,48,1
-
-Cluster 79:
-    best actor in a tv series drama damian lewis,48,1
-
-Cluster 9:
-    best screenplay motion picture quentin tarantino,48,1
-    best screenplay - motion picture quentin tarantino django unchained,9,1
-
-Cluster 104:
-    best actress in a motion picture drama jessica chastain,48,1
-
-Cluster 130:
-    best actress in a tv series drama claire danes,45,1
-
-Cluster 94:
-    best actress in a tv comedy lena dunham,45,1
-
-Cluster 118:
-    best animated film brave,43,1
-
-Cluster 140:
-    best supporting actress anne hathaway,39,1
-
-Cluster 11:
-    best original song in a motion picture,38,1
-    best original song - motion picture,11,1
-    best original song motion picture award,11,1
-    best original song motion picture - skyfall,4,1
-    best original song - motion picture,1,1
-
-Cluster 93:
-    best director category wins,34,1
-
-Cluster 143:
-    best exotic marigold hotel,33,1
-
-Cluster 146:
-    best supporting actress in a tv series,32,1
-
-Cluster 101:
-    best nominee cutaway of the night a,31,1
-
-Cluster 113:
-    best original score - motion picture,29,1
-
-Cluster 95:
-    best original score life of pi,29,1
-
-Cluster 72:
-    best actor movie comedy hugh jackman,29,1
-
-Cluster 106:
-    best movie comedy or musical les miserables,29,1
-
-Cluster 141:
-    best - picture golden globes day,29,1
-
-Cluster 132:
-    best picture nominee lincoln,28,1
-
-Cluster 116:
-    best original song win,28,1
-
-Cluster 6:
-    best actress in a tv series drama,28,1
-    best actress in a tv drama,17,1
-    best actress in tv drama,22,1
-    best actress in a drama,22,1
-    best actress in a tv series, drama,,1,1
-
-Cluster 78:
-    best moment of the,27,1
-
-Cluster 17:
-    best actress in a comedy or musical,26,1
-    best actress in comedy or musical,11,1
-    best actress in a comedy or musical movie,11,1
-
-Cluster 89:
-    best supporting actress anne hathaway les miserables,26,1
-
-Cluster 83:
+Cluster 20:
     best performance by an actor in a motion picture - drama,26,1
 
-Cluster 124:
-    best actor drama golden globe,26,1
+Cluster 21:
+    best original song motion picture award,11,1
 
-Cluster 107:
-    best moments - usa,25,1
+Cluster 3:
+    best motion picture - drama,191,1
+    best actor motion picture - drama,13,1
+    best actor in a motion picture - drama,121,1
+    best motion picture drama,24,1
+    best actor motion picture - drama,12,1
+    best actor in a motion picture drama,24,1
+    best motion picture drama,89,1
+    best actor in a motion picture drama,12,1
+    best motion picture - drama,25,1
 
-Cluster 80:
-    best actress musical or comedy jennifer lawrence,25,1
+Cluster 18:
+    best mini - series or television movie,12,1
 
-Cluster 59:
+Cluster 25:
+    best director motion picture  awarded,54,1
+
+Cluster 17:
     best director  award,25,1
     his first best director  award,25,1
 
-Cluster 36:
-    best motion picture - drama huge congrats,25,1
-    best motion picture - drama,25,1
-
-Cluster 122:
-    best actor tv series drama winner,24,1
-
-Cluster 85:
-    best supporting actress in les miserables,24,1
-
-Cluster 90:
-    best actor tv series comedy don cheadle,24,1
-
-Cluster 15:
-    best actor in a drama,23,1
-    best actress in a drama,23,1
-
-Cluster 156:
-    best actress drama winner,23,1
-
-Cluster 102:
-    best line of the  already when,22,1
-
-Cluster 144:
-    best supporting actor in django unchained,22,1
-
-Cluster 70:
-    best supporting actor in a drama christoph waltz,22,1
-
-Cluster 100:
-    best string of yesterdays,22,1
-
-Cluster 67:
-    best actress in tv drama rubs in her  win,22,1
-
-Cluster 49:
-    best film of the year,22,1
-
-Cluster 33:
-    best supporting actor globe,20,1
-    best supporting actor globe,20,1
-
-Cluster 119:
-    best part of the golden globes,20,1
-
-Cluster 56:
-    best - salma hayek,20,1
-
-Cluster 86:
-    best amp worst tina fey,20,1
-
-Cluster 126:
-    best director - argo,20,1
-
-Cluster 153:
-    best picture - drama,20,1
-
-Cluster 39:
-    best movie drama argo,20,1
-
-Cluster 138:
-    best movie actor drama daniel day - lewis lincoln,19,1
-
-Cluster 91:
-    best dressed kate hudson in alex,19,1
-
-Cluster 7:
-    best tv series - comedy or a musical winner,18,1
-    best tv series - comedy or musical,10,1
-
-Cluster 110:
-    best actor comedymusical category,18,1
-
-Cluster 127:
-    best film in the comedy musical category,18,1
-
-Cluster 121:
-    best actor in a miniseriestv movie,17,1
-
-Cluster 77:
-    best actor  miniseries or television film,17,1
-
-Cluster 123:
-    best things that have ever happened,16,1
-
-Cluster 81:
-    best actress award congrats jennifer,16,1
-
-Cluster 26:
-    best motion picture screenplay,16,1
-    best screenplay - motion picture,11,1
-    best motion picture screenplay,14,1
-    best screenplay - motion picture,1,1
-
-Cluster 154:
+Cluster 24:
     best comedy or musical,16,1
 
-Cluster 50:
-    best movie actress drama jessica chastain zero dark thirty,16,1
-
-Cluster 92:
-    best part of the,15,1
-
-Cluster 60:
-    best show on tv,15,1
-
-Cluster 129:
-    best golden globes ever,15,1
-
-Cluster 152:
-    best comedy actor in a television series the beverly hilton,15,1
-
-Cluster 69:
-    best drama methinks ben affleck has officially gotten his revenge on the acade,15,1
-
-Cluster 88:
-    best supporting actor movie christoph watlz,14,1
-
-Cluster 27:
-    best actress in a mini - seriestv movie,14,1
-    best actress in mini - seriestv movie,7,1
-
-Cluster 48:
-    best tv series drama do you agree,14,1
-
-Cluster 96:
-    best ever kristin wiig,14,1
+Cluster 11:
+    best animated feature film,190,1
 
 Cluster 14:
-    best actor in a tv series comedy,14,1
-    best actor tv series - comedy or musical,14,1
-    best actor in a comedy or musical tv series,13,1
-    best actor in a comedy or musical tv series,13,1
-    best actor in a tv series comedy or musical,1,1
-
-Cluster 41:
-    best dressed  2 anne hathaway wearing wh,13,1
-
-Cluster 25:
-    best tv movie or miniseries game change,13,1
-    best miniseries or tv movie game change,5,1
-    best miniseries or tv movie,1,1
-
-Cluster 46:
-    best of all ferrell,13,1
-
-Cluster 111:
-    best sense of humor,13,1
-
-Cluster 148:
-    best screenplay - django unchained,13,1
-
-Cluster 65:
-    best comedy series paul rudd does,13,1
-
-Cluster 2:
-    best mini - series or tv movie,12,1
-    best actress in mini-series/tv movie,6,1
-    best actress in a mini series or tv movie,1,1
-
-Cluster 24:
-    best line of the night,12,1
-
-Cluster 82:
-    best actor in a tv movie,12,1
-
-Cluster 43:
-    best golden globes zingers,12,1
-
-Cluster 76:
-    best joke of the night from tina taylor swift stay away from michael j foxs son,12,1
-
-Cluster 45:
-    best supporting actor christoph waltz,11,1
-
-Cluster 125:
-    best supporting actress tv,11,1
-
-Cluster 61:
-    best tv series comedy,11,1
-
-Cluster 52:
-    best actor who did,11,1
-
-Cluster 150:
-    best string of yesterdays ive ever had,11,1
-
-Cluster 74:
-    best actress in a motion picture comedy,11,1
-    the best actress in a motion picture,11,1
-
-Cluster 71:
-    best animated feature film  via,11,1
-
-Cluster 42:
-    best director our filmmaker of the year  congrats ben,11,1
-
-Cluster 73:
-    best directora category hes,11,1
-
-Cluster 13:
-    best actor in a musical or comedy,11,1
-    best actor in a comedy or musical congrats hugh jackman,11,1
-    best actor in a comedy or musical,12,1
-
-Cluster 68:
-    best of the   jennifer lawrence what do you think,10,1
-
-Cluster 64:
-    golden globes best actress award,17,1
-
-Cluster 134:
-    best tv drama,15,1
-
-Cluster 108:
-    best supporting actress,62,1
-
-Cluster 35:
-    best supporting actor,34,1
-    best supporting actor,1,1
-
-Cluster 75:
-    best song,23,1
-
-Cluster 16:
-    best screenplay,19,1
-    best screenplay,1,1
-
-Cluster 54:
-    best picture - drama,19,1
-
-Cluster 23:
-    best original song,15,1
-    best original song,1,1
-
-Cluster 66:
-    best motion picture,117,1
-
-Cluster 20:
-    best film director,14,1
-
-Cluster 62:
-    best director,64,1
-
-Cluster 115:
-    best comedy series,15,1
-
-Cluster 53:
-    best animated film,16,1
-
-Cluster 58:
-    best actress,51,1
-    best actress,1,1
-
-Cluster 55:
-    best actor who did not have sex with that woman,11,1
-
-Cluster 40:
-    best actor,72,1
-
-Cluster 29:
-    the  award,1,1
-    and the award,1,1
-
-Cluster 63:
-    first award of the night,1,1
-
-Cluster 44:
-    supporting actress in tv,1,1
-
-Cluster 30:
-    best actor, drama,1,1
+    best actress in mini - seriestv movie,7,1
+    best actress in a mini - seriestv movie,14,1
+    best actress in mini-seriestv movie,6,1
+    best actress in a mini-seriestv movie,12,1
 
 Cluster 22:
-    award,1,1
+    best actress in comedy or musical,11,1
+    best actress in a television comedy or musical,30,1
+    best actress in a comedy or musical,26,1
+    best actress in a comedy or musical movie,11,1
+    best actress in a comedy or musical,14,1
+    best actress in a television comedy or musical,26,1
 
-Cluster 31:
-    did arnold just say the gordon globe,1,1
+Cluster 10:
+    best actress in a television series - drama,71,1
+    best actress in a television drama,17,1
+    best actress in a television series drama,15,1
 
-Cluster 51:
-    best speech,1,1
+Cluster 1:
+    best actress in a motion picture - drama,98,1
+    best actress in a motion picture comedy,11,1
+    the best actress in a motion picture comedy,11,1
+    best actress in a motion picture drama,18,1
 
-Cluster 19:
-    te odio   rt :,1,1
+Cluster 7:
+    best actress in a drama,23,1
+    best actor in a drama,23,1
+    best actor in a drama,17,1
 
-Cluster 34:
-    best comedy/musical,1,1
+Cluster 0:
+    best actress in a comedy,20,1
+    best actress in a drama,20,1
+    best actress in a comedy,10,1
+    best actress in a comedy series,112,1
 
-Cluster 117:
-    best actress (drama),1,1
+Cluster 5:
+    best actor in a television series comedy,14,1
+    best actor in a television series comedy,13,1
 
-Cluster 21:
+Cluster 12:
+    best actor in a television movie,12,1
+
+Cluster 6:
+    best actor in a miniseriestv movie,17,1
+    best actor in a miniseriestv movie,15,1
+
+Cluster 13:
+    best actor  miniseries or television film,17,1
+
+Cluster 9:
     cecil b. demille award,8,1
 

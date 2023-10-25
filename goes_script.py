@@ -6,6 +6,8 @@ import collections
 f = open("gg2013.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
 track={}
+hint_words=["drama","television","music","movie","film","award","comedy","musical","song","video","picture"]
+
 def strip_non_alphabetical(input_string):
     pattern = r'^[a-zA-Z-\s].*[a-zA-Z-\s]$'
 
@@ -24,20 +26,26 @@ def normalize(text):
     
     #remove hashtag
     hash_pattern = r'#\w+'
+    hash_text = re.sub(hash_pattern, '', cleaned_text)
     
-    cleaned_text = re.sub(hash_pattern, '', cleaned_text)
+    tag_pattern=r'@\w+'
+    tag_text = re.sub(tag_pattern, '', hash_text)
 
-    url_pattern = r'http[s]?://\S+'
-    cleaned_text = re.sub(url_pattern, '', cleaned_text)
+    tag_text=tag_text.replace("–","-")
 
-    at_pattern=r'@\w+'
-    cleaned_text = re.sub(at_pattern, '', cleaned_text)
-    return cleaned_text.strip().lower()
+    # non_english_pattern = r'[^a-zA-Z0-9\s-:]'
+    # cleaned_text = re.sub(non_english_pattern, '', tag_text)
+    pattern = r'\b(tv)\b'
+
+    # Use re.IGNORECASE flag to make the replacement case-insensitive
+    text = re.sub(pattern, 'television', tag_text, flags=re.IGNORECASE)
+
+    return text.lower().strip()
 
 
 stop_words=["for"," at", " and"]
 
-punctuation=["?","!",".",","]
+punctuation=["?","!",".",",",":"]
 
 
 for entry in json_text:
@@ -55,31 +63,26 @@ for entry in json_text:
         for i in range(len(split_res)):
             stop_pattern='|'.join([re.escape(s) for s in stop_words])
 
-            stripped=strip_non_alphabetical(split_res[0])
-            if stripped not in track:
-                track[stripped]=0
-                track[stripped]+=1
 
-            # if any(word in split_res[i] for word in ['picture', 'drama', 'film', 'movie','comedy','musical']):
-            #         val=split_res[i]
-            #         if i<len(split_res)-1 and 'television' in split_res[i+1]:
-            #              val=val.strip()+' for '+'television'
-            #         stripped=strip_non_alphabetical(val)
+            if any(word in split_res[i] for word in hint_words):
+                    val=split_res[i]
+                    if i<len(split_res)-1 and 'television' in split_res[i+1]:
+                         val=val.strip()+' for '+'television'
+                    stripped=strip_non_alphabetical(val)
 
-            #         words_to_check=['picture', 'drama', 'film', 'movie','comedy','musical']
-            #         if not any(stripped.lower().strip().endswith(word) for word in words_to_check):
-            #             continue
+                    words_to_check=['picture', 'drama', 'film', 'movie','comedy','musical']
+                    if not any(stripped.lower().strip().endswith(word) for word in words_to_check):
+                        continue
 
-            #         if stripped not in track:
-            #             track[stripped]=0
-            #         track[stripped]+=1
+                    if stripped not in track:
+                        track[stripped]=0
+                    track[stripped]+=1
                          
-            print(stripped.encode('latin-1', errors='ignore').decode('unicode_escape').strip())
+                    print(stripped.encode('latin-1', errors='ignore').decode('unicode_escape').strip())
 
-sorted_track=sorted(track.items(), key=lambda kv: kv[1], reverse=True)
-filtered_data = {key.strip(): value for key, value in sorted_track if value > 2 and 'best' in key  and len(key.split(" "))>3}
-sorted_dict = collections.OrderedDict(sorted_track)
+sorted_track=sorted(track.items(), key=lambda kv: kv[0], reverse=True)
+filtered_data = {key.strip(): value for key, value in sorted_track if value > 2 and 'best' in key and len(key.split(" "))>3}
+sorted_dict = collections.OrderedDict(filtered_data)
 
 with open('stage/goes_keyword.json', 'w', encoding='utf-8') as f:
     json.dump(sorted_dict, f, ensure_ascii=False, indent=4)
-    

@@ -1,1288 +1,449 @@
-Cluster 55:
-    best supporting actress in a motion picture - anne hathaway (Count: 282)
-    best supporting actress in a motion picture  anne hathaway (Count: 160)
-    best supporting actress in a motion picture anne hathaway (Count: 7)
-
-Cluster 34:
-    best original song - skyfall (Count: 247)
-    best original song skyfall (Count: 4)
-
-Cluster 1:
-    best motion picture - comedy or musical (Count: 231)
-    best motion picture comedy or musical (Count: 74)
-    best motion picture  comedy or musical 
-lots of (Count: 5)
-
-Cluster 409:
-    best original song motion picture skyfall by (Count: 210)
-
-Cluster 54:
-    best motion picture - drama (Count: 191)
-    best motion picture drama (Count: 174)
-
-Cluster 11:
-    best director - ben affleck (Count: 187)
-    best director ben affleck (Count: 110)
-
-Cluster 32:
-    best actor in a motion picture - comedy or musical (Count: 187)
-    best actor in a motion picture comedy or musical (Count: 94)
-    best actor in a motion picture  comedy or musical (Count: 10)
-
-Cluster 61:
-    best actress in a motion picture - comedy or musical (Count: 176)
-    best actress in a motion picture comedy or musical (Count: 8)
-
-Cluster 63:
-    best supporting actor in a motion picture - christoph waltz (Count: 158)
-    best supporting actor in a motion picture christoph waltz (Count: 8)
-
-Cluster 73:
-    best supporting actress in a tv movie series or miniseries - maggie sm (Count: 138)
-    best supporting actress in a tv movie series or miniseries maggie sm (Count: 4)
-
-Cluster 87:
-    best television series - drama (Count: 137)
-    best television series drama (Count: 5)
-
-Cluster 43:
-    best screenplay - quentin tarantino (Count: 132)
-    best screenplay quentin tarantino (Count: 24)
-
-Cluster 408:
-    best actress in a comedy series (Count: 130)
-
-Cluster 407:
-    best supporting actress in a motion picture (Count: 122)
-
-Cluster 26:
-    best actor in a motion picture - drama (Count: 121)
-    best actor in a motion picture drama (Count: 60)
-    best actor in a motion picture  drama (Count: 7)
-
-Cluster 406:
-    best acceptance speech ever jodie foster (Count: 120)
-
-Cluster 16:
-    best animated feature film - brave (Count: 115)
-    best animated feature film brave (Count: 11)
-
-Cluster 44:
-    best actress in a motion picture - drama (Count: 98)
-    best actress in a motion picture drama (Count: 73)
-    best actress in a motion picture  drama (Count: 3)
-
-Cluster 404:
-    best actor in a motion picture musical or comedy hugh jackman les misrables (Count: 90)
-
-Cluster 403:
-    best actress in a motion picture musical or comedy jennifer lawrence (Count: 89)
-
-Cluster 10:
-    best motion picture drama argo (Count: 87)
-    best motion picture - drama argo (Count: 12)
-    best motion picture drama - argo (Count: 6)
-
-Cluster 402:
-    best television series actor - drama (Count: 86)
-
-Cluster 401:
-    best actress in a tv movie or miniseries - julianne moore (Count: 83)
-
-Cluster 400:
-    best motion picture musical or comedy les misrables (Count: 79)
-
-Cluster 399:
-    best comedy series we are dancing on our own amp w (Count: 75)
-
-Cluster 398:
-    best animated feature film (Count: 74)
-
-Cluster 126:
-    best miniseries or motion picture made (Count: 72)
-    best mini - series or motion picture made (Count: 8)
-
-Cluster 397:
-    best actor in a tv movie or miniseries - kevin costner (Count: 72)
-
-Cluster 62:
-    best actor in a television series - comedy or musical (Count: 72)
-    best actor in a television series comedy or musical (Count: 4)
-
-Cluster 396:
-    best show on tv by miles (Count: 70)
-
-Cluster 395:
-    best television series - comedy or musical (Count: 68)
-
-Cluster 394:
-    best original song adele (Count: 66)
-
-Cluster 21:
-    best actress in a television series - drama (Count: 66)
-    best actress in a television series drama (Count: 3)
-
-Cluster 393:
-    best supporting actor in a television series - ed harris (Count: 56)
-
-Cluster 392:
-    best tv series actress - comedy or musical (Count: 56)
-
-Cluster 391:
-    best golden globes opening ever (Count: 55)
-
-Cluster 390:
-    best actress award so proud of jennifer (Count: 55)
-
-Cluster 389:
-    best director motion picture  awarded (Count: 54)
-
-Cluster 388:
-    best tv series comedy girls officially ending modern familys reign (Count: 51)
-
-Cluster 387:
-    best supporting actor motion picture (Count: 50)
-
-Cluster 17:
-    best tv series drama homel (Count: 49)
-    best tv series - drama homel (Count: 7)
-    best tv series drama - homel (Count: 4)
-
-Cluster 386:
-    best actor in a motion picture drama daniel day - lewis (Count: 49)
-
-Cluster 385:
-    best supporting actress tv maggie sm (Count: 48)
-
-Cluster 384:
-    best actor in a tv series drama damian lewis (Count: 48)
-
-Cluster 6:
-    best screenplay motion picture quentin tarantino (Count: 48)
-    best screenplay - motion picture quentin tarantino (Count: 4)
-    best screenplay motion picture - quentin tarantino (Count: 3)
-
-Cluster 383:
-    best actress in a motion picture drama jessica chastain (Count: 48)
-
-Cluster 382:
-    best actress in a tv series drama claire danes (Count: 45)
-
-Cluster 381:
-    best actress in a tv comedy lena dunham (Count: 45)
-
-Cluster 380:
-    best animated film brave (Count: 43)
-
-Cluster 379:
-    best supporting actress anne hathaway (Count: 39)
-
-Cluster 378:
-    best original song in a motion picture (Count: 38)
-
-Cluster 377:
-    best picture musical or comedy (Count: 36)
+Cluster 129:
+    best television series, musical or comedy, (Count: 3)
 
 Cluster 30:
-    best motion picture musical or comedy (Count: 35)
-    best motion picture - musical or comedy (Count: 8)
-
-Cluster 376:
-    best director category wins (Count: 34)
-
-Cluster 375:
-    best exotic marigold hotel (Count: 33)
-
-Cluster 19:
-    best tv series drama (Count: 33)
-    best tv series - drama (Count: 17)
-
-Cluster 374:
-    best supporting actress in a tv series (Count: 32)
-
-Cluster 373:
-    best nominee cutaway of the night a (Count: 31)
-
-Cluster 372:
-    best motion picture comedy or musical congrats (Count: 31)
-
-Cluster 371:
-    best actress in a tv comedy or musical (Count: 30)
-
-Cluster 22:
-    best original score - motion picture (Count: 29)
-    best original score motion picture (Count: 5)
-
-Cluster 370:
-    best original score life of pi (Count: 29)
-
-Cluster 369:
-    best actor movie comedy hugh jackman (Count: 29)
-
-Cluster 9:
-    best movie comedy or musical les miserables (Count: 29)
-    best movie - comedy or musical les miserables (Count: 16)
-
-Cluster 368:
-    best - picture golden globes day (Count: 29)
-
-Cluster 367:
-    best picture nominee lincoln (Count: 28)
-
-Cluster 366:
-    best original song win (Count: 28)
-
-Cluster 8:
-    best actress in a tv series drama (Count: 28)
-    best actress in a tv series - drama (Count: 5)
-    best actress in a tv seriesdrama (Count: 3)
-
-Cluster 365:
-    best moment of the (Count: 27)
-
-Cluster 364:
-    best actress in a comedy or musical (Count: 26)
-
-Cluster 363:
-    best supporting actress anne hathaway les miserables (Count: 26)
-
-Cluster 362:
-    best performance by an actor in a motion picture - drama (Count: 26)
-
-Cluster 361:
-    best actor drama golden globe (Count: 26)
-
-Cluster 360:
-    best moments - usa (Count: 25)
-
-Cluster 359:
-    best actress musical or comedy jennifer lawrence (Count: 25)
-
-Cluster 358:
-    best director  award (Count: 25)
-
-Cluster 357:
-    best motion picture - drama huge congrats (Count: 25)
-
-Cluster 356:
-    best actress in a miniseries or tv movie julianne moore (Count: 24)
-
-Cluster 355:
-    best actor tv series drama winner (Count: 24)
-
-Cluster 354:
-    best supporting actress in les miserables (Count: 24)
-
-Cluster 352:
-    best director - motion picture (Count: 24)
-
-Cluster 351:
-    best actor tv series comedy don cheadle (Count: 24)
-
-Cluster 350:
-    best supporting actor in a motion picture (Count: 23)
-
-Cluster 349:
-    best actor in a drama (Count: 23)
-
-Cluster 348:
-    best actress in a drama (Count: 23)
-
-Cluster 347:
-    best actress drama winner (Count: 23)
-
-Cluster 346:
-    best line of the  already when (Count: 22)
-
-Cluster 345:
-    best supporting actor in django unchained (Count: 22)
-
-Cluster 344:
-    best supporting actor in a drama christoph waltz (Count: 22)
-
-Cluster 343:
-    best supporting actress tv series miniseries or tv movie (Count: 22)
-
-Cluster 342:
-    best actor in a miniseries or tv movie kevin costner (Count: 22)
-
-Cluster 341:
-    best string of yesterdays (Count: 22)
-
-Cluster 340:
-    best actress in tv drama rubs in her  win (Count: 22)
-
-Cluster 339:
-    best film of the year (Count: 22)
-
-Cluster 338:
-    best supporting actress in a motion picture win (Count: 21)
-
-Cluster 337:
-    best supporting actor globe (Count: 20)
-
-Cluster 336:
-    best part of the golden globes (Count: 20)
-
-Cluster 335:
-    best - salma hayek (Count: 20)
-
-Cluster 56:
-    best actress in a comedy (Count: 20)
-    best actress in a  comedy (Count: 3)
-
-Cluster 334:
-    best amp worst tina fey (Count: 20)
-
-Cluster 333:
-    best director - argo (Count: 20)
-
-Cluster 332:
-    best picture - drama (Count: 20)
-
-Cluster 31:
-    best movie drama argo (Count: 20)
-    best movie - drama argo (Count: 9)
-
-Cluster 331:
-    best movie actor drama daniel day - lewis lincoln (Count: 19)
-
-Cluster 330:
-    best dressed kate hudson in alex (Count: 19)
-
-Cluster 329:
-    best tv series - comedy or a musical winner (Count: 18)
-
-Cluster 328:
-    best actor comedymusical category (Count: 18)
-
-Cluster 327:
-    best film in the comedy musical category (Count: 18)
-
-Cluster 27:
-    best actor in a miniseriestv movie (Count: 17)
-    best actor in a mini - seriestv movie (Count: 7)
-
-Cluster 325:
-    best actor  miniseries or television film (Count: 17)
-
-Cluster 324:
-    best actress in a tv drama (Count: 17)
-
-Cluster 323:
-    best things that have ever happened (Count: 16)
-
-Cluster 322:
-    best actress award congrats jennifer (Count: 16)
-
-Cluster 321:
-    best motion picture screenplay (Count: 16)
-
-Cluster 29:
-    best actress in a tv series comedy or musical (Count: 16)
-    best actress in a tv series - comedy or musical (Count: 8)
-
-Cluster 320:
-    best comedy or musical (Count: 16)
-
-Cluster 318:
-    best movie actress drama jessica chastain zero dark thirty (Count: 16)
-
-Cluster 317:
-    best part of the (Count: 15)
-
-Cluster 316:
-    best show on tv (Count: 15)
-
-Cluster 315:
-    best golden globes ever (Count: 15)
-
-Cluster 314:
-    best comedy actor in a television series the beverly hilton (Count: 15)
-
-Cluster 313:
-    best drama methinks ben affleck has officially gotten his revenge on the acade (Count: 15)
-
-Cluster 312:
-    best supporting actor movie christoph watlz (Count: 14)
-
-Cluster 311:
-    best actress in a mini - seriestv movie (Count: 14)
-
-Cluster 310:
-    best tv series drama do you agree (Count: 14)
-
-Cluster 36:
-    best actress motion picture comedy or musical (Count: 14)
-    best actress motion picture - comedy or musical (Count: 12)
-
-Cluster 309:
-    best actress in a motion picture (Count: 14)
-
-Cluster 308:
-    best ever kristin wiig (Count: 14)
-
-Cluster 307:
-    best actor in a tv series comedy (Count: 14)
-
-Cluster 306:
-    best actor tv series - comedy or musical (Count: 14)
-
-Cluster 305:
-    best actor in a motion picture musical or comedy (Count: 14)
-
-Cluster 304:
-    best dressed  2 anne hathaway wearing wh (Count: 13)
-
-Cluster 303:
-    best tv movie or miniseries game change (Count: 13)
-
-Cluster 302:
-    best tv drama series (Count: 13)
-
-Cluster 301:
-    best of all ferrell (Count: 13)
-
-Cluster 300:
-    best sense of humor (Count: 13)
-
-Cluster 299:
-    best screenplay - django unchained (Count: 13)
-
-Cluster 298:
-    best actor in a comedy or musical tv series (Count: 13)
-
-Cluster 297:
-    best comedy series paul rudd does (Count: 13)
-
-Cluster 58:
-    best actor motion picture - drama (Count: 13)
-    best actor motion picture drama (Count: 4)
-
-Cluster 28:
-    best mini - series or tv movie (Count: 12)
-    best miniseries or tv movie (Count: 7)
-
-Cluster 13:
-    best actress in a miniseries or tv movie (Count: 12)
-    best actress in a mini - series or tv movie (Count: 7)
-
-Cluster 296:
-    best line of the night (Count: 12)
-
-Cluster 294:
-    best actor in a tv movie (Count: 12)
-
-Cluster 293:
-    best golden globes zingers (Count: 12)
-
-Cluster 292:
-    best joke of the night from tina taylor swift stay away from michael j foxs son (Count: 12)
-
-Cluster 291:
-    best supporting actor christoph waltz (Count: 11)
-
-Cluster 290:
-    best supporting actress tv (Count: 11)
-
-Cluster 289:
-    best tv series comedy (Count: 11)
-
-Cluster 25:
-    best original song - motion picture (Count: 11)
-    best original song motion picture (Count: 6)
-
-Cluster 288:
-    best original song motion picture award (Count: 11)
-
-Cluster 287:
-    best actor who did (Count: 11)
-
-Cluster 286:
-    best actress in comedy or musical (Count: 11)
-
-Cluster 285:
-    best string of yesterdays ive ever had (Count: 11)
-
-Cluster 15:
-    best screenplay - motion picture (Count: 11)
-    best screenplay  motion picture (Count: 7)
-    best screenplay motion picture (Count: 4)
-
-Cluster 284:
-    best actress in a motion picture comedy (Count: 11)
-
-Cluster 282:
-    best animated feature film  via (Count: 11)
-
-Cluster 281:
-    best director our filmmaker of the year  congrats ben (Count: 11)
-
-Cluster 280:
-    best directora category hes (Count: 11)
-
-Cluster 279:
-    best actor in a musical or comedy (Count: 11)
-
-Cluster 278:
-    best actor in a comedy or musical congrats hugh jackman (Count: 11)
-
-Cluster 0:
-    best of the   jennifer lawrence what do you think (Count: 10)
-    best of the   taylor swift (Count: 9)
-    best of the   zooey deschanel (Count: 8)
-    best of the   bradley cooper (Count: 6)
-
-Cluster 277:
-    best speech of the night (Count: 10)
-
-Cluster 276:
-    best pronunciation of les miserables (Count: 10)
-
-Cluster 275:
-    best thing about the golden globes (Count: 10)
-
-Cluster 274:
-    best actress in a comedy or musical movie (Count: 10)
-
-Cluster 273:
-    best actress in a musical or comedy golden globes 2013 (Count: 10)
-
-Cluster 272:
-    best motion picture - drama nomination (Count: 10)
-
-Cluster 271:
-    best actress tv drama (Count: 10)
-
-Cluster 270:
-    best director ben affleck argo (Count: 10)
-
-Cluster 269:
-    best director golden globe (Count: 10)
-
-Cluster 12:
-    best tv series - comedy or musical (Count: 10)
-    best tv series comedy or musical (Count: 7)
-
-Cluster 267:
-    best motion picture drama win (Count: 10)
-
-Cluster 266:
-    best dressed of the night (Count: 9)
-
-Cluster 265:
-    best supporting actress in a tv movie series or miniseries (Count: 9)
-
-Cluster 264:
-    best supporting actor winner (Count: 9)
-
-Cluster 263:
-    best awkward moment on an awards show (Count: 9)
-
-Cluster 262:
-    best actress in a drama series (Count: 9)
-
-Cluster 261:
-    best opening monologue ever (Count: 9)
-
-Cluster 260:
-    best supporting actress motion picture (Count: 9)
-
-Cluster 5:
-    best screenplay - motion picture quentin tarantino django unchained (Count: 9)
-    best screenplay - motion picture  quentin tarantino  django unchained (Count: 3)
-
-Cluster 259:
-    best screenplay quentin tarantino django unchained (Count: 9)
-
-Cluster 258:
-    best dressed  jessica alba nicole richie nicole kidman (Count: 9)
-
-Cluster 257:
-    best actor musical or comedy (Count: 9)
-
-Cluster 254:
-    best supporting actor christoph waltz django unchained (Count: 8)
-
-Cluster 251:
-    best actor in a tv series drama (Count: 8)
-
-Cluster 250:
-    best wave ang lee (Count: 8)
-
-Cluster 248:
-    best actress in a comedic or musical film (Count: 8)
-
-Cluster 247:
-    best animated feature film award (Count: 8)
-
-Cluster 246:
-    best animated feature film brave the film about the l (Count: 8)
-
-Cluster 244:
-    best comedy or musical tv series (Count: 8)
-
-Cluster 243:
-    best actress in a motion picture drama  win (Count: 8)
-
-Cluster 242:
-    best actor in a musical or comedy award (Count: 8)
-
-Cluster 241:
-    best picture drama win (Count: 8)
-
-Cluster 240:
-    best dressed so far (Count: 7)
-
-Cluster 239:
-    best red carpet quotes from tina fey claire danes (Count: 7)
-
-Cluster 238:
-    best supporting actress in a tv show everyone playing tina (Count: 7)
-
-Cluster 236:
-    best actress in a min (Count: 7)
-
-Cluster 4:
-    best actress in mini - seriestv movie (Count: 7)
-    best actress in miniseriestv movie (Count: 5)
-
-Cluster 234:
-    best actress in a miniseries julianne moore did (Count: 7)
-
-Cluster 233:
-    best actor in a tv series (Count: 7)
-
-Cluster 232:
-    best song unsurprisingly seriously adele should sing the theme song (Count: 7)
-
-Cluster 231:
-    best acceptance speech so far (Count: 7)
-
-Cluster 229:
-    best jokes of all - time (Count: 7)
-
-Cluster 228:
-    best actress in a comedymusical in silver linings playbook (Count: 7)
-
-Cluster 227:
-    best supporting actor in a series mini - series or tv movie ed harris (Count: 7)
-
-Cluster 226:
-    best supporting actor in a tv show miniseries or tv movie (Count: 7)
-
-Cluster 224:
-    best actress we are so proud of you jenn (Count: 7)
-
-Cluster 223:
-    best actress in tv drama (Count: 7)
-
-Cluster 221:
-    best actor in a motion picture comedymusical (Count: 7)
-
-Cluster 220:
-    best actor in a musicalcomedy (Count: 7)
-
-Cluster 7:
-    best picture - comedy or musical (Count: 7)
-    best picture comedy or musical (Count: 4)
-
-Cluster 219:
-    best gifs of the 2013 golden globes (Count: 7)
-
-Cluster 218:
-    best actress in a dramatic film (Count: 7)
-
-Cluster 216:
-    best beauty look of the night (Count: 7)
-
-Cluster 215:
-    best motion picture musical comedy (Count: 7)
-
-Cluster 214:
-    best picture musical or comedy winner (Count: 7)
-
-Cluster 212:
-    best thing about the (Count: 6)
-
-Cluster 211:
-    best tv movie or min (Count: 6)
-
-Cluster 210:
-    best spoiling their own fucking show (Count: 6)
-
-Cluster 209:
-    best picture of the year now playing in select theaters (Count: 6)
-
-Cluster 208:
-    best original song award (Count: 6)
-
-Cluster 206:
-    best original song category the golden globe (Count: 6)
-
-Cluster 205:
-    best original song skyfall from the film skyfall - adele amp paul epworth (Count: 6)
-
-Cluster 204:
-    best original score - movie (Count: 6)
-
-Cluster 203:
-    best actor in a drama category but he can sure play softball (Count: 6)
-
-Cluster 405:
-    best speech so far h (Count: 6)
-
-Cluster 201:
-    best funniest golden globes ever   lmao (Count: 6)
-
-Cluster 200:
-    best actress in a comedymusical (Count: 6)
-
-Cluster 199:
-    best actress in a musical or comedy (Count: 6)
-
-Cluster 198:
-    best actress in musical or comedy (Count: 6)
-
-Cluster 197:
-    best supporting actor in tv (Count: 6)
-
-Cluster 196:
-    best performance by an actress in a supporting role (Count: 6)
-
-Cluster 195:
-    best actor in a tv series comedy or musical (Count: 6)
-
-Cluster 194:
-    best actor in a comedy (Count: 6)
-
-Cluster 14:
-    best supporting actress in a motion picture anne hathaway - les miserables (Count: 6)
-    best supporting actress in a motion picture anne hathaway les miserables (Count: 3)
-
-Cluster 193:
-    best actress in a tv comedymusical (Count: 6)
-
-Cluster 192:
-    best speech ever on so many levels kudos (Count: 6)
-
-Cluster 191:
-    best musical or comedy (Count: 6)
-
-Cluster 190:
-    best director acceptance speech (Count: 6)
-
-Cluster 189:
-    best actor in a movie - comedy or musical hugh jackman les miserables (Count: 6)
-
-Cluster 188:
-    best zingers from the  opener (Count: 6)
-
-Cluster 187:
-    best motion picture comedymusical (Count: 6)
-
-Cluster 185:
-    best - dressed   story (Count: 5)
-
-Cluster 184:
-    best or just only soul patch in the  audience (Count: 5)
-
-Cluster 183:
-    best supporting actor drama (Count: 5)
-
-Cluster 182:
-    best actress in a tv series (Count: 5)
-
-Cluster 18:
-    best miniseries or tv movie game change (Count: 5)
-    best mini - series or tv movie game change (Count: 4)
-
-Cluster 181:
-    best actress in a miniseries (Count: 5)
-
-Cluster 179:
-    best actor in a tv drama (Count: 5)
-
-Cluster 353:
-    best part of the night (Count: 5)
-
-Cluster 175:
-    best acceptance speech ever (Count: 5)
-
-Cluster 174:
-    best original song skyfall - adele  amp paul epworth (Count: 5)
-
-Cluster 173:
-    best actor in a miniseries or motion picture made (Count: 5)
-
-Cluster 172:
-    best actor in a miniseries hatfields amp mccoys (Count: 5)
-
-Cluster 171:
-    best actor in a miniseries or tv movie (Count: 5)
-
-Cluster 170:
-    best actress in a musicalcomedy (Count: 5)
-
-Cluster 169:
-    best actress in a supporting role in a motion picture the (Count: 5)
-
-Cluster 168:
-    best l so pra faxinar s pode verdade ela va (Count: 5)
-
-Cluster 167:
-    best actress tv series drama claire danes homel (Count: 5)
-
-Cluster 166:
-    best animated  feature (Count: 5)
-
-Cluster 165:
-    best animated feature film wreck (Count: 5)
-
-Cluster 164:
-    best actress in a tv comedy (Count: 5)
-
-Cluster 163:
-    best director translation theres justice in the world (Count: 5)
-
-Cluster 326:
-    best couple of the golden globes (Count: 5)
-
-Cluster 161:
-    best actor hugh jackman (Count: 5)
-
-Cluster 160:
-    best golden globes gags - fox news e onlinetina fey (Count: 5)
-
-Cluster 319:
-    best dressed woman was (Count: 5)
-
-Cluster 157:
-    best motion picture comedymusical les miserables  live blog (Count: 5)
-
-Cluster 156:
-    best actress in motion picture drama congrats (Count: 5)
-
-Cluster 155:
-    best looks right here (Count: 5)
-
-Cluster 154:
-    best of the night (Count: 4)
-
-Cluster 153:
-    best joke of the night (Count: 4)
-
-Cluster 152:
-    best bad guy ever such a nice guy how he plays such assholes (Count: 4)
-
-Cluster 151:
-    best supporting film actor (Count: 4)
-
-Cluster 150:
-    best original song from a motion picture (Count: 4)
-
-Cluster 148:
-    best supp actor see (Count: 4)
-
-Cluster 146:
-    best look of the night (Count: 4)
-
-Cluster 145:
-    best actress in a miniseries or motion picture made (Count: 4)
-
-Cluster 144:
-    best t - mobile commercial in 2005 (Count: 4)
-
-Cluster 142:
-    best a im dying (Count: 4)
-
-Cluster 283:
-    best tv series drama  rt if you think (Count: 4)
-
-Cluster 140:
-    best score doesnt get (Count: 4)
-
-Cluster 3:
-    best original song motion picture - skyfall (Count: 4)
-    best original song - motion picture skyfall (Count: 3)
-
-Cluster 139:
-    best speech so far (Count: 4)
-
-Cluster 137:
-    best original song the only original thing from that movie (Count: 4)
-
-Cluster 136:
-    best actor in a miniseries (Count: 4)
-
-Cluster 135:
-    best actor in miniseries (Count: 4)
-
-Cluster 268:
-    best presenters so far (Count: 4)
-
-Cluster 132:
-    best speech of the night so far (Count: 4)
-
-Cluster 131:
-    best actress comedymusical - jennifer lawrence (Count: 4)
-
-Cluster 130:
-    best supporting actor in a tv series (Count: 4)
-
-Cluster 129:
-    best moment of the night (Count: 4)
-
-Cluster 128:
-    best about the golden globes but brent musburger suggested otherwise (Count: 4)
-
-Cluster 253:
-    best screenplay tarantino wins (Count: 4)
-
-Cluster 249:
-    best animated film amp outst (Count: 4)
-
-Cluster 123:
-    best animated film - great year (Count: 4)
-
-Cluster 245:
-    best actress in a television series comedy or musical win (Count: 4)
-
-Cluster 121:
-    best performance by an actress in a tv series - musical or comedy (Count: 4)
-
-Cluster 120:
-    best tv comedy actress (Count: 4)
+    best television series, drama (Count: 69)
+    best television series drama (Count: 20)
+    best television series - drama (Count: 126)
+    best television series (drama) (Count: 5)
+
+Cluster 62:
+    best television series, comedy or musical (Count: 4)
+    best television series comedy or musical (Count: 3)
+    best television series - comedy or musical (Count: 71)
 
 Cluster 119:
-    best actress tv series comedy (Count: 4)
-
-Cluster 237:
-    best taylor swift stay away from michael j foxs son (Count: 4)
-
-Cluster 235:
-    best tv series musical or comedy (Count: 4)
-
-Cluster 116:
-    best actor in a comedymusical (Count: 4)
-
-Cluster 115:
-    best actor in comedymusical (Count: 4)
-
-Cluster 230:
-    best performance by actor in a motion picture musical or comedy win (Count: 4)
-
-Cluster 113:
-    best actor in musicalcomedy in   think hes got a (Count: 4)
-
-Cluster 225:
-    best performances of all time (Count: 4)
-
-Cluster 222:
-    best picture drama golden globe winner (Count: 4)
-
-Cluster 109:
-    best performance by an actor in a motion picture - much deserved d (Count: 4)
-
-Cluster 217:
-    best thing about awards shows (Count: 4)
-
-Cluster 107:
-    best dressed on the red carpet (Count: 3)
-
-Cluster 213:
-    best of all time (Count: 3)
-
-Cluster 105:
-    best facial hair of the night (Count: 3)
-
-Cluster 104:
-    best golden globes ever c rt  drink (Count: 3)
-
-Cluster 207:
-    best song nominee  in (Count: 3)
-
-Cluster 102:
-    best performance by an actor in a supporting role in a motion picture (Count: 3)
-
-Cluster 101:
-    best supporting actor award (Count: 3)
-
-Cluster 202:
-    best supporting actress in a television series (Count: 3)
-
-Cluster 99:
-    best support actress in tv movie series or miniseries (Count: 3)
-
-Cluster 98:
-    best performance by an actress in a supporting role in a series (Count: 3)
-
-Cluster 97:
-    best tv movie or miniseries (Count: 3)
-
-Cluster 96:
-    best ever tina fey (Count: 3)
-
-Cluster 95:
-    best original song the shows airs (Count: 3)
-
-Cluster 94:
-    best supporting actor omg leonardo dicaprio was robbed (Count: 3)
-
-Cluster 93:
-    best actress in a tv movie (Count: 3)
-
-Cluster 186:
-    best part about the golden globes (Count: 3)
-
-Cluster 91:
-    best show on television (Count: 3)
-
-Cluster 90:
-    best actor tv series or drama his first win 3rd nom (Count: 3)
-
-Cluster 180:
-    best actor in a television series drama (Count: 3)
-
-Cluster 177:
-    best exotic marigold hotel sounds (Count: 3)
-
-Cluster 176:
-    best actor tv series drama (Count: 3)
-
-Cluster 86:
-    best actor tv series homel (Count: 3)
-
-Cluster 85:
-    best drama tv series (Count: 3)
-
-Cluster 84:
-    best drama series as well (Count: 3)
-
-Cluster 83:
-    best performance by an actor (Count: 3)
-
-Cluster 82:
-    best drama on golden globes  representing (Count: 3)
-
-Cluster 81:
-    best tv drama because (Count: 3)
-
-Cluster 162:
-    best performance by an actor in a motion picture (Count: 3)
-
-Cluster 159:
-    best original score - life of p (Count: 3)
-
-Cluster 158:
-    best original score motion picture michael danna life of p (Count: 3)
-
-Cluster 77:
-    best score should go (Count: 3)
-
-Cluster 75:
-    best actress in a miniseries or made (Count: 3)
-
-Cluster 149:
-    best tv drama showtimes homel (Count: 3)
-
-Cluster 295:
-    best original score va aaltro rullo d (Count: 3)
-
-Cluster 72:
-    best parts in an already - awesome movie go adele (Count: 3)
-
-Cluster 143:
-    best actor tv movie or min (Count: 3)
-
-Cluster 141:
-    best actor of all time (Count: 3)
-
-Cluster 69:
-    best l so pra faxinar s pode (Count: 3)
-
-Cluster 138:
-    best actress in a movie - comedy or musical jennifer lawrence silver linings playbook (Count: 3)
-
-Cluster 67:
-    best actress comedy or musical (Count: 3)
-
-Cluster 134:
-    best actress in a comedy or musical also (Count: 3)
-
-Cluster 65:
-    best actress makes sassy (Count: 3)
-
-Cluster 64:
-    best original score you may (Count: 3)
-
-Cluster 255:
-    best supporting actor in min (Count: 3)
-
-Cluster 124:
-    best supporting actress in a motion picture went (Count: 3)
-
-Cluster 122:
-    best supporting actress in a film (Count: 3)
-
-Cluster 59:
-    best amp worst tina fey a (Count: 3)
-
-Cluster 117:
-    best actress in a motion picture comedy or musical - jennifer lawrence (Count: 3)
-
-Cluster 57:
-    best dress - claire danes 2 fastest post (Count: 3)
-
-Cluster 114:
-    best screenplay motion picture w (Count: 3)
-
-Cluster 108:
-    best screenplay the n - word (Count: 3)
-
-Cluster 106:
-    best tv actor comedy or musical don cheadle (Count: 3)
-
-Cluster 103:
-    best supporting actress anne hathaway les miserables obviously (Count: 3)
-
-Cluster 50:
-    best actor in a tv comedy or musical series (Count: 3)
-
-Cluster 100:
-    best tv drama actress (Count: 3)
-
-Cluster 48:
-    best actress in a tv series - drama claire danes homel (Count: 3)
-
-Cluster 47:
-    best drama tv actress (Count: 3)
-
-Cluster 89:
-    best part of the golden globes so far (Count: 3)
-
-Cluster 178:
-    best part of the show (Count: 3)
-
-Cluster 42:
-    best part about sacha baron cohen (Count: 3)
-
-Cluster 41:
-    best animated feature brave (Count: 3)
-
-Cluster 40:
-    best actress television series comedy or musical - lena dunham girls (Count: 3)
-
-Cluster 79:
-    best performance by an actress in a tv musical or comedy (Count: 3)
-
-Cluster 78:
-    best rt  okay a (Count: 3)
-
-Cluster 76:
-    best amp most beautiful supporting actress ah - maaaaazing anne
-were campaigning (Count: 3)
-
-Cluster 147:
-    best amp worst dressed photos (Count: 3)
-
-Cluster 71:
-    best most fantastic way possible goddamm (Count: 3)
-
-Cluster 70:
-    best director proving that the  got their sh (Count: 3)
-
-Cluster 68:
-    best director gets a st (Count: 3)
-
-Cluster 133:
-    best tv series - comedy or musical girls (Count: 3)
-
-Cluster 256:
-    best television series - musical or comedy (Count: 3)
-
-Cluster 60:
-    best actor comedy or musical (Count: 3)
-
-Cluster 118:
-    best performance of the year (Count: 3)
-
-Cluster 111:
-    best actor in comedy or musical (Count: 3)
-
-Cluster 110:
-    best actor - musical (Count: 3)
-
-Cluster 51:
-    best golden globes gags - fox news (Count: 3)
-
-Cluster 49:
-    best dressed australian actress nicole kidman was stunning in an alex (Count: 3)
-
-Cluster 2:
-    best motion picture - comedy or musical les miserables (Count: 3)
-    best motion picture comedy or musical les miserables (Count: 3)
-
-Cluster 92:
-    best motion picture - comedy or musical les misrables (Count: 3)
-
-Cluster 88:
-    best motion picture - musical (Count: 3)
-
-Cluster 20:
-    best his  su (Count: 3)
-
-Cluster 80:
-    best actress in a movie - drama jessica chastain zero dark thirty (Count: 3)
-
-Cluster 37:
-    best movie actor drama daniel day - lewis (Count: 3)
-
-Cluster 33:
-    best actor - drama  award (Count: 3)
+    best television series, comedy (Count: 53)
+    best television series comedy (Count: 3)
+
+Cluster 128:
+    best television series actress - comedy or musical (Count: 42)
 
 Cluster 127:
-    best actress in a drama jessica chastain zero dark thirty (Count: 3)
+    best television series actor - drama (Count: 64)
 
-Cluster 252:
-    best lead actor in a drama (Count: 3)
+Cluster 124:
+    best television actor, comedy or musical (Count: 3)
+
+Cluster 59:
+    best supporting actress, television (Count: 51)
+    best supporting actress (television) (Count: 3)
+
+Cluster 60:
+    best supporting actress, motion picture (Count: 7)
+    best supporting actress motion picture (Count: 4)
+
+Cluster 123:
+    best supporting actress television series, miniseries, or television movie (Count: 22)
+
+Cluster 121:
+    best supporting actress in a motion picture (Count: 491)
+
+Cluster 120:
+    best supporting actress in a film (Count: 4)
+
+Cluster 118:
+    best supporting actor, movie (Count: 14)
+
+Cluster 117:
+    best supporting actor, motion picture (Count: 44)
+
+Cluster 116:
+    best supporting actor, drama (Count: 5)
+
+Cluster 115:
+    best supporting actor in television (Count: 7)
+
+Cluster 114:
+    best supporting actor in a television show, miniseries or television movie (Count: 7)
+
+Cluster 113:
+    best supporting actor in a series, mini - series or television movie (Count: 7)
 
 Cluster 112:
-    best actor drama - daniel day (Count: 3)
+    best supporting actor in a motion picture (Count: 175)
 
-Cluster 53:
-    best drama motion picture (Count: 3)
+Cluster 111:
+    best supporting actor in a drama (Count: 20)
 
-Cluster 23:
-    best motion picture drama  via (Count: 3)
+Cluster 110:
+    best song in a motion picture (Count: 3)
 
-Cluster 46:
-    best motion picture drama argo  live blog (Count: 3)
+Cluster 109:
+    best song (Count: 11)
 
-Cluster 39:
-    best motion picture drama congrats (Count: 3)
+Cluster 108:
+    best show on television (Count: 14)
 
-Cluster 35:
-    best picture beating out lincoln everyone (Count: 3)
+Cluster 12:
+    best screenplay, motion picture (Count: 46)
+    best screenplay motion picture (Count: 4)
+    best screenplay - motion picture (Count: 31)
 
-Cluster 66:
-    best film drama - argo  that (Count: 3)
+Cluster 106:
+    best picture, musical or comedy (Count: 31)
 
-Cluster 125:
-    best tv drama lead actress claire danes amp lead actor damian lewis (Count: 3)
+Cluster 105:
+    best picture - drama (Count: 20)
 
-Cluster 24:
-    best gifs of the 2013 golden globes now w (Count: 3)
+Cluster 104:
+    best picture - comedy or musical (Count: 5)
+
+Cluster 103:
+    best picture (Count: 6)
+
+Cluster 102:
+    best performance by an actress in a television series - musical or comedy (Count: 3)
+
+Cluster 101:
+    best performance by an actress in a television musical or comedy (Count: 3)
+
+Cluster 100:
+    best performance by an actress in a supporting role in a motion picture (Count: 3)
+
+Cluster 99:
+    best performance by an actress in a motion picture - musical or comedy (Count: 4)
+
+Cluster 98:
+    best performance by an actress in a motion picture - drama (Count: 5)
+
+Cluster 97:
+    best performance by an actor in a supporting role in a motion picture (Count: 4)
+
+Cluster 96:
+    best performance by an actor in a motion picture - drama (Count: 21)
+
+Cluster 95:
+    best performance by an actor in a motion picture (Count: 5)
 
 Cluster 45:
-    best director golden globes ben affleck wins (Count: 3)
+    best original song, motion picture (Count: 198)
+    best original song motion picture (Count: 3)
+    best original song - motion picture (Count: 16)
+
+Cluster 94:
+    best original song motion picture award (Count: 11)
+
+Cluster 93:
+    best original song in a motion picture (Count: 36)
+
+Cluster 92:
+    best original song from a motion picture (Count: 5)
+
+Cluster 90:
+    best original song (Count: 294)
+
+Cluster 21:
+    best original score, motion picture (Count: 5)
+    best original score - motion picture (Count: 30)
+
+Cluster 89:
+    best original score - movie (Count: 6)
+
+Cluster 87:
+    best musical or comedy (Count: 6)
+
+Cluster 20:
+    best movie comedy or musical (Count: 24)
+    best movie - comedy or musical (Count: 14)
+
+Cluster 86:
+    best movie actress, drama (Count: 16)
+
+Cluster 85:
+    best movie actor, drama (Count: 18)
+
+Cluster 84:
+    best movie - drama (Count: 8)
+
+Cluster 82:
+    best motion picture, musical or comedy (Count: 108)
+    best motion picture - musical or comedy (Count: 10)
+
+Cluster 19:
+    best motion picture, drama (Count: 105)
+    best motion picture drama (Count: 120)
+    best motion picture - drama (Count: 184)
+
+Cluster 40:
+    best motion picture, comedy/musical (Count: 7)
+    best motion picture comedy/musical (Count: 5)
 
 Cluster 38:
-    best s jessica chastain zero dark thirty daniel day - lewis lincoln (Count: 3)
+    best motion picture, comedy or musical, (Count: 22)
+    best motion picture, comedy or musical (Count: 55)
+    best motion picture comedy or musical (Count: 15)
+    best motion picture - comedy or musical (Count: 208)
+    best motion picture (comedy or musical) (Count: 4)
+
+Cluster 80:
+    best motion picture - musical (Count: 3)
+
+Cluster 77:
+    best motion picture (Count: 16)
+
+Cluster 37:
+    best miniseries or television movie (Count: 11)
+    best mini - series or television movie (Count: 16)
+
+Cluster 75:
+    best director motion picture  awarded (Count: 47)
+
+Cluster 36:
+    best director motion picture (Count: 3)
+    best director - motion picture (Count: 17)
+
+Cluster 17:
+    best director award (Count: 35)
+    best director  award (Count: 24)
+
+Cluster 72:
+    best dir award (Count: 9)
+
+Cluster 71:
+    best comedy or musical (Count: 19)
+
+Cluster 70:
+    best animated film (Count: 6)
+
+Cluster 69:
+    best animated feature film (Count: 189)
+
+Cluster 68:
+    best actress, television series, drama (Count: 5)
+
+Cluster 67:
+    best actress, television drama (Count: 7)
+
+Cluster 66:
+    best actress, musical or comedy (Count: 25)
+
+Cluster 7:
+    best actress, motion picture comedy or musical, (Count: 6)
+    best actress, motion picture comedy or musical (Count: 4)
+    best actress motion picture comedy or musical (Count: 5)
+    best actress motion picture - comedy or musical (Count: 11)
+
+Cluster 65:
+    best actress, drama, (Count: 10)
+
+Cluster 64:
+    best actress television series comedy (Count: 4)
+
+Cluster 125:
+    best actress in television drama (Count: 7)
+
+Cluster 61:
+    best actress in musical or comedy (Count: 6)
+
+Cluster 122:
+    best actress in motion picture drama (Count: 4)
+
+Cluster 29:
+    best actress in miniseries/television movie (Count: 5)
+    best actress in mini - series/television movie (Count: 6)
+
+Cluster 58:
+    best actress in comedy or musical (Count: 7)
+
+Cluster 28:
+    best actress in a television series/drama (Count: 3)
+    best actress in a television series, drama, (Count: 8)
+    best actress in a television series, drama (Count: 51)
+    best actress in a television series drama (Count: 9)
+    best actress in a television series - drama (Count: 63)
+
+Cluster 13:
+    best actress in a television series comedy or musical (Count: 15)
+    best actress in a television series - comedy or musical (Count: 9)
+
+Cluster 55:
+    best actress in a television drama (Count: 15)
+
+Cluster 54:
+    best actress in a television comedy/musical (Count: 6)
+
+Cluster 107:
+    best actress in a television comedy or musical (Count: 29)
 
 Cluster 52:
-    best performance by an actor in a (Count: 3)
+    best actress in a television comedy (Count: 46)
+
+Cluster 51:
+    best actress in a supporting role in a motion picture (Count: 3)
+
+Cluster 50:
+    best actress in a musical or comedy (Count: 5)
+
+Cluster 49:
+    best actress in a movie - drama (Count: 3)
+
+Cluster 48:
+    best actress in a motion picture, musical or comedy (Count: 79)
+
+Cluster 22:
+    best actress in a motion picture, drama, (Count: 4)
+    best actress in a motion picture, drama (Count: 57)
+    best actress in a motion picture drama (Count: 50)
+    best actress in a motion picture - drama (Count: 89)
+
+Cluster 47:
+    best actress in a motion picture, comedy (Count: 11)
+
+Cluster 10:
+    best actress in a motion picture comedy or musical (Count: 5)
+    best actress in a motion picture - comedy or musical (Count: 166)
+    best actress in a motion picture (comedy or musical) (Count: 3)
+
+Cluster 44:
+    best actress in a motion picture (Count: 16)
+
+Cluster 9:
+    best actress in a miniseries or television movie (Count: 38)
+    best actress in a mini - series or television movie (Count: 9)
+
+Cluster 88:
+    best actress in a miniseries or movie (Count: 3)
+
+Cluster 42:
+    best actress in a mini - series/television movie (Count: 14)
+
+Cluster 81:
+    best actress in a drama (Count: 19)
+
+Cluster 18:
+    best actress in a comedy or musical' (Count: 5)
+    best actress in a comedy or musical (Count: 22)
+
+Cluster 79:
+    best actress in a comedy or musical movie (Count: 9)
+
+Cluster 76:
+    best actress in a comedy (Count: 8)
+
+Cluster 73:
+    best actress in a comedic or musical film (Count: 8)
+
+Cluster 8:
+    best actress comedy or musical (Count: 4)
+    best actress - comedy or musical (Count: 3)
+
+Cluster 34:
+    best actor, television series or drama (Count: 3)
+
+Cluster 33:
+    best actor, television series comedy (Count: 24)
+
+Cluster 32:
+    best actor, musical or comedy, (Count: 5)
+
+Cluster 63:
+    best actor, movie comedy (Count: 22)
+
+Cluster 14:
+    best actor, motion picture, drama (Count: 3)
+    best actor motion picture drama (Count: 3)
+    best actor motion picture - drama (Count: 11)
+
+Cluster 3:
+    best actor, drama (Count: 20)
+    best actor (drama) (Count: 3)
+
+Cluster 11:
+    best actor, comedy or musical (Count: 6)
+    best actor - comedy or musical (Count: 3)
+
+Cluster 126:
+    best actor television series - comedy or musical (Count: 13)
+
+Cluster 57:
+    best actor in television series - drama (Count: 3)
+
+Cluster 56:
+    best actor in musical or comedy (Count: 3)
+
+Cluster 53:
+    best actor in comedy/musical (Count: 4)
+
+Cluster 25:
+    best actor in comedy or musical (Count: 4)
+
+Cluster 5:
+    best actor in a television series, drama, (Count: 3)
+    best actor in a television series, drama (Count: 44)
+    best actor in a television series drama (Count: 4)
+    best actor in a television series - drama (Count: 4)
+
+Cluster 24:
+    best actor in a television series, comedy (Count: 9)
+
+Cluster 4:
+    best actor in a television series - comedy or musical (Count: 72)
+    best actor in a television series (comedy or musical) (Count: 5)
+
+Cluster 43:
+    best actor in a television movie (Count: 12)
+
+Cluster 83:
+    best actor in a television drama (Count: 5)
+
+Cluster 39:
+    best actor in a musical or comedy award (Count: 7)
+
+Cluster 78:
+    best actor in a musical or comedy (Count: 8)
+
+Cluster 35:
+    best actor in a movie - comedy or musical (Count: 6)
+
+Cluster 1:
+    best actor in a motion picture, musical or comedy (Count: 93)
+    best actor in a motion picture - musical or comedy (Count: 4)
+
+Cluster 2:
+    best actor in a motion picture, drama, (Count: 7)
+    best actor in a motion picture, drama (Count: 56)
+    best actor in a motion picture drama (Count: 24)
+    best actor in a motion picture - drama (Count: 104)
+    best actor in a motion picture (drama) (Count: 3)
+
+Cluster 6:
+    best actor in a motion picture, comedy or musical (Count: 72)
+    best actor in a motion picture,  comedy or musical (Count: 10)
+    best actor in a motion picture comedy or musical (Count: 17)
+    best actor in a motion picture - comedy or musical (Count: 177)
+
+Cluster 16:
+    best actor in a motion picture comedy/musical (Count: 6)
+
+Cluster 26:
+    best actor in a miniseries/television movie (Count: 14)
+
+Cluster 0:
+    best actor in a miniseries or television movie (Count: 27)
+    best actor in a mini - series or television movie (Count: 6)
+
+Cluster 91:
+    best actor in a drama (Count: 20)
+
+Cluster 41:
+    best actor in a comedy/musical (Count: 4)
 
 Cluster 74:
-    best actor winner speeches (Count: 3)
+    best actor in a comedy or musical (Count: 16)
+
+Cluster 31:
+    best actor in a comedy (Count: 4)
+
+Cluster 27:
+    best actor award (Count: 5)
+
+Cluster 23:
+    best actor - musical (Count: 3)
+
+Cluster 46:
+    best actor - miniseries or television film (Count: 15)
+
+Cluster 15:
+    best actor - drama  award (Count: 3)
 

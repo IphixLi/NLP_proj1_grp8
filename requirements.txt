@@ -1,2 +1,4 @@
 spacy
 scikit-learn
+nltk
+wikipedia

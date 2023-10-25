@@ -3,13 +3,13 @@ import re
 # import nltk
 import collections
 
-f = open("gg2013.json",encoding="utf-8", errors="ignore")
+f = open("yifan/tweets/normal_tweets.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
 line="cecil b. demille award"
 
 for entry in json_text:
-    if line in entry["text"].lower():
-        print(entry["text"].encode())
+    if line in entry["new_text"].lower():
+        print(entry["new_text"].encode())
 
 
 

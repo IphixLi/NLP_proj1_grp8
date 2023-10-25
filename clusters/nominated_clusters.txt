@@ -1,87 +1,30 @@
-Cluster 28:
-    the best director oscar (Count: 3)
-
-Cluster 15:
-    the best (Count: 2)
-
-Cluster 27:
-    best tv show drama (Count: 2)
-
-Cluster 26:
-    best tv movie (Count: 1)
-
-Cluster 25:
-    best tv drama (Count: 1)
-
-Cluster 24:
-    best tv actor (Count: 1)
-
-Cluster 23:
-    best supporting actress (Count: 2)
-
-Cluster 22:
-    best supporting actor (Count: 1)
-
-Cluster 21:
-    best song in a motion picture (Count: 1)
-
-Cluster 20:
-    best poor man's the untouchables (Count: 1)
-
-Cluster 19:
-    best picture in the oscars (Count: 1)
-
-Cluster 18:
-    best original song like they were supposed to (Count: 1)
-
-Cluster 17:
-    best original song (Count: 1)
-
-Cluster 16:
-    best motion picture - drama (Count: 1)
+Cluster 9:
+    best television show drama (Count: 1)
 
 Cluster 7:
-    best mini-series (Count: 2)
-
-Cluster 14:
-    best dramatic role during comedy (Count: 2)
-
-Cluster 13:
-    best drama series (Count: 1)
-
-Cluster 12:
-    best director (Count: 4)
-
-Cluster 11:
-    best animated film (Count: 1)
-
-Cluster 10:
-    best animated feature (Count: 2)
-
-Cluster 9:
-    best actress in a drama series (Count: 1)
+    best television movie (Count: 1)
 
 Cluster 8:
-    best actress - musical or comedy (Count: 1)
+    best television drama (Count: 1)
 
 Cluster 3:
-    a fucking best picture like are you kidding me (Count: 1)
+    best song in a motion picture (Count: 1)
 
 Cluster 6:
-    a best picture oscar (Count: 1)
+    best original song (Count: 1)
 
 Cluster 5:
-    a best picture golden globe (Count: 1)
+    best motion picture - drama (Count: 1)
 
 Cluster 4:
-    a best actor academy award (Count: 2)
+    best dramatic role during comedy (Count: 1)
 
 Cluster 1:
-    'dog president' in best actor (Count: 6)
+    best animated film (Count: 1)
 
 Cluster 2:
-    "best song" (Count: 6)
+    best actress - musical or comedy (Count: 1)
 
 Cluster 0:
-    "best other guy" (Count: 2)
+    a best actor academy award (Count: 1)
 
