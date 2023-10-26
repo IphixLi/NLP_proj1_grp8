@@ -142,6 +142,23 @@ def calc_score(result, answer):
     len_result = len(result)
     len_answer = len(answer)
 
+    unions=set(answer)-intersection
+
+    print(f"mets: ,{len_answer}, {len_intersection}, {len_union}")
+
+    pprint("not_yet_matched: ")
+    pprint(unions)
+    print()
+
+    pprint("matched: ")
+    pprint(intersection)
+    print()
+
+    pprint("extras: ")
+    pprint(result-intersection)
+    print()
+
+
     if len_union == 0:
         return 0
     elif len_result == len_answer and len_intersection == len_answer:
@@ -161,6 +178,7 @@ def calc_score(result, answer):
     else:
         return 0
 
+    
     return (len_intersection / float(len_union)) * m
 
 

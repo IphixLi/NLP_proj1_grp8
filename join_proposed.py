@@ -8,7 +8,7 @@ nlp = spacy.load("en_core_web_sm")
 def get_awards():
     files=["best","wins","clusters","goes","nominee","receives","winner"]
     confident=open("proposed_awards/combined_confident.txt", "w")
-    no_confident=open("proposed_awards/combined_not_confident.txt", "w")
+    # no_confident=open("proposed_awards/combined_not_confident.txt", "w")
     combined=open("proposed_awards/proposed_combined.txt", "w")
     stage_confident=[]
     stage_no_confident=[]
@@ -23,8 +23,9 @@ def get_awards():
                 else:
                     stage_confident.append(line)
 
+
     name_map={"yes":stage_confident,"no":stage_no_confident}
-    for stage in name_map.keys():
+    for stage in ["yes","no"]:
         # Tokenize the texts using spaCy and convert them into a list of tokens
         tokenized_texts = [doc for doc in nlp.pipe(name_map[stage])]
 
@@ -42,7 +43,7 @@ def get_awards():
         jaccard_similarities = pairwise_distances(X, metric="jaccard")
 
         # Apply hierarchical clustering based on Jaccard similarity
-        clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.5, linkage='average', affinity='precomputed').fit(jaccard_similarities)
+        clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.3, linkage='average', affinity='precomputed').fit(jaccard_similarities)
 
         # Get the cluster labels
         cluster_labels = clustering.labels_
@@ -56,19 +57,20 @@ def get_awards():
                 grouped_texts[label] = [text]
 
         for label, group in grouped_texts.items():
-            
             if stage=='yes':
-                confident.write(f"Cluster {label}:\n")
+                # confident.write(f"Cluster {label}:\n")
                 cluster = []
+                confident.write(f"cluster {label} \n")
                 for text in group:
                     splitted=re.split(r',(?![ ])', text)
                     selected=[i for i in splitted if len(i)>0]
                     cluster.append(selected)
                     confident.write(f"    {text}")
                 confident.write("\n")
-                # for text in group:
-                #     confident.write(f"{text}")
+                for text in group:
+                    confident.write(f"{text}")
                 # print(cluster)
+
                 try:
                     max_count_item = max(cluster, key=lambda x: x[1])
                 except Exception as e:
@@ -76,22 +78,21 @@ def get_awards():
                 results.append(max_count_item[0].strip())
                 combined.write(",".join(max_count_item))
             else:
-                no_confident.write(f"Cluster {label}:\n")
+                # no_confident.write(f"Cluster {label}:\n")
                 cluster = []
                 for text in group:
                     splitted=re.split(r',(?![ ])', text)
                     selected=[i for i in splitted if len(i)>0]
                     cluster.append(selected)
-                    no_confident.write(f"    {text}")
-                no_confident.write("\n")
+                    # no_confident.write(f"    {text}")
+                # no_confident.write("\n")
 
-                # max_count_item = max(cluster, key=lambda x: int(x[1]))
+                max_count_item = max(cluster, key=lambda x: int(x[1]))
                 # # if something had many iterations or was mentioned multiple times, it is more likely that it's a W
-                # if len(cluster) > 2 or int(max_count_item[1]) > 40:
+                # if len(cluster) > 7 or int(max_count_item[1]) > 40:
                 #     combined.write(",".join(max_count_item))
                 # else:
-                #     no_combined.write(",".join(max_count_item))
-    print(results)
+                #        no_combined.write(",".join(max_count_item))
     return results
     confident.close()
     no_confident.close()
@@ -100,3 +101,6 @@ def get_awards():
     # no_combined.close()
 
 
+
+if __name__ == '__main__':
+    get_awards()

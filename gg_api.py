@@ -1,4 +1,4 @@
-import join_proposed
+import clustering
 '''Version 0.4'''
 
 def get_hosts(year):
@@ -11,7 +11,7 @@ def get_awards(year):
     '''Awards is a list of strings. Do NOT change the name
     of this function or what it returns.'''
     # Your code here
-    return join_proposed.get_awards()
+    return clustering.get_awards()
 
 def get_nominees(year):
     '''Nominees is a dictionary with the hard coded award

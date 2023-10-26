@@ -1,30 +1,21 @@
-Cluster 9:
-    best television show drama (Count: 1)
-
-Cluster 7:
-    best television movie (Count: 1)
-
-Cluster 8:
-    best television drama (Count: 1)
+Cluster 6:
+    eign language film award (Count: 1)
 
 Cluster 3:
-    best song in a motion picture (Count: 1)
-
-Cluster 6:
-    best original song (Count: 1)
+    this "dream on" song (Count: 1)
 
 Cluster 5:
-    best motion picture - drama (Count: 1)
+    just won the same award (Count: 1)
 
 Cluster 4:
-    best dramatic role during comedy (Count: 1)
+    jodi foster's lifetime achievement award (Count: 1)
 
 Cluster 1:
-    best animated film (Count: 1)
+    an naacp award (Count: 1)
 
 Cluster 2:
-    best actress - musical or comedy (Count: 1)
+    actress in a comedy (Count: 1)
 
 Cluster 0:
-    a best actor academy award (Count: 1)
+    so blessed to be helen's stand in on this film (Count: 1)
 

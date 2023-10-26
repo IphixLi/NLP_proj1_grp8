@@ -1,130 +1,105 @@
-best television series, musical or comedy,,3,0
 best television series - drama,126,1
 best television series - comedy or musical,71,1
 best television series, comedy,53,1
-best television series actress - comedy or musical,42,1
-best television series actor - drama,64,1
-best television actor, comedy or musical,3,0
-best supporting actress, television,51,1
-best supporting actress, motion picture,7,1
-best supporting actress television series, miniseries, or television movie,22,1
-best supporting actress in a motion picture,491,1
-best supporting actress in a film,4,0
-best supporting actor, movie,14,1
-best supporting actor, motion picture,44,1
-best supporting actor, drama,5,0
-best supporting actor in television,7,0
-best supporting actor in a television show, miniseries or television movie,7,0
-best supporting actor in a series, mini - series or television movie,7,0
-best supporting actor in a motion picture,175,1
-best supporting actor in a drama,20,1
-best song in a motion picture,3,0
-best song,11,1
 best show on television,14,1
 best screenplay, motion picture,46,1
 best picture, musical or comedy,31,1
 best picture - drama,20,1
 best picture - comedy or musical,5,0
-best picture,6,0
-best performance by an actress in a television series - musical or comedy,3,0
-best performance by an actress in a television musical or comedy,3,0
-best performance by an actress in a supporting role in a motion picture,3,0
-best performance by an actress in a motion picture - musical or comedy,4,0
-best performance by an actress in a motion picture - drama,5,0
-best performance by an actor in a supporting role in a motion picture,4,0
-best performance by an actor in a motion picture - drama,21,1
-best performance by an actor in a motion picture,5,0
+best performance by an actress, television series, drama,5,0
+best performance by an actress, television drama,7,0
+best performance by an actress, musical or comedy,25,1
+best performance by an actress motion picture - comedy or musical,11,1
+best performance by an actress, drama,,10,0
+best performance by an actress television series comedy,4,0
+best performance by an actress in television drama,7,0
+best performance by an actress in musical or comedy,6,0
+best performance by an actress in motion picture drama,4,0
+best performance by an actress in mini - series/television movie,6,1
+best performance by an actress in comedy or musical,7,0
+best performance by an actress in a television series - drama,65,1
+best performance by an actress in a television series comedy or musical,15,1
+best performance by an actress in a television drama,15,1
+best performance by an actress in a television comedy/musical,6,0
+best performance by an actress in a television comedy or musical,29,1
+best performance by an actress in a television comedy,46,1
+best performance by an actress in a supporting role, television,51,1
+best performance by an actress in a supporting role, motion picture,7,1
+best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+best performance by an actress in a supporting role in a motion picture,494,1
+best performance by an actress in a supporting role in a film,4,0
+best performance by an actress in a musical or comedy,5,0
+best performance by an actress in a motion picture, musical or comedy,79,1
+best performance by an actress in a motion picture - drama,94,1
+best performance by an actress in a motion picture, comedy,11,1
+best performance by an actress in a motion picture - comedy or musical,167,1
+best performance by an actress in a motion picture,17,1
+best performance by an actress in a miniseries or television movie,38,1
+best performance by an actress in a mini - series/television movie,14,1
+best performance by an actress in a drama,19,1
+best performance by an actress in a comedy or musical,23,1
+best performance by an actress in a comedy or musical movie,9,0
+best performance by an actress in a comedy,7,0
+best performance by an actress in a comedic or musical film,8,0
+best performance by an actress comedy or musical,4,0
+best performance by an actor, television series comedy,24,1
+best performance by an actor, musical or comedy,,5,0
+best performance by an actor, movie comedy,22,1
+best performance by an actor, drama,20,1
+best performance by an actor, comedy or musical,6,0
+best performance by an actor television series - comedy or musical,13,1
+best performance by an actor motion picture - drama,11,1
+best performance by an actor in comedy/musical,4,0
+best performance by an actor in comedy or musical,4,0
+best performance by an actor in a television series, drama,44,1
+best performance by an actor in a television series, comedy,9,0
+best performance by an actor in a television series - musical or comedy,4,0
+best performance by an actor in a television series - comedy or musical,72,1
+best performance by an actor in a television movie,12,1
+best performance by an actor in a television drama,5,0
+best performance by an actor in a supporting role, movie,14,1
+best performance by an actor in a supporting role, motion picture,44,1
+best performance by an actor in a supporting role, drama,5,0
+best performance by an actor in a supporting role in television,7,0
+best performance by an actor in a supporting role in a television show, miniseries or television movie,7,0
+best performance by an actor in a supporting role in a series, mini - series or television movie,7,0
+best performance by an actor in a supporting role in a motion picture,179,1
+best performance by an actor in a supporting role in a drama,20,1
+best performance by an actor in a musical or comedy,8,0
+best performance by an actor in a movie - comedy or musical,6,0
+best performance by an actor in a motion picture, musical or comedy,93,1
+best performance by an actor in a motion picture - drama,125,1
+best performance by an actor in a motion picture - comedy or musical,177,1
+best performance by an actor in a motion picture comedy/musical,6,0
+best performance by an actor in a motion picture,7,0
+best performance by an actor in a miniseries/television movie,14,1
+best performance by an actor in a miniseries or television movie,28,1
+best performance by an actor in a drama,19,1
+best performance by an actor in a comedy/musical,4,0
+best performance by an actor in a comedy or musical,15,1
+best performance by an actor in a comedy,4,0
+best performance by an actor award,5,0
+best performance by an actor - miniseries or television film,15,1
+best performance by a television series actress - comedy or musical,42,1
+best performance by a television series actor - drama,64,1
+best performance by a movie actress, drama,16,1
+best performance by a movie actor, drama,18,1
 best original song, motion picture,198,1
 best original song motion picture award,11,1
 best original song in a motion picture,36,1
 best original song from a motion picture,5,0
-best original song,294,1
 best original score - motion picture,30,1
 best original score - movie,6,0
 best musical or comedy,6,0
 best movie comedy or musical,24,1
-best movie actress, drama,16,1
-best movie actor, drama,18,1
 best movie - drama,8,0
 best motion picture, musical or comedy,108,1
-best motion picture - drama,184,1
+best motion picture - drama,183,1
 best motion picture, comedy/musical,7,1
 best motion picture - comedy or musical,208,1
-best motion picture - musical,3,0
-best motion picture,16,1
 best mini - series or television movie,16,1
 best director motion picture  awarded,47,1
-best director - motion picture,17,1
-best director award,35,1
-best dir award,9,0
+best director - motion picture,16,1
+best director  award,24,1
 best comedy or musical,19,1
-best animated film,6,0
-best animated feature film,189,1
-best actress, television series, drama,5,0
-best actress, television drama,7,0
-best actress, musical or comedy,25,1
-best actress motion picture - comedy or musical,11,1
-best actress, drama,,10,0
-best actress television series comedy,4,0
-best actress in television drama,7,0
-best actress in musical or comedy,6,0
-best actress in motion picture drama,4,0
-best actress in mini - series/television movie,6,1
-best actress in comedy or musical,7,0
-best actress in a television series - drama,63,1
-best actress in a television series comedy or musical,15,1
-best actress in a television drama,15,1
-best actress in a television comedy/musical,6,0
-best actress in a television comedy or musical,29,1
-best actress in a television comedy,46,1
-best actress in a supporting role in a motion picture,3,0
-best actress in a musical or comedy,5,0
-best actress in a movie - drama,3,0
-best actress in a motion picture, musical or comedy,79,1
-best actress in a motion picture - drama,89,1
-best actress in a motion picture, comedy,11,1
-best actress in a motion picture - comedy or musical,166,1
-best actress in a motion picture,16,1
-best actress in a miniseries or television movie,38,1
-best actress in a miniseries or movie,3,0
-best actress in a mini - series/television movie,14,1
-best actress in a drama,19,1
-best actress in a comedy or musical,22,1
-best actress in a comedy or musical movie,9,0
-best actress in a comedy,8,0
-best actress in a comedic or musical film,8,0
-best actress comedy or musical,4,1
-best actor, television series or drama,3,0
-best actor, television series comedy,24,1
-best actor, musical or comedy,,5,0
-best actor, movie comedy,22,1
-best actor motion picture - drama,11,1
-best actor, drama,20,1
-best actor, comedy or musical,6,1
-best actor television series - comedy or musical,13,1
-best actor in television series - drama,3,0
-best actor in musical or comedy,3,0
-best actor in comedy/musical,4,0
-best actor in comedy or musical,4,0
-best actor in a television series, drama,44,1
-best actor in a television series, comedy,9,0
-best actor in a television series - comedy or musical,72,1
-best actor in a television movie,12,1
-best actor in a television drama,5,0
-best actor in a musical or comedy award,7,0
-best actor in a musical or comedy,8,0
-best actor in a movie - comedy or musical,6,0
-best actor in a motion picture, musical or comedy,93,1
-best actor in a motion picture - drama,104,1
-best actor in a motion picture - comedy or musical,177,1
-best actor in a motion picture comedy/musical,6,0
-best actor in a miniseries/television movie,14,1
-best actor in a miniseries or television movie,27,1
-best actor in a drama,20,1
-best actor in a comedy/musical,4,0
-best actor in a comedy or musical,16,1
-best actor in a comedy,4,0
-best actor award,5,0
-best actor - musical,3,0
-best actor - miniseries or television film,15,1
-best actor - drama  award,3,0
+best animated feature film,188,1

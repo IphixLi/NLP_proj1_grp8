@@ -9,6 +9,7 @@ import re
 
 files=["best","wins","goes","nominated","nominee","receives","winner"]
 # Load the spaCy English language model
+nlp = spacy.load("en_core_web_sm")
 
 def custom_tokenize(text):
     # Tokenize using spaCy
@@ -17,16 +18,27 @@ def custom_tokenize(text):
     # Filter out punctuation and spaces
     tokens = [token.text.lower() for token in doc if token.text not in string.punctuation + ' ']
 
-    print(tokens)
+    # print(tokens)
     return ''.join(tokens)
 
-for file in files:
-    nlp = spacy.load("en_core_web_sm")
-    f = open(f'stage/{file}_keyword.json',encoding="utf-8", errors="ignore")
-    data=json.load(f)
 
+def join_awards():
+    all_texts={}
+    for file in files:
+        f = open(f'stage/{file}_keyword.json',encoding="utf-8", errors="ignore")
+        data=json.load(f)
+        for key, val in data.items():
+            if key not in all_texts:
+                all_texts[key]=0
+            all_texts[key]+=val
+        f.close()
+    return all_texts
+
+def get_awards():
+    award_list=[]
     # Extract the keys (text items) from the dictionary
-    texts = list(data.keys())
+    all_awards= join_awards()
+    texts=all_awards.keys()
 
     # Tokenize the texts using spaCy and convert them into a list of tokens
     tokenized_texts = [doc for doc in nlp.pipe(texts)]
@@ -38,13 +50,13 @@ for file in files:
 
     # Vectorize the texts and convert to a dense matrix
     X = vectorizer.fit_transform(tokenized_texts_str).toarray()
-    
+
 
     # Calculate Jaccard similarity between all pairs of texts
-    cosine_similarities = pairwise_distances(X, metric="cosine")
+    cosine_similarities = pairwise_distances(X, metric="jaccard")
 
     # Apply hierarchical clustering based on Jaccard similarity
-    clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.6, linkage='average', affinity='precomputed').fit(cosine_similarities)
+    clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.4, linkage='average', affinity='precomputed').fit(cosine_similarities)
 
     # Get the cluster labels
     cluster_labels = clustering.labels_
@@ -57,34 +69,37 @@ for file in files:
         else:
             grouped_texts[label] = [text]
 
-    with open(f"clusters/{file}_clusters.txt", "w") as temp_file:
-        with open(f"proposed_awards/proposed_from_{file}.txt", "w") as d:
-            for label, group in grouped_texts.items():
-                temp_file.write(f"Cluster {label}:\n")
-                cluster = []
-                for text in group:
-                    cluster.append([text, data[text]])
-                    try:
-                        temp_file.write(f"    {text} (Count: {data[text]})\n")
-                    except Exception as e:
-                        print(f"Unable to write text to the file: {e}")
-                    
-                temp_file.write("\n")
-                max_count_item = max(cluster, key=lambda x: x[1])
-
-                # if something had many iterations or was mentioned multiple times, it is more likely that it's a W
-                if len(cluster) > 1 or max_count_item[1] > 10:
-                    max_count_item.append('1')
-                else:
-                    max_count_item.append('0')
-
+    d=open(f"proposed_awards/test.txt", "w")
+    with open(f"clusters/clusters.txt", "w") as temp_file:
+        for label, group in grouped_texts.items():
+            temp_file.write(f"Cluster {label}:\n")
+            cluster = []
+            for text in group:
+                cluster.append([text, all_awards[text]])
                 try:
-                    # proposed award, instances, confidence
-                    prep=[re.sub("\n","" ,str(i).strip()) for i in max_count_item if len(str(i).strip())>0]
-                    if len(prep)==3:
-                        entry=",".join(prep)
-                        # print(entry, prep)
-                        d.write(f'{entry}\n')
+                    temp_file.write(f"    {text} (Count: {all_awards[text]})\n")
                 except Exception as e:
                     print(f"Unable to write text to the file: {e}")
                     
+            temp_file.write("\n")
+            max_count_item = max(cluster, key=lambda x: x[1])
+
+            # if something had many iterations or was mentioned multiple times, it is more likely that it's a W
+            if (len(cluster) > 2 and max_count_item[1] > 7) or max_count_item[1]>40:
+                max_count_item.append('1')
+            else:
+                max_count_item.append('0')
+
+            try:
+                # proposed award, instances, confidence
+                prep=[re.sub("\n","" ,str(i).strip()) for i in max_count_item if len(str(i).strip())>0]
+                if len(prep)==3 and prep[2]=='1':
+                    entry=",".join(prep)
+                    # print(entry, prep)
+                    d.write(f'{entry}\n')
+                    award_list.append(prep[0])
+            except Exception as e:
+                print(f"Unable to write text to the file: {e}")
+
+    return award_list
+                

@@ -19,6 +19,15 @@ def strip_non_alphabetical(input_string):
         return match.group()
     else:
         return ""
+hint_words=["drama","television","movie","picture","film","award","comedy","musical","song","video"]
+
+def replace_hint_words(text, hint_words):
+    for word in hint_words:
+        pattern = r'\b({}|{}s)\b'.format(word, word)
+        # Replace the matched word with a more specific phrase
+        text = re.sub(pattern, f'{word}', text, flags=re.IGNORECASE)
+    return text
+
 def normalize(text):
     pattern = r'^RT @\w+: '
     cleaned_text = re.sub(pattern, '', text)
@@ -39,10 +48,11 @@ def normalize(text):
     # Use re.IGNORECASE flag to make the replacement case-insensitive
     text = re.sub(pattern, 'television', tag_text, flags=re.IGNORECASE)
 
+    text=replace_hint_words(text, hint_words)
     return text.lower().strip()
 
 
-stop_words=["for"," at", " and"]
+stop_words=["for "," at", " and"]
 
 punctuation=["?","!",".",","]
 
@@ -64,7 +74,7 @@ for entry in json_text:
 
         for i in range(len(split_res)):
             stop_pattern='|'.join([re.escape(s) for s in stop_words])
-            if any(word in split_res[i] for word in ['picture', 'drama', 'film', 'movie','comedy','musical']):
+            if any(word in split_res[i] for word in hint_words):
                     val=split_res[i]
                     if i<len(split_res)-1 and 'television' in split_res[i+1]:
                          val=val.strip()+' for '+'television'
@@ -75,6 +85,34 @@ for entry in json_text:
                     if not any(stripped.lower().strip().endswith(word) for word in words_to_check):
                         continue
 
+                    split_text=val.split(" ")
+                    if 'best' in val and split_text[0]!='best':
+                        continue
+
+                    regex = r"supporting (\w+)"
+                    match_val = re.search(regex, stripped)
+                    
+                    if match_val and 'performance' not in stripped:
+                        matched_noun = match_val.group(1)
+
+                        # Determine "a" or "an" based on the first letter of the matched noun
+                        article = "an" if matched_noun[0].lower() in "aeiou" else "a"
+                        
+                        stripped = re.sub(regex, f"performance by {article} {matched_noun} in a supporting role", val)
+
+                    regex = r"best (\w+)"
+                    match_val = re.search(regex, stripped)
+                    
+                    if match_val and any( i in stripped for i in ['actor','actress'])\
+                        and 'performance' not in stripped and 'supporting' not in stripped:
+                        matched_noun = match_val.group(1)
+
+                        # Determine "a" or "an" based on the first letter of the matched noun
+                        article = "an" if matched_noun[0].lower() in "aeiou" else "a"
+                        
+                        stripped = 'best '+re.sub(regex, f"performance by {article} {matched_noun}", stripped)
+                        #print(stripped)
+
                     if stripped not in track:
                         track[stripped]=0
                     track[stripped]+=1
@@ -82,7 +120,7 @@ for entry in json_text:
                     print(stripped.encode('latin-1', errors='ignore').decode('unicode_escape').strip())
 
 sorted_track=sorted(track.items(), key=lambda kv: kv[0], reverse=True)
-filtered_data = {key.strip(): value for key, value in sorted_track if 'best' in key and len(key.split(" "))>3}
+filtered_data = {key.strip(): value for key, value in sorted_track if len(key.split(" "))>3 and "," not in key and 'best' in key }
 sorted_dict = collections.OrderedDict(filtered_data)
 
 with open('stage/nominee_keyword.json', 'w', encoding='utf-8') as f:

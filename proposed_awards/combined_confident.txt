@@ -1,135 +1,274 @@
-Cluster 2:
-    best television series musical or comedy,4,1
-    best television series - comedy or musical,78,1
-    best television series actress - comedy or musical,56,1
-    best actress in a television series comedy or musical,16,1
-    best actor television series - comedy or musical,14,1
-    best actor in a television series - comedy or musical,73,1
-    best actor television series - comedy or musical,14,1
+cluster 41 
+    best television series - drama,126,1
 
-Cluster 4:
-    best television series - drama,154,1
-    best television series actor - drama,86,1
-    best actor in a television series drama,12,1
-    best television series drama,7,1
+best television series - drama,126,1
+cluster 53 
+    best television series - comedy or musical,71,1
 
-Cluster 26:
-    best television series comedy,11,1
+best television series - comedy or musical,71,1
+cluster 33 
+    best television series, comedy,53,1
 
-Cluster 16:
-    best supporting actress television series miniseries or television movie,22,1
-    best actress in a miniseries or television movie,13,1
-    best actress in a miniseries or television movie,8,1
-    best supporting actress television series miniseries or television movie,22,1
+best television series, comedy,53,1
+cluster 47 
+    best show on television,14,1
 
-Cluster 23:
-    best supporting actress television,11,1
+best show on television,14,1
+cluster 37 
+    best screenplay, motion picture,46,1
 
-Cluster 15:
-    best show on television,18,1
+best screenplay, motion picture,46,1
+cluster 42 
+    best picture, musical or comedy,31,1
 
-Cluster 8:
-    best picture musical or comedy,36,1
-    best picture - comedy or musical,7,1
-    best motion picture musical or comedy,35,1
-    best motion picture - comedy or musical,231,1
-    best actress motion picture comedy or musical,16,1
-    best actress in a motion picture - comedy or musical,176,1
-    best actor in a musical or comedy,11,1
-    best actor in a motion picture musical or comedy,14,1
-    best actor in a motion picture - comedy or musical,187,1
-    best motion picture musical or comedy,33,1
-    best motion picture comedy or musical,56,1
-    best actress motion picture comedy or musical,12,1
-    best actor in a motion picture musical or comedy,14,1
-    best actor in a motion picture comedy or musical,74,1
-
-Cluster 19:
+best picture, musical or comedy,31,1
+cluster 29 
     best picture - drama,20,1
 
-Cluster 20:
-    best performance by an actor in a motion picture - drama,26,1
+best picture - drama,20,1
+cluster 2 
+    best performance by an actress, musical or comedy,25,1
+    best performance by an actress in a comedy or musical,23,1
 
-Cluster 21:
+best performance by an actress, musical or comedy,25,1
+best performance by an actress in a comedy or musical,23,1
+cluster 11 
+    best performance by an actress motion picture - comedy or musical,11,1
+    best performance by an actress in a motion picture, musical or comedy,79,1
+    best performance by an actress in a motion picture - comedy or musical,167,1
+
+best performance by an actress motion picture - comedy or musical,11,1
+best performance by an actress in a motion picture, musical or comedy,79,1
+best performance by an actress in a motion picture - comedy or musical,167,1
+cluster 15 
+    best performance by an actress in mini - series/television movie,6,1
+    best performance by an actress in a mini - series/television movie,14,1
+
+best performance by an actress in mini - series/television movie,6,1
+best performance by an actress in a mini - series/television movie,14,1
+cluster 6 
+    best performance by an actress in a television series - drama,65,1
+    best performance by an actress in a television drama,15,1
+
+best performance by an actress in a television series - drama,65,1
+best performance by an actress in a television drama,15,1
+cluster 12 
+    best performance by an actress in a television series comedy or musical,15,1
+    best performance by an actress in a television comedy or musical,29,1
+
+best performance by an actress in a television series comedy or musical,15,1
+best performance by an actress in a television comedy or musical,29,1
+cluster 45 
+    best performance by an actress in a television comedy,46,1
+
+best performance by an actress in a television comedy,46,1
+cluster 35 
+    best performance by an actress in a supporting role, television,51,1
+
+best performance by an actress in a supporting role, television,51,1
+cluster 1 
+    best performance by an actress in a supporting role, motion picture,7,1
+    best performance by an actress in a supporting role in a motion picture,494,1
+    best performance by an actor in a supporting role, motion picture,44,1
+    best performance by an actor in a supporting role in a motion picture,179,1
+    best performance by an actor in a supporting role, motion picture,41,1
+
+best performance by an actress in a supporting role, motion picture,7,1
+best performance by an actress in a supporting role in a motion picture,494,1
+best performance by an actor in a supporting role, motion picture,44,1
+best performance by an actor in a supporting role in a motion picture,179,1
+best performance by an actor in a supporting role, motion picture,41,1
+cluster 9 
+    best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+    best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+
+best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+cluster 57 
+    best performance by an actress in a motion picture - drama,94,1
+
+best performance by an actress in a motion picture - drama,94,1
+cluster 3 
+    best performance by an actress in a motion picture, comedy,11,1
+    best performance by an actress in a motion picture,17,1
+
+best performance by an actress in a motion picture, comedy,11,1
+best performance by an actress in a motion picture,17,1
+cluster 52 
+    best performance by an actress in a miniseries or television movie,38,1
+
+best performance by an actress in a miniseries or television movie,38,1
+cluster 8 
+    best performance by an actress in a drama,19,1
+    best performance by an actor in a drama,19,1
+
+best performance by an actress in a drama,19,1
+best performance by an actor in a drama,19,1
+cluster 48 
+    best performance by an actor, television series comedy,24,1
+
+best performance by an actor, television series comedy,24,1
+cluster 43 
+    best performance by an actor, movie comedy,22,1
+
+best performance by an actor, movie comedy,22,1
+cluster 58 
+    best performance by an actor, drama,20,1
+
+best performance by an actor, drama,20,1
+cluster 7 
+    best performance by an actor television series - comedy or musical,13,1
+    best performance by an actor in a television series - comedy or musical,72,1
+
+best performance by an actor television series - comedy or musical,13,1
+best performance by an actor in a television series - comedy or musical,72,1
+cluster 4 
+    best performance by an actor motion picture - drama,11,1
+    best performance by an actor in a motion picture - drama,125,1
+
+best performance by an actor motion picture - drama,11,1
+best performance by an actor in a motion picture - drama,125,1
+cluster 23 
+    best performance by an actor in a television series, drama,44,1
+
+best performance by an actor in a television series, drama,44,1
+cluster 56 
+    best performance by an actor in a television movie,12,1
+
+best performance by an actor in a television movie,12,1
+cluster 40 
+    best performance by an actor in a supporting role, movie,14,1
+
+best performance by an actor in a supporting role, movie,14,1
+cluster 34 
+    best performance by an actor in a supporting role in a drama,20,1
+
+best performance by an actor in a supporting role in a drama,20,1
+cluster 16 
+    best performance by an actor in a motion picture, musical or comedy,93,1
+    best performance by an actor in a motion picture - comedy or musical,177,1
+
+best performance by an actor in a motion picture, musical or comedy,93,1
+best performance by an actor in a motion picture - comedy or musical,177,1
+cluster 5 
+    best performance by an actor in a miniseries/television movie,14,1
+    best performance by an actor in a miniseries or television movie,28,1
+
+best performance by an actor in a miniseries/television movie,14,1
+best performance by an actor in a miniseries or television movie,28,1
+cluster 55 
+    best performance by an actor in a comedy or musical,15,1
+
+best performance by an actor in a comedy or musical,15,1
+cluster 46 
+    best performance by an actor - miniseries or television film,15,1
+
+best performance by an actor - miniseries or television film,15,1
+cluster 44 
+    best performance by a television series actress - comedy or musical,42,1
+
+best performance by a television series actress - comedy or musical,42,1
+cluster 51 
+    best performance by a television series actor - drama,64,1
+
+best performance by a television series actor - drama,64,1
+cluster 32 
+    best performance by a movie actress, drama,16,1
+
+best performance by a movie actress, drama,16,1
+cluster 54 
+    best performance by a movie actor, drama,18,1
+
+best performance by a movie actor, drama,18,1
+cluster 22 
+    best original song, motion picture,198,1
+
+best original song, motion picture,198,1
+cluster 30 
     best original song motion picture award,11,1
 
-Cluster 3:
-    best motion picture - drama,191,1
-    best actor motion picture - drama,13,1
-    best actor in a motion picture - drama,121,1
-    best motion picture drama,24,1
-    best actor motion picture - drama,12,1
-    best actor in a motion picture drama,24,1
-    best motion picture drama,89,1
-    best actor in a motion picture drama,12,1
-    best motion picture - drama,25,1
+best original song motion picture award,11,1
+cluster 20 
+    best original song in a motion picture,36,1
 
-Cluster 18:
-    best mini - series or television movie,12,1
+best original song in a motion picture,36,1
+cluster 49 
+    best original score - motion picture,30,1
 
-Cluster 25:
-    best director motion picture  awarded,54,1
+best original score - motion picture,30,1
+cluster 38 
+    best movie comedy or musical,24,1
 
-Cluster 17:
-    best director  award,25,1
-    his first best director  award,25,1
+best movie comedy or musical,24,1
+cluster 0 
+    best motion picture, musical or comedy,108,1
+    best motion picture, comedy/musical,7,1
+    best motion picture - comedy or musical,208,1
 
-Cluster 24:
-    best comedy or musical,16,1
+best motion picture, musical or comedy,108,1
+best motion picture, comedy/musical,7,1
+best motion picture - comedy or musical,208,1
+cluster 25 
+    best motion picture - drama,183,1
 
-Cluster 11:
-    best animated feature film,190,1
+best motion picture - drama,183,1
+cluster 26 
+    best mini - series or television movie,16,1
 
-Cluster 14:
-    best actress in mini - seriestv movie,7,1
-    best actress in a mini - seriestv movie,14,1
-    best actress in mini-seriestv movie,6,1
-    best actress in a mini-seriestv movie,12,1
+best mini - series or television movie,16,1
+cluster 36 
+    best director motion picture  awarded,47,1
 
-Cluster 22:
-    best actress in comedy or musical,11,1
-    best actress in a television comedy or musical,30,1
-    best actress in a comedy or musical,26,1
-    best actress in a comedy or musical movie,11,1
-    best actress in a comedy or musical,14,1
+best director motion picture  awarded,47,1
+cluster 39 
+    best director - motion picture,16,1
+
+best director - motion picture,16,1
+cluster 19 
+    best director  award,24,1
+
+best director  award,24,1
+cluster 28 
+    best comedy or musical,19,1
+
+best comedy or musical,19,1
+cluster 50 
+    best animated feature film,188,1
+
+best animated feature film,188,1
+cluster 27 
+    best original song,14,1
+
+best original song,14,1
+cluster 18 
+    best motion picture drama,81,1
+
+best motion picture drama,81,1
+cluster 13 
     best actress in a television comedy or musical,26,1
 
-Cluster 10:
-    best actress in a television series - drama,71,1
-    best actress in a television drama,17,1
-    best actress in a television series drama,15,1
+best actress in a television comedy or musical,26,1
+cluster 21 
+    best actress in a mini-series/television movie,12,1
 
-Cluster 1:
-    best actress in a motion picture - drama,98,1
-    best actress in a motion picture comedy,11,1
-    the best actress in a motion picture comedy,11,1
-    best actress in a motion picture drama,18,1
+best actress in a mini-series/television movie,12,1
+cluster 14 
+    best actor television series - comedy or musical,13,1
 
-Cluster 7:
-    best actress in a drama,23,1
-    best actor in a drama,23,1
-    best actor in a drama,17,1
+best actor television series - comedy or musical,13,1
+cluster 10 
+    best actor in a miniseries/television movie,14,1
 
-Cluster 0:
-    best actress in a comedy,20,1
-    best actress in a drama,20,1
-    best actress in a comedy,10,1
-    best actress in a comedy series,112,1
-
-Cluster 5:
-    best actor in a television series comedy,14,1
-    best actor in a television series comedy,13,1
-
-Cluster 12:
-    best actor in a television movie,12,1
-
-Cluster 6:
-    best actor in a miniseriestv movie,17,1
-    best actor in a miniseriestv movie,15,1
-
-Cluster 13:
-    best actor  miniseries or television film,17,1
-
-Cluster 9:
+best actor in a miniseries/television movie,14,1
+cluster 31 
     cecil b. demille award,8,1
 
+cecil b. demille award,8,1
+cluster 24 
+    best motion picture - drama,25,1
+
+best motion picture - drama,25,1
+cluster 17 
+    best actress in a comedy series,112,1
+
+best actress in a comedy series,112,1

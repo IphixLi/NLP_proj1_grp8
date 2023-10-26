@@ -1,0 +1,1033 @@
+Cluster 293:
+    best use of hilary swank on film (Count: 1)
+
+Cluster 247:
+    best thing about  was when adele got an award (Count: 1)
+
+Cluster 292:
+    best telivision series - comedy or musical (Count: 1)
+
+Cluster 291:
+    best television show drama (Count: 1)
+
+Cluster 35:
+    best television series-comedy or musical (Count: 1)
+    best television series comedy or musical (Count: 4)
+    best television series - comedy or musical (Count: 70)
+    best television series (comedy or musical) (Count: 2)
+
+Cluster 301:
+    best television series- drama (Count: 3)
+
+Cluster 72:
+    best television series musical or comedy (Count: 1)
+    best television series - musical or comedy (Count: 1)
+
+Cluster 290:
+    best television series golden globe award (Count: 2)
+
+Cluster 158:
+    best television series drama (Count: 20)
+    best television series - drama" (Count: 1)
+    best television series - drama (Count: 125)
+    best television series (drama) (Count: 5)
+
+Cluster 289:
+    best television series comedy/musical (Count: 1)
+
+Cluster 33:
+    best television series comedy (Count: 2)
+    best television series - comedy (Count: 3)
+
+Cluster 308:
+    best television series - drama
+winner (Count: 1)
+
+Cluster 307:
+    best television series - comedy/ musical (Count: 2)
+
+Cluster 286:
+    best television serie - drama (Count: 1)
+
+Cluster 285:
+    best television mini-series or movie (Count: 1)
+
+Cluster 284:
+    best television comedy or musical (Count: 2)
+
+Cluster 283:
+    best television comedy / musical (Count: 1)
+
+Cluster 282:
+    best supportingactress in a motion picture (Count: 1)
+
+Cluster 281:
+    best supporting performance in a series/mini-series/television movie (Count: 1)
+
+Cluster 280:
+    best storage wars character" award (Count: 1)
+
+Cluster 279:
+    best song in movie (Count: 1)
+
+Cluster 278:
+    best song in any film (Count: 1)
+
+Cluster 277:
+    best song in a motion picture (Count: 4)
+
+Cluster 276:
+    best shows on television (Count: 1)
+
+Cluster 275:
+    best show on television (Count: 14)
+
+Cluster 16:
+    best screenplay motion picture (Count: 5)
+    best screenplay - motion picture" (Count: 1)
+    best screenplay - motion picture (Count: 32)
+    best screenplay (motion picture) (Count: 1)
+
+Cluster 274:
+    best screenplay in a motion picture (Count: 3)
+
+Cluster 272:
+    best real life quote award (Count: 2)
+
+Cluster 271:
+    best presenter of any award (Count: 1)
+
+Cluster 270:
+    best portrayal of abe lincoln" award (Count: 1)
+
+Cluster 103:
+    best picture comedy or musical (Count: 1)
+    best picture - comedy or musical (Count: 5)
+    best picture - - comedy or musical (Count: 1)
+    best picture (comedy or musical) (Count: 2)
+    best picture: comedy or musical (Count: 1)
+
+Cluster 269:
+    best picture - musical (Count: 1)
+
+Cluster 268:
+    best picture - music or comedy (Count: 1)
+
+Cluster 267:
+    best picture - film (Count: 1)
+
+Cluster 266:
+    best picture - drama (Count: 20)
+
+Cluster 265:
+    best performance in a motion picture (Count: 1)
+
+Cluster 264:
+    best performance by an actress/television miniseries or television movie (Count: 1)
+
+Cluster 65:
+    best performance by an actress television series/drama (Count: 2)
+    best performance by an actress television series drama (Count: 3)
+
+Cluster 262:
+    best performance by an actress television series comedy (Count: 5)
+
+Cluster 261:
+    best performance by an actress television musical/comedy (Count: 1)
+
+Cluster 196:
+    best performance by an actress television drama (Count: 2)
+    best performance by an actress television - drama (Count: 1)
+    best performance by an actress (television drama) (Count: 1)
+
+Cluster 102:
+    best performance by an actress television comedy (Count: 2)
+    best performance by an actress - television comedy (Count: 1)
+
+Cluster 260:
+    best performance by an actress on television (Count: 1)
+
+Cluster 47:
+    best performance by an actress motion picture drama (Count: 2)
+    best performance by an actress (motion picture - drama) (Count: 1)
+
+Cluster 64:
+    best performance by an actress motion picture comedy or musical (Count: 6)
+    best performance by an actress motion picture - comedy or musical (Count: 11)
+
+Cluster 100:
+    best performance by an actress miniseries/television movie (Count: 1)
+    best performance by an actress - miniseries/television movie (Count: 1)
+
+Cluster 31:
+    best performance by an actress in television series drama (Count: 1)
+    best performance by an actress in television series - drama (Count: 1)
+
+Cluster 257:
+    best performance by an actress in television movie (Count: 2)
+
+Cluster 256:
+    best performance by an actress in television drama (Count: 7)
+
+Cluster 255:
+    best performance by an actress in television comedy/musical (Count: 2)
+
+Cluster 254:
+    best performance by an actress in television comedy (Count: 1)
+
+Cluster 253:
+    best performance by an actress in musical or comedy (Count: 6)
+
+Cluster 125:
+    best performance by an actress in motion picture-drama (Count: 1)
+    best performance by an actress in motion picture drama (Count: 4)
+
+Cluster 62:
+    best performance by an actress in miniseries/television movie (Count: 5)
+    best performance by an actress in mini-series/television movie" (Count: 1)
+
+Cluster 250:
+    best performance by an actress in mini-series or television movie (Count: 1)
+
+Cluster 249:
+    best performance by an actress in drama (Count: 1)
+
+Cluster 248:
+    best performance by an actress in comedy/musical (Count: 1)
+
+Cluster 123:
+    best performance by an actress in comedy or musical in film (Count: 1)
+
+Cluster 246:
+    best performance by an actress in comedy or musical (Count: 7)
+
+Cluster 245:
+    best performance by an actress in a television show drama (Count: 1)
+
+Cluster 120:
+    best performance by an actress in a television series/drama (Count: 3)
+    best performance by an actress in a television series drama (Count: 10)
+    best performance by an actress in a television series - drama (Count: 65)
+    best performance by an actress in a television series (drama) (Count: 1)
+
+Cluster 244:
+    best performance by an actress in a television series comedy/musical (Count: 2)
+
+Cluster 59:
+    best performance by an actress in a television series comedy or musical (Count: 15)
+    best performance by an actress in a television series - comedy or musical (Count: 9)
+    best performance by an actress in a television series (comedy or musical) (Count: 1)
+
+Cluster 243:
+    best performance by an actress in a television series comedy (Count: 2)
+
+Cluster 240:
+    best performance by an actress in a television movie (Count: 1)
+
+Cluster 239:
+    best performance by an actress in a television miniseries or movie (Count: 2)
+
+Cluster 238:
+    best performance by an actress in a television drama (Count: 16)
+
+Cluster 237:
+    best performance by an actress in a television comedy/musical (Count: 7)
+
+Cluster 236:
+    best performance by an actress in a television comedy or musical (Count: 29)
+
+Cluster 235:
+    best performance by an actress in a television comedy (Count: 47)
+
+Cluster 55:
+    best performance by an actress in a supporting role television (Count: 2)
+    best performance by an actress in a supporting role (television) (Count: 3)
+
+Cluster 234:
+    best performance by an actress in a supporting role movie (Count: 2)
+
+Cluster 27:
+    best performance by an actress in a supporting role motion picture (Count: 5)
+    best performance by an actress in a supporting role - motion picture (Count: 1)
+
+Cluster 233:
+    best performance by an actress in a supporting role in motion picture (Count: 4)
+
+Cluster 232:
+    best performance by an actress in a supporting role in a movie (Count: 1)
+
+Cluster 231:
+    best performance by an actress in a supporting role in a motion picture drama (Count: 2)
+
+Cluster 230:
+    best performance by an actress in a supporting role in a motion picture (Count: 484)
+
+Cluster 229:
+    best performance by an actress in a supporting role in a film (Count: 4)
+
+Cluster 228:
+    best performance by an actress in a supporting role in a drama (Count: 2)
+
+Cluster 227:
+    best performance by an actress in a supporting role in a comedy or musical (Count: 1)
+
+Cluster 226:
+    best performance by an actress in a supporting role film (Count: 1)
+
+Cluster 223:
+    best performance by an actress in a support role in a motion picture (Count: 2)
+
+Cluster 222:
+    best performance by an actress in a shitty movie (Count: 1)
+
+Cluster 110:
+    best performance by an actress in a musical or comedy) (Count: 1)
+    best performance by an actress in a musical or comedy (Count: 6)
+
+Cluster 54:
+    best performance by an actress in a movie comedy or musical (Count: 1)
+    best performance by an actress in a movie - comedy or musical (Count: 2)
+
+Cluster 220:
+    best performance by an actress in a movie - drama (Count: 3)
+
+Cluster 40:
+    best performance by an actress in a motionpicture (Count: 1)
+    best performance by an actress in a motion picture (Count: 18)
+
+Cluster 309:
+    best performance by an actress in a motion picture- drama (Count: 2)
+
+Cluster 53:
+    best performance by an actress in a motion picture musical/comedy (Count: 2)
+    best performance by an actress in a motion picture "musical/comedy" (Count: 1)
+
+Cluster 26:
+    best performance by an actress in a motion picture drama (Count: 52)
+    best performance by an actress in a motion picture - drama (Count: 93)
+    best performance by an actress in a motion picture (drama) (Count: 1)
+    best performance by an actress in a motion picture  drama (Count: 1)
+
+Cluster 50:
+    best performance by an actress in a motion picture comedy or musical (Count: 6)
+    best performance by an actress in a motion picture - comedy or musical (Count: 167)
+    best performance by an actress in a motion picture (comedy or musical) (Count: 3)
+    best performance by an actress in a  motion picture (comedy or musical) (Count: 1)
+
+Cluster 218:
+    best performance by an actress in a motion picture - musical or comedy (Count: 6)
+
+Cluster 217:
+    best performance by an actress in a motion picture - comedy (Count: 2)
+
+Cluster 19:
+    best performance by an actress in a miniseries or television movie (Count: 39)
+    best performance by an actress in a mini-series or television movie (Count: 3)
+    best performance by an actress in a mini series or television movie (Count: 1)
+
+Cluster 214:
+    best performance by an actress in a miniseries or movie (Count: 3)
+
+Cluster 213:
+    best performance by an actress in a mini-series/television movie (Count: 15)
+
+Cluster 212:
+    best performance by an actress in a film (drama) (Count: 1)
+
+Cluster 211:
+    best performance by an actress in a dramatic movie (Count: 1)
+
+Cluster 210:
+    best performance by an actress in a drama (Count: 19)
+
+Cluster 209:
+    best performance by an actress in a comedy/musical (Count: 2)
+
+Cluster 51:
+    best performance by an actress in a comedy or musical' (Count: 5)
+    best performance by an actress in a comedy or musical (Count: 23)
+
+Cluster 207:
+    best performance by an actress in a comedy (Count: 8)
+
+Cluster 206:
+    best performance by an actress in a comedic or musical film (Count: 8)
+
+Cluster 49:
+    best performance by an actress drama (Count: 3)
+    best performance by an actress - drama (Count: 2)
+
+Cluster 98:
+    best performance by an actress comedy or musical (Count: 5)
+    best performance by an actress - comedy or musical (Count: 3)
+
+Cluster 204:
+    best performance by an actress comedy movie (Count: 1)
+
+Cluster 97:
+    best performance by an actress - television series comedy or musical (Count: 1)
+    best performance by an actress (television series comedy or musical) (Count: 2)
+
+Cluster 202:
+    best performance by an actress - motion picture (Count: 1)
+
+Cluster 200:
+    best performance by an actress - film (Count: 1)
+
+Cluster 198:
+    best performance by an actress - comedy/musical (Count: 1)
+
+Cluster 193:
+    best performance by an actress (motion picture - comedy/musical) (Count: 1)
+
+Cluster 192:
+    best performance by an actress (mini-series or television movie) (Count: 1)
+
+Cluster 191:
+    best performance by an actrees in a supporting role  utk film (Count: 1)
+
+Cluster 78:
+    best performance by an actor-in  a motion picture (Count: 2)
+    best performance by an actor in a motion picture (Count: 7)
+
+Cluster 48:
+    best performance by an actor-comedy or musical (Count: 1)
+    best performance by an actor - comedy or musical (Count: 2)
+
+Cluster 25:
+    best performance by an actor television series/drama (Count: 1)
+    best performance by an actor television series drama (Count: 3)
+    best performance by an actor - television series drama (Count: 1)
+
+Cluster 190:
+    best performance by an actor television series or drama (Count: 2)
+
+Cluster 189:
+    best performance by an actor television series comedy/musical (Count: 1)
+
+Cluster 188:
+    best performance by an actor television series comedy (Count: 1)
+
+Cluster 12:
+    best performance by an actor television series - comedy or musical (Count: 14)
+    best performance by an actor - television series comedy or musical (Count: 2)
+
+Cluster 187:
+    best performance by an actor television drama (Count: 1)
+
+Cluster 186:
+    best performance by an actor television comedy (Count: 2)
+
+Cluster 185:
+    best performance by an actor or motion picture (Count: 1)
+
+Cluster 184:
+    best performance by an actor of motion picture-comedy or musical (Count: 1)
+
+Cluster 183:
+    best performance by an actor musical or comedy (Count: 3)
+
+Cluster 182:
+    best performance by an actor motion picture musical (Count: 1)
+
+Cluster 23:
+    best performance by an actor motion picture drama (Count: 3)
+    best performance by an actor motion picture - drama (Count: 11)
+    best performance by an actor - motion picture drama (Count: 1)
+    best performance by an actor (motion picture - drama) (Count: 1)
+
+Cluster 181:
+    best performance by an actor motion picture comedy/musical (Count: 1)
+
+Cluster 24:
+    best performance by an actor motion picture (Count: 1)
+    best performance by an actor - motion picture (Count: 2)
+
+Cluster 180:
+    best performance by an actor in television series/comedy or musical (Count: 1)
+
+Cluster 21:
+    best performance by an actor in television series-drama (Count: 3)
+    best performance by an actor in television series - drama (Count: 1)
+
+Cluster 178:
+    best performance by an actor in television miniseries/movie (Count: 1)
+
+Cluster 177:
+    best performance by an actor in television mini-series or film (Count: 1)
+
+Cluster 176:
+    best performance by an actor in television drama (Count: 3)
+
+Cluster 175:
+    best performance by an actor in television comedy or musical (Count: 1)
+
+Cluster 174:
+    best performance by an actor in musical/comedy (Count: 2)
+
+Cluster 173:
+    best performance by an actor in musical or comedy (Count: 3)
+
+Cluster 172:
+    best performance by an actor in movie - comedy or musical (Count: 1)
+
+Cluster 171:
+    best performance by an actor in motion picture or musical (Count: 1)
+
+Cluster 170:
+    best performance by an actor in motion picture comedy/musical (Count: 1)
+
+Cluster 169:
+    best performance by an actor in motion picture - drama (Count: 1)
+
+Cluster 168:
+    best performance by an actor in motion picture (Count: 2)
+
+Cluster 167:
+    best performance by an actor in motion drama (Count: 1)
+
+Cluster 9:
+    best performance by an actor in miniseries or television movie (Count: 1)
+    best performance by an actor in mini-series or television movie (Count: 1)
+
+Cluster 165:
+    best performance by an actor in drama (Count: 1)
+
+Cluster 164:
+    best performance by an actor in comedy/musical (Count: 5)
+
+Cluster 163:
+    best performance by an actor in comedy or musical (Count: 5)
+
+Cluster 162:
+    best performance by an actor in a womb or television film (Count: 1)
+
+Cluster 17:
+    best performance by an actor in a television series/drama (Count: 1)
+    best performance by an actor in a television series drama (Count: 2)
+    best performance by an actor in a television series - drama (Count: 6)
+    best performance by an actor in a television series (drama) (Count: 1)
+
+Cluster 38:
+    best performance by an actor in a television series/comedy (Count: 1)
+    best performance by an actor in a television series comedy (Count: 1)
+    best performance by an actor in a television series - comedy (Count: 1)
+
+Cluster 304:
+    best performance by an actor in a television series-drama’ should be renamed the jon hamm award (Count: 1)
+
+Cluster 18:
+    best performance by an actor in a television series-comedy or musical (Count: 1)
+    best performance by an actor in a television series comedy or musical (Count: 2)
+    best performance by an actor in a television series - comedy or musical (Count: 72)
+    best performance by an actor in a television series (comedy or musical) (Count: 5)
+
+Cluster 161:
+    best performance by an actor in a television series or drama (Count: 2)
+
+Cluster 160:
+    best performance by an actor in a television series in a comedy or musical (Count: 2)
+
+Cluster 159:
+    best performance by an actor in a television series - musical or comedy (Count: 5)
+
+Cluster 155:
+    best performance by an actor in a television movie (Count: 12)
+
+Cluster 154:
+    best performance by an actor in a television miniseries/movie (Count: 1)
+
+Cluster 153:
+    best performance by an actor in a television drama award (Count: 2)
+
+Cluster 305:
+    best performance by an actor in a television drama (Count: 5)
+
+Cluster 303:
+    best performance by an actor in a television comedy/musical (Count: 2)
+
+Cluster 302:
+    best performance by an actor in a television comedy or musical (Count: 3)
+
+Cluster 299:
+    best performance by an actor in a television comedy (Count: 1)
+
+Cluster 297:
+    best performance by an actor in a supporting role television/miniseries/made (Count: 1)
+
+Cluster 295:
+    best performance by an actor in a supporting role television/min (Count: 1)
+
+Cluster 294:
+    best performance by an actor in a supporting role in television (Count: 8)
+
+Cluster 145:
+    best performance by an actor in a supporting role in a television-series (Count: 1)
+
+Cluster 144:
+    best performance by an actor in a supporting role in a television series or television movie (Count: 1)
+
+Cluster 287:
+    best performance by an actor in a supporting role in a television series or movie (Count: 2)
+
+Cluster 142:
+    best performance by an actor in a supporting role in a series or television movie (Count: 1)
+
+Cluster 141:
+    best performance by an actor in a supporting role in a movie (Count: 2)
+
+Cluster 140:
+    best performance by an actor in a supporting role in a motion picture (Count: 180)
+
+Cluster 139:
+    best performance by an actor in a supporting role in a miniseries or television movie (Count: 1)
+
+Cluster 138:
+    best performance by an actor in a supporting role in a drama (Count: 21)
+
+Cluster 137:
+    best performance by an actor in a supporting role golden globe award (Count: 2)
+
+Cluster 273:
+    best performance by an actor in a supporting role film (Count: 1)
+
+Cluster 151:
+    best performance by an actor in a supporting role award   he held half of that movie (Count: 1)
+
+Cluster 296:
+    best performance by an actor in a supporting role award (Count: 2)
+
+Cluster 32:
+    best performance by an actor in a supporting role / motion picture (Count: 1)
+    best performance by an actor in a supporting role - motion picture (Count: 2)
+
+Cluster 133:
+    best performance by an actor in a supporting role - drama (Count: 1)
+
+Cluster 132:
+    best performance by an actor in a supporting role (television) (Count: 2)
+
+Cluster 263:
+    best performance by an actor in a musical/comedy (Count: 1)
+
+Cluster 15:
+    best performance by an actor in a musical or comedy) (Count: 1)
+    best performance by an actor in a musical or comedy (Count: 8)
+
+Cluster 130:
+    best performance by an actor in a musical or comedy film (Count: 1)
+
+Cluster 258:
+    best performance by an actor in a musical comedy motion picture (Count: 1)
+
+Cluster 127:
+    best performance by an actor in a movie - drama (Count: 2)
+
+Cluster 126:
+    best performance by an actor in a movie - comedy or musical (Count: 6)
+
+Cluster 306:
+    best performance by an actor in a motion picture- comedy or musical (Count: 1)
+
+Cluster 251:
+    best performance by an actor in a motion picture musical/comedy (Count: 1)
+
+Cluster 30:
+    best performance by an actor in a motion picture musical or comedy (Count: 1)
+    best performance by an actor in a motion picture - musical or comedy (Count: 5)
+
+Cluster 29:
+    best performance by an actor in a motion picture drama (Count: 21)
+    best performance by an actor in a motion picture - drama (Count: 125)
+    best performance by an actor in a motion picture (drama) (Count: 2)
+    best performance by an actor in a motion picture "drama" (Count: 1)
+
+Cluster 124:
+    best performance by an actor in a motion picture comedy/musical (Count: 7)
+
+Cluster 60:
+    best performance by an actor in a motion picture comedy or musical (Count: 17)
+    best performance by an actor in a motion picture - comedy or musical (Count: 176)
+    best performance by an actor in a motion picture (comedy or musical) (Count: 2)
+
+Cluster 150:
+    best performance by an actor in a motion picture   mt  daniel day lewis awarded (Count: 1)
+
+Cluster 241:
+    best performance by an actor in a miniseries/television movie (Count: 15)
+
+Cluster 58:
+    best performance by an actor in a miniseries or television movie" (Count: 1)
+    best performance by an actor in a miniseries or television movie (Count: 28)
+    best performance by an actor in a mini-series or television movie (Count: 7)
+
+Cluster 119:
+    best performance by an actor in a miniseries or television film (Count: 1)
+
+Cluster 117:
+    best performance by an actor in a drama (television) (Count: 1)
+
+Cluster 116:
+    best performance by an actor in a drama (Count: 19)
+
+Cluster 115:
+    best performance by an actor in a comedy/musical (Count: 4)
+
+Cluster 114:
+    best performance by an actor in a comedy or musical (Count: 15)
+
+Cluster 113:
+    best performance by an actor in a comedy film (Count: 2)
+
+Cluster 225:
+    best performance by an actor in a comedy (Count: 4)
+
+Cluster 224:
+    best performance by an actor in a cable drama (Count: 1)
+
+Cluster 221:
+    best performance by an actor ever award (Count: 1)
+
+Cluster 219:
+    best performance by an actor drama television (Count: 1)
+
+Cluster 10:
+    best performance by an actor drama (Count: 3)
+    best performance by an actor - drama (Count: 1)
+    best performance by an actor (drama) (Count: 3)
+
+Cluster 108:
+    best performance by an actor comedy/musical (Count: 1)
+
+Cluster 215:
+    best performance by an actor comedy television (Count: 1)
+
+Cluster 106:
+    best performance by an actor award (Count: 4)
+
+Cluster 105:
+    best performance by an actor alive wins the first award (Count: 1)
+
+Cluster 205:
+    best performance by an actor - musical (Count: 3)
+
+Cluster 11:
+    best performance by an actor - miniseries or television movie (Count: 1)
+    best performance by an actor (mini-series or television movie) (Count: 2)
+
+Cluster 201:
+    best performance by an actor - miniseries or television film (Count: 15)
+
+Cluster 199:
+    best performance by an actor - drama  award (Count: 3)
+
+Cluster 195:
+    best performance by an actor (musical/comedy) (Count: 1)
+
+Cluster 93:
+    best performance by a television series actress in comedy or musical (Count: 2)
+
+Cluster 92:
+    best performance by a television series actress in a comedy or musical (Count: 2)
+
+Cluster 91:
+    best performance by a television series actress - comedy or musical (Count: 42)
+
+Cluster 90:
+    best performance by a television series actor - drama (Count: 64)
+
+Cluster 179:
+    best performance by a television actress in a drama (Count: 1)
+
+Cluster 88:
+    best performance by a television actor-comedy or musical (Count: 1)
+
+Cluster 87:
+    best performance by a television actor - drama (Count: 1)
+
+Cluster 86:
+    best performance by a support actor in movie (Count: 1)
+
+Cluster 85:
+    best performance by a lead actor in a television-series or television movie (Count: 1)
+
+Cluster 84:
+    best performance by a lead actor in a movie (drama) (Count: 1)
+
+Cluster 83:
+    best performance actor in motion picture (Count: 2)
+
+Cluster 166:
+    best performace by a sasquatch in a television series - comedy or musical (Count: 1)
+
+Cluster 81:
+    best parts in an already-awesome movie (Count: 2)
+
+Cluster 8:
+    best original song motion picture (Count: 5)
+    best original song - motion picture (Count: 17)
+
+Cluster 80:
+    best original song in a motion picture (Count: 37)
+
+Cluster 4:
+    best original song from a motion picture" (Count: 1)
+    best original song from a motion picture (Count: 5)
+
+Cluster 157:
+    best original song award (Count: 3)
+
+Cluster 300:
+    best original sing- motion picture (Count: 2)
+
+Cluster 118:
+    best original score-motion picture (Count: 1)
+    best original score - motion picture (Count: 28)
+
+Cluster 112:
+    best original score- motion picture (Count: 1)
+
+Cluster 76:
+    best original score in a motion picture (Count: 3)
+
+Cluster 152:
+    best original score award (Count: 1)
+
+Cluster 149:
+    best original score - movie (Count: 6)
+
+Cluster 75:
+    best original score - motion picture
+winner (Count: 1)
+
+Cluster 146:
+    best original motion picture song (Count: 1)
+
+Cluster 288:
+    best one in that movie (Count: 1)
+
+Cluster 70:
+    best old person somehow still in television (Count: 2)
+
+Cluster 69:
+    best night on television (Count: 1)
+
+Cluster 68:
+    best musical or comedy (Count: 6)
+
+Cluster 135:
+    best musical of comedy (Count: 1)
+
+Cluster 134:
+    best musical  picture (Count: 1)
+
+Cluster 7:
+    best movie comedy or musical (Count: 24)
+    best movie - comedy or musical (Count: 14)
+
+Cluster 131:
+    best movie - drama (Count: 8)
+
+Cluster 259:
+    best movie - comedy/musical (Count: 2)
+
+Cluster 252:
+    best motion picutre - comedy or musical (Count: 1)
+
+Cluster 5:
+    best motion picture-comedy or musical (Count: 1)
+    best motion picture comedy or musical (Count: 16)
+    best motion picture / comedy or musical (Count: 2)
+    best motion picture - comedy or musical (Count: 207)
+    best motion picture (comedy or musical) (Count: 4)
+
+Cluster 147:
+    best motion picture- drama (Count: 1)
+
+Cluster 298:
+    best motion picture- comedy or musical (Count: 2)
+
+Cluster 121:
+    best motion picture musical/comedy (Count: 1)
+
+Cluster 14:
+    best motion picture musical or comedy (Count: 3)
+    best motion picture - musical or comedy (Count: 10)
+
+Cluster 28:
+    best motion picture musical (Count: 1)
+    best motion picture - musical (Count: 3)
+
+Cluster 6:
+    best motion picture drama (Count: 121)
+    best motion picture - drama (Count: 182)
+    best motion picture - - drama (Count: 10)
+    best motion picture (drama) (Count: 2)
+
+Cluster 13:
+    best motion picture comedy/musical (Count: 5)
+    best motion picture - comedy/musical (Count: 3)
+
+Cluster 148:
+    best motion picture - comedy/ musical (Count: 2)
+
+Cluster 216:
+    best motiion picture - drama (Count: 1)
+
+Cluster 52:
+    best miniseries/ television movie (Count: 1)
+
+Cluster 208:
+    best miniseries or television movie award (Count: 2)
+
+Cluster 3:
+    best miniseries or television movie (Count: 12)
+    best mini-series or television movie (Count: 16)
+    best mini series or television movie (Count: 1)
+
+Cluster 203:
+    best mini-series or television (Count: 2)
+
+Cluster 99:
+    best male performance in television (Count: 1)
+
+Cluster 197:
+    best life time achievement in movie (Count: 1)
+
+Cluster 95:
+    best introduction of an award (Count: 1)
+
+Cluster 94:
+    best human or inanimate object on or near a television (Count: 1)
+
+Cluster 45:
+    best group of bad asses in a motion picture" (Count: 1)
+
+Cluster 89:
+    best foreign language movie (Count: 1)
+
+Cluster 43:
+    best foreign language film award (Count: 1)
+
+Cluster 42:
+    best foreign language film (Count: 37)
+
+Cluster 41:
+    best foreign lang film (Count: 1)
+
+Cluster 82:
+    best foreign film award (Count: 1)
+
+Cluster 1:
+    best film comedy or musical (Count: 1)
+    best film (comedy or musical) (Count: 1)
+
+Cluster 156:
+    best fake seinfeld movie (Count: 1)
+
+Cluster 37:
+    best exotic marigold hotel beat the pants off hope springs as far as renewal of life-force in old people movie (Count: 1)
+
+Cluster 73:
+    best exotic marigold didn't become an oscar movie (Count: 1)
+
+Cluster 143:
+    best e utenlandske film (Count: 1)
+
+Cluster 34:
+    best e buitenlandse film (Count: 2)
+
+Cluster 136:
+    best dramatic role during comedy (Count: 1)
+
+Cluster 66:
+    best dramatic motion picture (Count: 1)
+
+Cluster 128:
+    best drama motion picture (Count: 2)
+
+Cluster 74:
+    best director — motion picture (Count: 1)
+
+Cluster 242:
+    best director of a motion picture (Count: 3)
+
+Cluster 57:
+    best director motion picture  awarded (Count: 47)
+
+Cluster 2:
+    best director motion picture (Count: 2)
+    best director - motion picture (Count: 12)
+    best director (motion picture) (Count: 1)
+
+Cluster 111:
+    best director in a motion picture (Count: 1)
+
+Cluster 104:
+    best director  award (Count: 24)
+
+Cluster 101:
+    best comedy/musical motion picture (Count: 2)
+
+Cluster 194:
+    best comedy unless there's a musical (Count: 1)
+
+Cluster 46:
+    best comedy or musical film (Count: 2)
+
+Cluster 44:
+    best comedy or musical (Count: 20)
+
+Cluster 20:
+    best comedy / musical (Count: 1)
+
+Cluster 79:
+    best animated film if your movie (Count: 1)
+
+Cluster 77:
+    best animated featured film (Count: 1)
+
+Cluster 36:
+    best animated feature film award (Count: 2)
+
+Cluster 67:
+    best animated feature film (Count: 190)
+
+Cluster 129:
+    best animated feature award (Count: 1)
+
+Cluster 61:
+    best actress in a performance by a role in a supporting role in a motion picture (Count: 3)
+
+Cluster 56:
+    best actres in a television series - comedy (Count: 2)
+
+Cluster 109:
+    best actess in a television series drama (Count: 1)
+
+Cluster 39:
+    best performance by an actor in a mini series or movie made for television (Count: 1)
+
+Cluster 63:
+    best director &amp; best picture (Count: 1)
+
+Cluster 122:
+    best acting like she didn't know she was going to win this award (Count: 1)
+
+Cluster 96:
+    lifetime achievement in motion picture (Count: 2)
+
+Cluster 22:
+    lifetime achievement award (Count: 1)
+
+Cluster 0:
+    cecil b. demille award (Count: 8)
+    cecil b. de mille award (Count: 3)
+    ' cecil b. demille award (Count: 1)
+
+Cluster 71:
+    an award (Count: 1)
+
+Cluster 107:
+    a lifetime achievement award (Count: 1)
+

@@ -1,32 +1,24 @@
-best television drama,3,0
 best television comedy/musical,6,0
-best supporting actress television series, miniseries, or television movie,22,1
-best supporting actress in a motion picture,10,0
-best supporting actor, motion picture,41,1
-best supporting actor, drama,5,0
-best supporting actor in a television show, miniseries or television movie,7,0
-best supporting actor in a motion picture,5,0
+best performance by an actress in a supporting role television series, miniseries, or television movie,22,1
+best performance by an actress in a supporting role in a motion picture,10,0
+best performance by an actor in a supporting role, motion picture,41,1
+best performance by an actor in a supporting role, drama,5,0
+best performance by an actor in a supporting role in television,6,0
+best performance by an actor in a supporting role in a television show, miniseries or television movie,7,0
+best performance by an actor in a supporting role in a motion picture,5,0
+best original song,14,1
 best motion picture drama,81,1
-best motion picture,3,0
-best miniseries or television movie,3,0
 best director - motion picture,6,0
-best comedy or musical,3,0
 best animated feature film,6,0
-best actress, comedy,3,0
 best actress television series comedy,4,0
-best actress in a television drama,3,0
 best actress in a television comedy/musical,6,0
 best actress in a television comedy or musical,26,1
-best actress in a motion picture drama,4,0
+best actress in a motion picture drama,7,0
 best actress in a motion picture comedy or musical,5,0
-best actress in a miniseries or television movie,3,0
 best actress in a mini-series/television movie,12,1
-best actress in a comedy or musical,3,0
 best actor, drama,8,0
 best actor, comedy/musical,5,0
 best actor television series - comedy or musical,13,1
-best actor in comedy/musical,3,0
 best actor in a motion picture drama,10,0
 best actor in a motion picture comedy/musical,6,0
 best actor in a miniseries/television movie,14,1
-as expected, best actress, television drama,5,0
