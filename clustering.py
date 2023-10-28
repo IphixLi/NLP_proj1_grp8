@@ -2,14 +2,11 @@ import spacy
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import pairwise_distances
 from sklearn.feature_extraction.text import TfidfVectorizer
-import numpy as np
 import json
 import string
 import re
-import sys
 import json
-from extraction import common, best_script, wins_script, goes_script, nominated_script, nominee_script, receives_script, winner_script
-
+from extraction import best_script, wins_script, goes_script, nominated_script, nominee_script, receives_script, winner_script
 
 f = open("gg2013.json",encoding="utf-8", errors="ignore")
 json_text=json.load(f)
@@ -38,7 +35,6 @@ def custom_tokenize(text):
 
     # print(tokens)
     return ''.join(tokens)
-
 
 def join_awards():
     all_texts={}
@@ -73,7 +69,7 @@ def get_awards():
     cosine_similarities = pairwise_distances(X, metric="jaccard")
 
     # Apply hierarchical clustering based on Jaccard similarity
-    clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.4, linkage='average', affinity='precomputed').fit(cosine_similarities)
+    clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=0.3, linkage='average', affinity='precomputed').fit(cosine_similarities)
 
     # Get the cluster labels
     cluster_labels = clustering.labels_

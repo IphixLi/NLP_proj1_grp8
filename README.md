@@ -5,7 +5,7 @@ Using spacy
 - python -m pip install spacy
 - python -m pip install scikit-learn
 
-python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_md
 
 steps:
 
