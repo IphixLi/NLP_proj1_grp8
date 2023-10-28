@@ -12,34 +12,33 @@ from vote import Vote
 
 spacy_model = spacy.load("en_core_web_md")
 
-awards = json.load(open("gg2013answers.json"))['award_data'].keys()
+# awards = json.load(open("gg2013answers.json"))['award_data'].keys()
 
-def get_award_keywords(awards) -> dict:
-    keyword_to_awards = {}
+# def get_award_keywords(awards) -> dict:
+#     keyword_to_awards = {}
 
-    for award in awards:
-        spacy_output = spacy_model(award)
-        for token in spacy_output:
-            # Check if the token is a stopword, punctuation, or short word
-            if token.is_stop or token.is_punct or len(token.text) < 3:
-                continue
+#     for award in awards:
+#         spacy_output = spacy_model(award)
+#         for token in spacy_output:
+#             # Check if the token is a stopword, punctuation, or short word
+#             if token.is_stop or token.is_punct or len(token.text) < 3:
+#                 continue
             
-            # Check if the token's part-of-speech is one of the desired categories
-            if token.pos_ in ["ADJ", "NOUN", "ADV", "VERB", "PROPN"]:
-                keyword = token.text.lower()
+#             # Check if the token's part-of-speech is one of the desired categories
+#             if token.pos_ in ["ADJ", "NOUN", "ADV", "VERB", "PROPN"]:
+#                 keyword = token.text.lower()
 
-                if keyword not in keyword_to_awards:
-                    keyword_to_awards[keyword] = [award]
-                else:
-                    keyword_to_awards[keyword].append(award)
-    
-    return keyword_to_awards
+#                 if keyword not in keyword_to_awards:
+#                     keyword_to_awards[keyword] = [award]
+#                 else:
+#                     keyword_to_awards[keyword].append(award)
+#     return keyword_to_awards
 
-keyword_to_awards = get_award_keywords(awards)
-award_keywords = list(keyword_to_awards.keys())
+# keyword_to_awards = get_award_keywords(awards)
+# award_keywords = list(keyword_to_awards.keys())
 
 class Winner:
-    def __init__(self, tweets: list, base_confidence=1.0):
+    def __init__(self, tweets: list, awards: list, base_confidence=1.0):
         self.folder = "winner_result"
         self.filename = "winner_verb.json"
         self.base_confidence = base_confidence
@@ -52,8 +51,34 @@ class Winner:
             "awarded", "go"
         ]
         self.tweets = tweets
+        
+        self.awards = awards
+        self.keyword_to_awards = self.get_award_keywords(awards)
+        self.award_keywords = list(self.keyword_to_awards.keys())
+    
+    def get_award_keywords(self, awards) -> dict:
+        keyword_to_awards = {}
+
+        for award in awards:
+            spacy_output = spacy_model(award)
+            for token in spacy_output:
+                # Check if the token is a stopword, punctuation, or short word
+                if token.is_stop or token.is_punct or len(token.text) < 3:
+                    continue
+                
+                # Check if the token's part-of-speech is one of the desired categories
+                if token.pos_ in ["ADJ", "NOUN", "ADV", "VERB", "PROPN"]:
+                    keyword = token.text.lower()
+
+                    if keyword not in keyword_to_awards:
+                        keyword_to_awards[keyword] = [award]
+                    else:
+                        keyword_to_awards[keyword].append(award)
+        return keyword_to_awards
     
     def save_extracted_tweets(self):
+        if not os.path.exists(self.folder):
+            os.makedirs(self.folder)
         with open(f"{self.folder}/{self.filename}", 'w') as f:
             json.dump(self.tweets, f, indent=4)
     
@@ -68,16 +93,16 @@ class Winner:
                 print(f"Processing tweet {i}, elapsed time: {time.time() - start_time}")
             self.winner_verb_extract(tweet)
     
-    def extract_or_load(self):
-        if os.path.exists(f"{self.folder}/{self.filename}"):
+    def extract_or_load(self, debug=False):
+        if debug and os.path.exists(f"{self.folder}/{self.filename}"):
             self.load_extracted_tweets()
         else:
             self.extract_tweets()
             self.save_extracted_tweets()
     
     def do_vote(self):
-        v = Vote(awards, self.timestamp_on)
-        v.vote_for_awards(awards, self.tweets, modify_tweet=self.modify_tweet)
+        v = Vote(self.awards, self.timestamp_on)
+        v.vote_for_awards(self.awards, self.tweets, modify_tweet=self.modify_tweet)
         self.results = v.get_results()
         self.make_timestamp_list()
         self.save_vote_results()
@@ -87,6 +112,8 @@ class Winner:
         return self.timestamp_list
         
     def save_vote_results(self):
+        if not os.path.exists(self.folder):
+            os.makedirs(self.folder)
         with open(f"{self.folder}/voteres_{self.filename}", "w") as f:
             json.dump(self.tweets, f, indent=4)
         
@@ -95,6 +122,13 @@ class Winner:
             
         with open(f"{self.folder}/timestamp_{self.filename}", "w") as f:
             json.dump(self.timestamp_list, f, indent=4)
+        
+    def load_winner(self) -> dict:
+        tmp = json.load(open(f"{self.folder}/vote_{self.filename}"))
+        results = {
+            award: award_data['winner'][0][0] for award, award_data in tmp.items()
+        }
+        return results
         
     def make_timestamp_list(self):
         timestamp_list = {
@@ -172,7 +206,7 @@ class Winner:
                 # Add award keywords if syntax check fails
                 if len(winner) > prev_winner_size or len(award) > prev_award_size:
                     for token in sentence:
-                        if token.text.lower() in award_keywords:
+                        if token.text.lower() in self.award_keywords:
                             award.append(token.text.lower())
             
             if winner or award:
@@ -187,12 +221,18 @@ class Winner:
 
 if __name__ == '__main__':
     tp = TweetsPreprocessor()
-    tp.load_all_tweets()
+    tp.load_all_tweets(debug=True)
     normal_tweets = tp.load_tweets(key='normal_tweets')
     
-    win_extract = Winner(normal_tweets)
-    win_extract.extract_or_load()
-    win_extract.do_vote()
+    awards = json.load(open("gg2013answers.json"))['award_data'].keys()
+    
+    win_extractor = Winner(normal_tweets, awards)
+    win_extractor.extract_or_load(debug=True) # TODO: True is for debugging
+    
+    win_extractor.do_vote()
+    
+    # print(json.dumps(keyword_to_awards, indent=4))
+    
     
     # if not os.path.exists(folder):
         

@@ -1,0 +1,213 @@
+{
+    "best": [
+        "best screenplay - motion picture",
+        "best director - motion picture",
+        "best performance by an actress in a television series - comedy or musical",
+        "best foreign language film",
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best motion picture - comedy or musical",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best mini-series or motion picture made for television",
+        "best original score - motion picture",
+        "best performance by an actress in a television series - drama",
+        "best performance by an actress in a motion picture - drama",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best motion picture - drama",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture",
+        "best television series - drama",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best animated feature film",
+        "best original song - motion picture",
+        "best performance by an actor in a motion picture - drama",
+        "best television series - comedy or musical",
+        "best performance by an actor in a television series - drama",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "screenplay": [
+        "best screenplay - motion picture"
+    ],
+    "motion": [
+        "best screenplay - motion picture",
+        "best director - motion picture",
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best motion picture - comedy or musical",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best mini-series or motion picture made for television",
+        "best original score - motion picture",
+        "best performance by an actress in a motion picture - drama",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best motion picture - drama",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best original song - motion picture",
+        "best performance by an actor in a motion picture - drama"
+    ],
+    "picture": [
+        "best screenplay - motion picture",
+        "best director - motion picture",
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best motion picture - comedy or musical",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best mini-series or motion picture made for television",
+        "best original score - motion picture",
+        "best performance by an actress in a motion picture - drama",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best motion picture - drama",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best original song - motion picture",
+        "best performance by an actor in a motion picture - drama"
+    ],
+    "director": [
+        "best director - motion picture"
+    ],
+    "performance": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best performance by an actress in a television series - drama",
+        "best performance by an actress in a motion picture - drama",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best performance by an actor in a motion picture - drama",
+        "best performance by an actor in a television series - drama",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "actress": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best performance by an actress in a television series - drama",
+        "best performance by an actress in a motion picture - drama",
+        "best performance by an actress in a supporting role in a motion picture",
+        "best performance by an actress in a mini-series or motion picture made for television"
+    ],
+    "television": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best mini-series or motion picture made for television",
+        "best performance by an actress in a television series - drama",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best television series - drama",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best television series - comedy or musical",
+        "best performance by an actor in a television series - drama",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "series": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best mini-series or motion picture made for television",
+        "best performance by an actress in a television series - drama",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best television series - drama",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television",
+        "best television series - comedy or musical",
+        "best performance by an actor in a television series - drama",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "comedy": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best motion picture - comedy or musical",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best television series - comedy or musical",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "musical": [
+        "best performance by an actress in a television series - comedy or musical",
+        "best motion picture - comedy or musical",
+        "best performance by an actress in a motion picture - comedy or musical",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best television series - comedy or musical",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "foreign": [
+        "best foreign language film"
+    ],
+    "language": [
+        "best foreign language film"
+    ],
+    "film": [
+        "best foreign language film",
+        "best animated feature film"
+    ],
+    "actor": [
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actor in a motion picture - comedy or musical",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actor in a motion picture - drama",
+        "best performance by an actor in a television series - drama",
+        "best performance by an actor in a television series - comedy or musical"
+    ],
+    "supporting": [
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture"
+    ],
+    "role": [
+        "best performance by an actor in a supporting role in a motion picture",
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actress in a supporting role in a motion picture"
+    ],
+    "mini": [
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television",
+        "best mini-series or motion picture made for television",
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television",
+        "best performance by an actor in a mini-series or motion picture made for television",
+        "best performance by an actress in a mini-series or motion picture made for television"
+    ],
+    "original": [
+        "best original score - motion picture",
+        "best original song - motion picture"
+    ],
+    "score": [
+        "best original score - motion picture"
+    ],
+    "drama": [
+        "best performance by an actress in a television series - drama",
+        "best performance by an actress in a motion picture - drama",
+        "best motion picture - drama",
+        "best television series - drama",
+        "best performance by an actor in a motion picture - drama",
+        "best performance by an actor in a television series - drama"
+    ],
+    "cecil": [
+        "cecil b. demille award"
+    ],
+    "demille": [
+        "cecil b. demille award"
+    ],
+    "award": [
+        "cecil b. demille award"
+    ],
+    "animated": [
+        "best animated feature film"
+    ],
+    "feature": [
+        "best animated feature film"
+    ],
+    "song": [
+        "best original song - motion picture"
+    ]
+}

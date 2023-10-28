@@ -3,11 +3,11 @@
         "winner": [
             [
                 "quentin tarantino",
-                83.24235294117653
+                81.56235294117653
             ],
             [
                 "tarantino",
-                10.6
+                12.28
             ],
             [
                 "django",
@@ -43,17 +43,17 @@
             ]
         ],
         "nominees": [],
-        "timestamp": 1358130252000.0
+        "timestamp": 1358130247333.3333
     },
     "best director - motion picture": {
         "winner": [
             [
                 "ben affleck",
-                114.33411764705903
+                111.93411764705903
             ],
             [
                 "argo",
-                11.665882352941177
+                11.983529411764707
             ],
             [
                 "affleck",
@@ -84,21 +84,21 @@
                 3.3600000000000003
             ],
             [
-                "gq s filmmaker of the year",
+                "gq filmmaker of the year",
                 3.3600000000000003
             ]
         ],
         "nominees": [],
-        "timestamp": 1358133455400.0
+        "timestamp": 1358133460800.0
     },
     "best performance by an actress in a television series - comedy or musical": {
         "winner": [
             [
                 "lena dunham",
-                12.827306027306026
+                13.462017982017981
             ],
             [
-                "girls hbo golden globes yay",
+                "girls hbo",
                 2.336090576090576
             ],
             [
@@ -114,10 +114,6 @@
                 1.168045288045288
             ],
             [
-                "2013 golden globes lena dunham",
-                0.6347119547119546
-            ],
-            [
                 "hipsters",
                 0.2808658008658008
             ]
@@ -129,15 +125,19 @@
         "winner": [
             [
                 "amour",
-                79.32
-            ],
-            [
-                "golden globes 2013 amour",
-                25.4
+                103.43999999999998
             ],
             [
                 "amour austria",
-                15.919999999999998
+                7.96
+            ],
+            [
+                "amour austria.",
+                7.96
+            ],
+            [
+                "amour.",
+                2.88
             ],
             [
                 "dushi bagels",
@@ -148,7 +148,11 @@
                 2.88
             ],
             [
-                "golden globes amore austria",
+                "golden globe awards",
+                2.88
+            ],
+            [
+                "amore austria",
                 2.88
             ],
             [
@@ -156,15 +160,7 @@
                 2.5999999999999996
             ],
             [
-                "amour ",
-                1.6
-            ],
-            [
-                "mandy patinkin s beard",
-                1.4000000000000001
-            ],
-            [
-                "kiefer sutherland",
+                "mandy patinkin beard",
                 1.4000000000000001
             ]
         ],
@@ -175,11 +171,15 @@
         "winner": [
             [
                 "christoph waltz",
-                11.47781512605042
+                10.010084033613445
             ],
             [
                 "christoph waltz in django unchained",
-                1.4677310924369749
+                0.7667226890756302
+            ],
+            [
+                "christoph waltz in django unchained.",
+                0.7010084033613446
             ],
             [
                 "christoph",
@@ -190,27 +190,23 @@
                 0.13142857142857134
             ],
             [
+                "christopher waltz",
+                0.13142857142857134
+            ],
+            [
                 "adele",
                 0.13142857142857134
             ],
             [
-                "rt filmdotcom christoph waltz",
+                "filmdotcom christoph waltz",
                 0.06571428571428567
             ],
             [
-                "golden globes christopher waltz",
+                "christoph waltz.",
                 0.06571428571428567
             ],
             [
                 "christopher walz",
-                0.06571428571428567
-            ],
-            [
-                "mike savacool",
-                0.06571428571428567
-            ],
-            [
-                "christophe waltz",
                 0.06571428571428567
             ]
         ],
@@ -221,26 +217,18 @@
         "winner": [
             [
                 "maggie smith",
-                2.402757242757243
+                7.02921078921079
             ],
             [
-                "downton abbey s maggie smith",
-                0.8013786213786216
+                "downton abbey maggie smith",
+                1.6027572427572432
             ],
             [
-                "downton abbeys maggie smith",
-                0.8013786213786216
+                "maggie smith downtown abbey season",
+                1.6027572427572432
             ],
             [
-                "maggie smith from downton abbey congrats",
-                0.5
-            ],
-            [
-                "maggie smith from downton abbey  congrats",
-                0.5
-            ],
-            [
-                "rt vulture maggie smith",
+                "vulture maggie smith",
                 0.5
             ],
             [
@@ -250,6 +238,14 @@
             [
                 "maggie smith downton abbey",
                 0.40275724275724323
+            ],
+            [
+                "maggie smith from downton abbey",
+                0.20137862137862161
+            ],
+            [
+                "maggie smith from downton abbey -",
+                0.20137862137862161
             ]
         ],
         "nominees": [],
@@ -259,7 +255,7 @@
         "winner": [
             [
                 "les miserables",
-                27.563921568627443
+                29.556862745098034
             ],
             [
                 "les mis",
@@ -278,24 +274,24 @@
                 0.9819607843137255
             ],
             [
-                "anddd les miserables",
-                0.6643137254901961
-            ],
-            [
-                "my inner musical theatre nerd freaks out ",
-                0.6643137254901961
-            ],
-            [
-                "golden globes les miserables",
-                0.6643137254901961
-            ],
-            [
-                "rt huffington post les miserables",
+                "my inner musical theatre nerd freaks out--",
                 0.6643137254901961
             ],
             [
                 "washingtonpost les mis",
                 0.6643137254901961
+            ],
+            [
+                "best picture",
+                0.13098039215686275
+            ],
+            [
+                "les miz",
+                0.13098039215686275
+            ],
+            [
+                "lesmiz movie",
+                0.13098039215686275
             ]
         ],
         "nominees": [],
@@ -305,11 +301,15 @@
         "winner": [
             [
                 "jennifer lawrence",
-                6.940392156862745
+                6.940392156862746
             ],
             [
                 "silver linings playbook star jennifer lawrence",
-                1.4105322128851538
+                1.410532212885154
+            ],
+            [
+                "jennifer lawrence.",
+                1.0676750700280113
             ]
         ],
         "nominees": [],
@@ -319,33 +319,45 @@
         "winner": [
             [
                 "game change",
-                4.606153846153846
+                7.113286713286715
             ],
             [
-                "hbo s game change",
+                "hbo game change",
                 1.0509584533113945
             ],
             [
-                "golden globes game change",
-                0.06181818181818183
+                "game change.",
+                0.44951048951048955
+            ],
+            [
+                "katiecouric game change",
+                0.41566433566433586
+            ],
+            [
+                "game change hbo",
+                0.41566433566433564
+            ],
+            [
+                "juliannemoore game change",
+                0.41566433566433564
+            ],
+            [
+                "julianne moore",
+                0.2713286713286711
             ],
             [
                 "hatfields and mc coys",
                 0.033846153846153915
-            ],
-            [
-                "katiecouric game change",
-                0.033846153846153915
             ]
         ],
         "nominees": [],
-        "timestamp": 1358126297500.0
+        "timestamp": 1358126291000.0
     },
     "best original score - motion picture": {
         "winner": [
             [
                 "life of pi",
-                13.035294117647059
+                13.51529411764706
             ],
             [
                 "mychael danna",
@@ -356,19 +368,19 @@
                 8.04
             ],
             [
+                "life of pi mychael danna",
+                4.9952941176470596
+            ],
+            [
                 "life of pie",
                 3.315294117647059
             ],
             [
-                "golden globes life of pi mychael danna",
-                3.315294117647059
-            ],
-            [
-                "mychael danna  life of pi",
+                "mychael danna life of pi",
                 2.6799999999999997
             ],
             [
-                "mychael danna life of pi",
+                "mychael danna - life of pi",
                 2.6799999999999997
             ],
             [
@@ -391,22 +403,26 @@
         "winner": [
             [
                 "claire danes",
-                6.549916749916749
+                7.4126007326007315
             ],
             [
-                "homeland s claire danes",
+                "homeland claire danes",
                 1.6694239094239092
             ],
             [
                 "claire danes of homeland",
-                1.1775690975690976
-            ],
-            [
-                "julianne moore",
-                0.3013786213786213
+                1.1775690975690973
             ],
             [
                 "lenadunham",
+                0.30137862137862154
+            ],
+            [
+                "lena dunham",
+                0.30137862137862154
+            ],
+            [
+                "julianne moore",
                 0.3013786213786213
             ]
         ],
@@ -417,27 +433,19 @@
         "winner": [
             [
                 "jessica chastain",
-                14.41960784313725
+                15.888291316526605
             ],
             [
                 "jessica chastain for",
                 1.4686834733893557
             ],
             [
-                "jessica chastain zero dark thirty ",
-                0.7343417366946778
-            ],
-            [
-                "jessica chastain zero dark thirty dream come true golden globes zeebox",
-                0.7343417366946778
+                "jessica chastain zero dark thirty dream",
+                1.4686834733893557
             ],
             [
                 "jennifer lawrence",
-                0.6030252100840335
-            ],
-            [
-                "goldenglobes jennifer lawrence",
-                0.2010084033613445
+                0.804033613445378
             ]
         ],
         "nominees": [],
@@ -447,15 +455,15 @@
         "winner": [
             [
                 "jodie foster",
-                48.60000000000001
+                42.60000000000001
             ],
             [
                 "adele",
-                19.2
+                17.599999999999998
             ],
             [
                 "hugh jackman",
-                14.399999999999999
+                15.999999999999998
             ],
             [
                 "christoph waltz",
@@ -463,26 +471,26 @@
             ],
             [
                 "daniel day lewis",
-                11.799999999999999
+                10.2
             ],
             [
                 "jennifer lawrence",
-                11.2
+                9.6
+            ],
+            [
+                "anne hathaway",
+                7.0
             ],
             [
                 "django",
                 6.4
             ],
             [
-                "target",
-                6.4
-            ],
-            [
-                "goldenglobes",
+                "yale alumna jodie foster",
                 6.0
             ],
             [
-                "yale alumna jodie foster 85",
+                "jodie foster.",
                 6.0
             ]
         ],
@@ -493,19 +501,15 @@
         "winner": [
             [
                 "hugh jackman",
-                10.077647058823528
+                10.86532212885154
             ],
             [
-                "real hugh jackman",
+                "sweet moment to the real hugh jackman",
                 1.0676750700280113
             ],
             [
                 "my all time fave",
                 1.0676750700280113
-            ],
-            [
-                "golden globes hugh jackman",
-                0.7876750700280113
             ]
         ],
         "nominees": [],
@@ -515,11 +519,15 @@
         "winner": [
             [
                 "argo",
-                25.147450980392158
+                22.221960784313726
+            ],
+            [
+                "argo.",
+                2.594509803921569
             ],
             [
                 "the excellent argo",
-                1.2972549019607842
+                1.2972549019607844
             ],
             [
                 "chastain",
@@ -531,28 +539,28 @@
             ],
             [
                 "donnie wahlberg and argo",
-                0.6486274509803921
+                0.6486274509803922
             ],
             [
-                "congratulations to ben affleck and wbpictures on their golden globes best picture drama",
-                0.33098039215686265
+                "to ben affleck and wbpictures on their best picture drama",
+                0.33098039215686276
             ]
         ],
         "nominees": [],
-        "timestamp": 1358135924000.0
+        "timestamp": 1358135927666.6667
     },
     "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television": {
         "winner": [
             [
                 "ed harris",
-                3.0
-            ],
-            [
-                "golden globes ed harris",
-                0.91956043956044
+                4.301378621378621
             ],
             [
                 "damien lewis",
+                0.20137862137862161
+            ],
+            [
+                "entertainment ed harris",
                 0.20137862137862161
             ]
         ],
@@ -563,11 +571,7 @@
         "winner": [
             [
                 "anne hathaway",
-                13.184537815126053
-            ],
-            [
-                "anne hathaway golden globes",
-                1.4020168067226892
+                14.849411764705884
             ],
             [
                 "anne hathaway of les miserables",
@@ -575,31 +579,35 @@
             ],
             [
                 "anne hathaway in les miserables",
-                0.9077310924369748
+                0.4867226890756302
             ],
             [
-                "maggie smith",
-                0.591428571428571
+                "anne hathaway in les miserables.",
+                0.42100840336134454
             ],
             [
                 "les miserables star",
                 0.3833613445378152
             ],
             [
+                "maggie smith",
+                0.32857142857142835
+            ],
+            [
                 "best supporting actress",
                 0.13142857142857134
             ],
             [
-                "maggie smith downtown abbey season 2",
+                "les miserables",
                 0.13142857142857134
             ],
             [
-                "maggie smith downtown abby",
-                0.13142857142857134
+                "helen hunt",
+                0.06571428571428567
             ],
             [
-                "yay anne hathaway",
-                0.13142857142857134
+                "adena maria maggie smith",
+                0.06571428571428567
             ]
         ],
         "nominees": [],
@@ -609,22 +617,18 @@
         "winner": [
             [
                 "homeland",
-                9.678787878787881
+                12.23869463869464
             ],
             [
                 "claire danes",
                 2.246993006993007
             ],
             [
-                "girls",
-                0.8626573426573427
-            ],
-            [
-                "rt washingtonpost homeland",
+                "washingtonpost homeland",
                 0.748997668997669
             ],
             [
-                "rt aol homeland",
+                "aol homeland",
                 0.748997668997669
             ],
             [
@@ -632,19 +636,23 @@
                 0.748997668997669
             ],
             [
-                "davidharewood homeland",
-                0.21566433566433568
+                "girls",
+                0.646993006993007
             ],
             [
-                "goldenglobes damienlewis",
-                0.21566433566433568
+                "the show",
+                0.468997668997669
             ],
             [
-                "lenadunham congrats on the girls",
-                0.21566433566433568
+                "showtime homeland.",
+                0.3951515151515152
             ],
             [
-                "so happy girls",
+                "showtime homeland",
+                0.3951515151515152
+            ],
+            [
+                "game change as the best seriestelevision movie",
                 0.21566433566433568
             ]
         ],
@@ -655,7 +663,11 @@
         "winner": [
             [
                 "kevin costner",
-                3.145793030498914
+                10.385073749779634
+            ],
+            [
+                "benedict cumberbatch",
+                0.8442357642357643
             ],
             [
                 "kevin costner of hatfields mccoys",
@@ -670,21 +682,33 @@
                 0.2391208791208792
             ],
             [
+                "",
+                0.1195604395604396
+            ],
+            [
+                "christopher waltz",
+                0.1195604395604396
+            ],
+            [
                 "former president bill clinton",
                 0.1195604395604396
             ]
         ],
         "nominees": [],
-        "timestamp": 1358128595500.0
+        "timestamp": 1358128574000.0
     },
     "best performance by an actress in a mini-series or motion picture made for television": {
         "winner": [
             [
                 "julianne moore",
-                4.450088734794618
+                8.75314567785156
             ],
             [
-                "goldenglobes claire danes",
+                "julianna moore",
+                0.5013786213786215
+            ],
+            [
+                "claire danes",
                 0.5013786213786215
             ]
         ],
@@ -695,11 +719,11 @@
         "winner": [
             [
                 "brave",
-                145.91999999999993
+                140.83999999999995
             ],
             [
-                "brave golden globes congrats",
-                10.16
+                "brave.",
+                11.84
             ],
             [
                 "so happy brave",
@@ -710,11 +734,7 @@
                 3.5999999999999996
             ],
             [
-                "golden globes disney pixar s brave",
-                2.88
-            ],
-            [
-                "yay",
+                "disney pixar brave",
                 2.88
             ],
             [
@@ -730,38 +750,46 @@
                 1.6800000000000002
             ],
             [
+                "pixar",
+                1.6800000000000002
+            ],
+            [
                 "agreed with nearly all wins though i wish frankenweenie had taken animated film and john williams",
                 1.6
             ]
         ],
         "nominees": [],
-        "timestamp": 1358131629333.3333
+        "timestamp": 1358131631666.6667
     },
     "best original song - motion picture": {
         "winner": [
             [
                 "adele",
-                133.0941176470589
+                143.57176470588243
             ],
             [
                 "skyfall",
-                36.995294117647056
+                38.47529411764706
             ],
             [
                 "official adele",
                 9.52
             ],
             [
-                "adele s skyfall",
-                6.630588235294118
-            ],
-            [
-                "rt thr skyfall from skyfall",
-                6.630588235294118
-            ],
-            [
                 "adele and paul epworth",
-                5.640000000000001
+                7.12
+            ],
+            [
+                "skyfall d",
+                6.630588235294118
+            ],
+            [
+                "adele skyfall",
+                6.630588235294118
+            ],
+            [
+                "thr skyfall from skyfall",
+                6.630588235294118
             ],
             [
                 "skyfall adele",
@@ -774,23 +802,19 @@
             [
                 "skyfall music and lyrics by adele and paul epworth skyfall",
                 3.3600000000000003
-            ],
-            [
-                "skyfall adeleeeeeeeee",
-                3.315294117647059
             ]
         ],
         "nominees": [],
-        "timestamp": 1358128174250.0
+        "timestamp": 1358128156500.0
     },
     "best performance by an actor in a motion picture - drama": {
         "winner": [
             [
                 "daniel day lewis",
-                13.482016806722685
+                14.216358543417362
             ],
             [
-                "daniel daylewis",
+                "daniel day-lewis",
                 2.9373669467787114
             ],
             [
@@ -802,7 +826,7 @@
                 0.7343417366946778
             ],
             [
-                "golden globes",
+                "thr",
                 0.7343417366946778
             ],
             [
@@ -810,7 +834,7 @@
                 0.5438655462184874
             ],
             [
-                "daniel daylewis ",
+                "daniel day-lewis -",
                 0.454341736694678
             ],
             [
@@ -825,27 +849,23 @@
         "winner": [
             [
                 "girls",
-                18.60792540792541
+                17.569230769230774
             ],
             [
-                "golden globes",
-                1.0823310023310022
+                "girls.",
+                2.5393006993006995
+            ],
+            [
+                "hbo girls",
+                1.2774825174825177
             ],
             [
                 "hbo",
                 0.7284848484848485
             ],
             [
-                "golden globes hbo s girls",
-                0.7005128205128206
-            ],
-            [
-                "rt thr girls",
+                "thr girls",
                 0.548997668997669
-            ],
-            [
-                "hbo girls",
-                0.19515151515151508
             ]
         ],
         "nominees": [],
@@ -855,11 +875,11 @@
         "winner": [
             [
                 "damian lewis",
-                7.884102564102562
+                9.60947052947053
             ],
             [
-                "damian lewis golden globes",
-                0.9617316017316017
+                "homeland",
+                2.2476190476190463
             ],
             [
                 "damien lewis",
@@ -874,16 +894,20 @@
                 0.8347119547119546
             ],
             [
-                "don cheadle",
-                0.6027572427572426
-            ],
-            [
-                "homeland s damian lewis",
+                "homeland damian lewis",
                 0.48086580086580083
             ],
             [
                 "my lovely ginger damian lewis",
-                0.4528937728937727
+                0.4528937728937729
+            ],
+            [
+                "don cheadle",
+                0.30137862137862154
+            ],
+            [
+                "don cheadle don cheadle of the showtime",
+                0.3013786213786213
             ]
         ],
         "nominees": [],
@@ -893,19 +917,15 @@
         "winner": [
             [
                 "don cheadle",
-                17.315604395604396
+                19.590143190143188
             ],
             [
-                "rt washingtonpost don cheadle",
-                2.3360905760905757
-            ],
-            [
-                "the ever so cool don cheadle",
-                1.5109024309024306
+                "washingtonpost don cheadle",
+                2.336090576090576
             ],
             [
                 "learninlife don cheadle",
-                1.1680452880452878
+                1.168045288045288
             ],
             [
                 "don cheadle house of lies",
@@ -913,14 +933,14 @@
             ],
             [
                 "lena dunham",
-                0.2528937728937729
+                0.6347119547119546
             ],
             [
-                "rt thr lena dunham",
-                0.2528937728937729
+                "thr lena dunham",
+                0.6347119547119546
             ]
         ],
         "nominees": [],
-        "timestamp": 1358130478000.0
+        "timestamp": 1358130481000.0
     }
 }

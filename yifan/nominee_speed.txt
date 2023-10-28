@@ -1,0 +1,311 @@
+Processing tweet 0, elapsed time: 7.152557373046875e-06
+/home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py:389: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 389 of the file /home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  lis = BeautifulSoup(html).find_all('li')
+Processing tweet 1000, elapsed time: 102.76397323608398
+Processing tweet 2000, elapsed time: 152.0080213546753
+Processing tweet 3000, elapsed time: 174.68315315246582
+Processing tweet 4000, elapsed time: 192.7053427696228
+Processing tweet 5000, elapsed time: 199.0419464111328
+Processing tweet 6000, elapsed time: 204.17731642723083
+Processing tweet 7000, elapsed time: 223.87781763076782
+Processing tweet 8000, elapsed time: 252.80913066864014
+Processing tweet 9000, elapsed time: 283.5807821750641
+Processing tweet 10000, elapsed time: 303.2772617340088
+Processing tweet 11000, elapsed time: 334.8101201057434
+Processing tweet 12000, elapsed time: 381.9057731628418
+Processing tweet 13000, elapsed time: 408.8989839553833
+Processing tweet 14000, elapsed time: 425.3628270626068
+Processing tweet 15000, elapsed time: 458.2754669189453
+Processing tweet 16000, elapsed time: 480.44503140449524
+Processing tweet 17000, elapsed time: 498.364248752594
+Processing tweet 18000, elapsed time: 505.61021757125854
+Processing tweet 19000, elapsed time: 530.7251825332642
+Processing tweet 20000, elapsed time: 560.7683439254761
+Processing tweet 21000, elapsed time: 574.3884091377258
+Processing tweet 22000, elapsed time: 582.9633703231812
+Processing tweet 23000, elapsed time: 598.1559059619904
+Processing tweet 24000, elapsed time: 601.5839836597443
+Processing tweet 25000, elapsed time: 614.1114318370819
+Processing tweet 26000, elapsed time: 620.0155546665192
+Processing tweet 27000, elapsed time: 620.9353199005127
+Processing tweet 28000, elapsed time: 624.8594765663147
+Processing tweet 29000, elapsed time: 628.9718990325928
+Processing tweet 30000, elapsed time: 659.2464549541473
+Processing tweet 31000, elapsed time: 676.8763391971588
+Processing tweet 32000, elapsed time: 682.1569197177887
+Processing tweet 33000, elapsed time: 686.6593186855316
+Processing tweet 34000, elapsed time: 693.2606685161591
+Processing tweet 35000, elapsed time: 699.6789379119873
+Processing tweet 36000, elapsed time: 717.9112968444824
+Processing tweet 37000, elapsed time: 764.6871120929718
+Processing tweet 38000, elapsed time: 826.681554555893
+Processing tweet 39000, elapsed time: 872.901505947113
+Processing tweet 40000, elapsed time: 902.6194252967834
+Processing tweet 41000, elapsed time: 935.1473245620728
+Processing tweet 42000, elapsed time: 995.2895641326904
+Processing tweet 43000, elapsed time: 1081.898106098175
+Processing tweet 44000, elapsed time: 1123.4254310131073
+Processing tweet 45000, elapsed time: 1157.8675796985626
+Processing tweet 46000, elapsed time: 1164.186207294464
+Processing tweet 47000, elapsed time: 1177.905430316925
+Processing tweet 48000, elapsed time: 1211.1371471881866
+Processing tweet 49000, elapsed time: 1233.8255157470703
+Processing tweet 50000, elapsed time: 1240.1120219230652
+Processing tweet 51000, elapsed time: 1275.425122976303
+Processing tweet 52000, elapsed time: 1299.5591175556183
+Processing tweet 53000, elapsed time: 1312.9473555088043
+Processing tweet 54000, elapsed time: 1324.2824337482452
+Processing tweet 55000, elapsed time: 1340.8624761104584
+Processing tweet 56000, elapsed time: 1380.9833738803864
+Processing tweet 57000, elapsed time: 1398.7736489772797
+Processing tweet 58000, elapsed time: 1402.8341615200043
+Processing tweet 59000, elapsed time: 1404.541443347931
+Processing tweet 60000, elapsed time: 1413.2287063598633
+Processing tweet 61000, elapsed time: 1416.1997389793396
+Processing tweet 62000, elapsed time: 1422.9737484455109
+Processing tweet 63000, elapsed time: 1431.127022266388
+Processing tweet 64000, elapsed time: 1438.8753170967102
+Processing tweet 65000, elapsed time: 1496.4143714904785
+Processing tweet 66000, elapsed time: 1540.6988167762756
+Processing tweet 67000, elapsed time: 1564.9542953968048
+Processing tweet 68000, elapsed time: 1586.4507596492767
+Processing tweet 69000, elapsed time: 1605.5775315761566
+Processing tweet 70000, elapsed time: 1655.4316260814667
+Processing tweet 71000, elapsed time: 1709.9078299999237
+Processing tweet 72000, elapsed time: 1725.0700595378876
+Processing tweet 73000, elapsed time: 1737.6607897281647
+Processing tweet 74000, elapsed time: 1758.911969423294
+Processing tweet 75000, elapsed time: 1796.9738128185272
+Processing tweet 76000, elapsed time: 1832.6324059963226
+Processing tweet 77000, elapsed time: 1865.3290450572968
+Processing tweet 78000, elapsed time: 1880.2855598926544
+Processing tweet 79000, elapsed time: 1900.7154273986816
+Processing tweet 80000, elapsed time: 1918.2862288951874
+Processing tweet 81000, elapsed time: 1941.7083327770233
+Processing tweet 82000, elapsed time: 1973.4864115715027
+Processing tweet 83000, elapsed time: 2004.3666112422943
+Processing tweet 84000, elapsed time: 2023.2341845035553
+
+
+
+Processing tweet 0, elapsed time: 7.152557373046875e-06
+/home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py:389: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 389 of the file /home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  lis = BeautifulSoup(html).find_all('li')
+Processing tweet 10000, elapsed time: 64.91909742355347
+Processing tweet 20000, elapsed time: 76.22037053108215
+Processing tweet 30000, elapsed time: 91.02666139602661
+Processing tweet 40000, elapsed time: 97.50379395484924
+Processing tweet 50000, elapsed time: 107.48260831832886
+Processing tweet 60000, elapsed time: 116.48746371269226
+Processing tweet 70000, elapsed time: 121.58875107765198
+Processing tweet 80000, elapsed time: 140.709481716156
+---------------WikiSearch stats:---------------
+cache_hit: 155
+cache_miss: 115
+total_time: 127.23335027694702
+---------------WikiSearch logs:---------------
+- search_results: ['Tommy Lee', 'Tommy Lee Jones', 'Tommy Lee Wallace'] for 'Tommy Lee'
+- wikipedia: The page does not exist: 'Leo Di Caprio'
+- search_results: ['Leonardo DiCaprio', 'George DiCaprio', 'Leo (2023 Indian film)'] for 'Leo Di Caprio'
+- wikipedia: The page does not exist: 'Leo Dicaprio'
+- search_results: ['Leonardo DiCaprio', 'Leo (2023 Indian film)', 'George DiCaprio'] for 'Leo Dicaprio'
+- wikipedia: The page does not exist: 'Hayden Panettier'
+- search_results: ['Jessica Szohr'] for 'Hayden Panettier'
+- search_results: ['Downton Abbey', 'Downton Abbey (film)', 'List of Downton Abbey characters'] for 'Downton Abbey'
+- search_results: ['John Williams', 'John Williams (guitarist)', 'John Williams (disambiguation)'] for 'John Williams'
+- wikipedia: Ambiguous. Possible matches include: ['John Williams (football executive)', 'John Williams (winemaker)', 'John C. Williams (economist)', 'John H. Williams (businessperson)', 'John Henry Williams (baseball)', 'John Osborn Williams', 'John P. Williams Jr.', 'John Stanton Williams', 'John Williams (Ab Ithel)', 'John Williams (archbishop of York)', 'John Williams (archdeacon of Switzerland)', 'John Williams (archdeacon of Worcester)', 'John Williams (bishop of Chichester)', 'John Williams (bishop of Connecticut)', 'John Williams (dean of Llandaff)', 'John Williams (evangelical priest)', 'John Williams (minister and physician)', 'John Williams (missionary)', 'John Williams (New England minister)', 'John Williams (Oxford academic)', 'John Williams (priest, born 1792)', 'John Williams (schoolmaster, born 1760)', 'John Albert Williams', 'Chris Williams (bishop)', 'John Elias Williams', 'John Joseph Williams', 'John Owen Williams (Pedrog)', 'John Tudno Williams', 'John Williams (British mass murderer)', 'John Williams (convict)', 'John Williams (died 1913)', 'John Allen Williams (murderer)', 'Johnny Madison Williams Jr.', 'John Williams (English judge)', 'John A. Williams (judge)', 'John Griffith Williams', 'Hugh Williams (judge)', 'B. John Williams', 'John Williams (Medal of Honor, born 1828)', 'John Williams (Medal of Honor, born 1832)', 'John Williams (Medal of Honor, 1861)', 'John B. Williams (general)', 'John F. Williams', 'John Foster Williams', 'John G. Williams Jr.', 'John J. Williams (soldier)', 'John Pugh Williams', 'John Stuart Williams', 'John Williams (British Army officer)', 'John Williams (VC)', 'Jack Williams (VC)', 'John Lloyd Williams (RAF officer)', 'John William Collman Williams', 'John Williams Wilson', 'John Edwin Ashley Williams', 'John Scott Williams', 'John Williams (bassist)', 'John Williams (guitarist)', 'John Williams (pianist)', 'John B', 'John David (musician)', 'John Gary Williams', 'John McLaughlin Williams', 'John Overton Williams', 'John Owen Williams (record producer)', 'Johnny Williams (bassist)', 'Johnny Williams (blues musician)', 'Johnny Williams (drummer)', 'Johnny Williams (saxophonist)', '"Scarface" John Williams', 'John Williams (gastroenterologist)', 'Sir John Williams, 1st Baronet, of the City of London', 'John Ralston Williams', 'John Whitridge Williams', 'John Williams (Caswell County, North Carolina)', 'John Williams (Continental Congress)', 'John Williams (Pitt County, North Carolina)', 'John Williams (Rochester, New York)', 'John Williams (Salem, New York)', 'John Williams (Tennessee politician)', 'John Williams (West Virginia politician)', 'John Bell Williams', 'John Cornelius Williams Jr.', 'Thomas Edward Williams (politician)', 'John F. Williams (American politician)', 'John Green Williams', 'John J. Williams (politician)', 'John K. Williams', 'John M. S. Williams', 'Pat Williams (Montana politician)', 'John R. Williams', 'Jack Williams (American politician)', 'John Sharp Williams', 'John Skelton Williams', 'John Stuart Williams', 'John T. Williams (politician)', 'John Willis Williams', 'John Williams (Australian senator)', 'John Williams (New South Wales colonial politician)', 'John Williams (New South Wales state politician)', 'John Williams (South Australian politician)', 'John Williams (Western Australian politician)', 'John Williams (MP for Bedford)', 'John Williams, 1st Baron Williams of Thame', 'John Williams (MP for Dorset)', 'Sir John Williams, 2nd Baronet, of Llangibby', 'Sir John Williams, 2nd Baronet, of Eltham', 'John Williams (Wales MP)', 'John Williams (died 1743)', 'John Williams (died 1751)', 'John Williams (Macclesfield MP)', 'John Williams (born 1736)', 'John Williams (Windsor MP)', 'John Williams (1777–1846)', 'John Williams (Nottinghamshire politician)', 'Sir John Williams, 1st Baronet, of the City of London', 'Jack Williams (socialist activist)', 'John Charles Williams', 'John Williams (Gower MP)', 'John Henry Williams (politician)', 'John Williams (trade unionist)', 'John Williams (Glasgow politician)', 'John L. Williams (Welsh nationalist)', 'John Williams (MP for Weymouth and Melcombe Regis)', 'John Williams (Manitoba politician)', 'John Elliot Williams', 'John G. Williams (Canadian politician)', 'John Reesor Williams', 'John Tucker Williams', 'John William Williams (Canadian politician)', 'Jack Williams (New Zealand politician)', 'John Kenneth Williams', 'John William Williams', 'John Williams (Jamaican politician)', 'John Williams (Ab Ithel)', 'John Williams (art historian)', 'John Williams (bishop of Connecticut)', 'John Williams (gastroenterologist)', 'John Williams (Oxford academic)', 'John Williams (priest, born 1792)', 'John Williams (water scientist)', 'John Williams Jr. (university president)', 'John Allen Williams', 'John Beaumont Williams', 'John Burr Williams', 'John Davis Williams', 'John Ffowcs Williams', 'John Harry Williams', 'John Henry Williams (economist)', 'John Tudno Williams', 'John Williams (footballer, born 1901)', 'John Williams (footballer, born 1960)', 'John Williams (footballer, born 1968)', 'Johnny Williams (footballer, born 1947)', 'Johnny Williams (footballer, born 1935)', 'Jonny Williams', 'John Williams (Australian footballer, born 1940)', 'John Williams (Australian footballer, born 1947)', 'John Williams (Australian footballer, born 1988)', 'John Williams (first baseman)', 'John Williams (pitcher)', 'Johnnie Williams (baseball)', 'Johnny Williams (baseball)', 'John Williams (Auckland cricketer)', 'John Williams (Canterbury cricketer)', 'John Williams (cricketer, born 1878)', 'John Williams (cricketer, born 1911)', 'John Williams (cricketer, born 1980)', 'John Williams (defensive back)', 'John Williams (offensive lineman)', 'John Williams (running back)', 'John Williams Jr. (Canadian football)', 'John L. Williams (American football)', 'John M. Williams', 'Johnny Williams (American football)', 'John Williams (rugby league, born 1985)', 'John Williams (rugby league, born 1907)', 'John Williams (rugby union, born 1940)', 'John Williams (rugby union, born 1946)', 'Jack Williams (rugby union)', 'J. J. Williams (rugby union)', 'J. P. R. Williams', 'Johnny Williams (rugby union, born 1882)', 'Johnny Williams (rugby union, born 1982)', 'Johnny Williams (rugby union, born 1996)', 'John Williams (archer)', 'John Williams (basketball, born 1966)', 'John Williams (equestrian)', 'John Williams (mixed martial artist)', 'John Williams (motorcyclist)', 'John Williams (snooker referee)', 'Ian Rotten', 'John "Hot Rod" Williams', 'John Sherman Williams', 'Johnny Williams (boxer)', 'John Williams (author, born 1961)', 'John Williams (satirist)', 'John A. Williams', 'John Bickerton Williams', 'John Edward Williams', 'John Ellis Williams', 'John Francon Williams', 'John Hartley Williams', 'John James Williams (poet)', 'John Williams Ntwali', 'John Richard Williams (poet)', 'John Sibley Williams', 'John Williams (shipbuilder)', 'Montgomery Canal', 'John Williams (actor)', 'John Williams (barrister)', 'John Williams (radio personality)', 'John Williams (goldsmith)', 'John Constantine Williams Sr.', 'John Eddie Williams', 'John G. Williams (ornithologist)', 'John H. Williams (film producer)', 'Grant Williams (actor)', 'J. Lloyd Williams', 'John T. Williams (woodcarver)', 'John W. Williams (legislative clerk) ', 'List of ships named John Williams', 'J. J. Williams (disambiguation)', 'John Williams House (disambiguation)', 'John William (disambiguation)', 'Jack Williams (disambiguation)', 'John A. Williams (disambiguation)', 'John B. Williams (disambiguation)', 'John C. Williams (disambiguation)', 'John D. Williams (disambiguation)', 'John E. Williams (disambiguation)', 'John F. Williams (disambiguation)', 'John G. Williams (disambiguation)', 'John H. Williams (disambiguation)', 'John Henry Williams (disambiguation)', 'John J. Williams (disambiguation)', 'John L. Williams (disambiguation)', 'John Lloyd Williams (disambiguation)', 'John M. Williams (disambiguation)', 'John O. Williams (disambiguation)', 'John Owen Williams (disambiguation)', 'John P. Williams (disambiguation)', 'John R. Williams (disambiguation)', 'John Richard Williams (disambiguation)', 'John S. Williams (disambiguation)', 'John T. Williams (disambiguation)', 'John W. Williams (disambiguation)', 'Jonathan Williams (disambiguation)', 'Sir John Williams, 1st Baronet (disambiguation)', 'John Williamson (disambiguation)'] for 'John Williams'
+- search_results: ['List of Homeland characters', 'Imran Nazir (cricketer)', 'Homeland (season 1)'] for 'Abu Nazir'
+- search_results: ['Taylor Swift', 'Taylor Swift: The Eras Tour', 'List of songs by Taylor Swift'] for 'Taylor Swift'
+- wikipedia: The page does not exist: 'Loved Hatfield'
+- search_results: ['Hatfield–McCoy feud', 'Devil Anse Hatfield', 'Juliana Hatfield'] for 'Loved Hatfield'
+- wikipedia: The page does not exist: 'Mac Greenfield'
+- search_results: ['Mac Tonight', 'The Henry Ford', 'Love Will Keep Us Together'] for 'Mac Greenfield'
+- search_results: ['List of Homeland characters', 'Berenson', 'Mandy Patinkin'] for 'Saul Berenson'
+- wikipedia: Ambiguous. Possible matches include: ['Anne Hathaway (wife of Shakespeare)', '"Anne Hathaway" (poem)', 'Portrait of Anne Hathaway', 'Mary Bigelow Ingham', "Anne Hathaway's Cottage"] for 'Ann Hathaway'
+- search_results: ['Anne Hathaway (disambiguation)', 'Anne Hathaway', 'Anne Hathaway (wife of Shakespeare)'] for 'Ann Hathaway'
+- wikipedia: Ambiguous. Possible matches include: ['Anne Hathaway (wife of Shakespeare)', '"Anne Hathaway" (poem)', 'Portrait of Anne Hathaway', 'Mary Bigelow Ingham', "Anne Hathaway's Cottage"] for 'Ann Hathaway'
+- wikipedia: The page does not exist: 'Ab Falecbaldwin'
+- search_results: [] for 'Ab Falecbaldwin'
+- wikipedia: The page does not exist: 'Louis Ck'
+- search_results: ['Louis C.K.', 'Sincerely Louis CK', 'Louis C.K. filmography'] for 'Louis Ck'
+- search_results: ['Jim Pearson', 'James J. Braddock', 'Jim Pearson (ice hockey)'] for 'Jim Pearson'
+- wikipedia: Ambiguous. Possible matches include: ['Mark Andrews (politician)', 'Mark Andrews (filmmaker)', 'Mark Andrews (rower)', 'Mark Andrews (swimmer)', 'Mark Andrews (rugby union)', 'Sisqó', 'Mark E. Andrews', 'Mark Andrews (wrestler)', 'Mark Andrews (American football)', 'Grand Forks International Airport', 'Mark Andrew'] for 'Mark Andrews'
+- search_results: ['Mark Andrews', 'Mark Andrews (American football)', 'Mark Andrews (wrestler)'] for 'Mark Andrews'
+- search_results: ['Big Bang', 'The Big Bang Theory', 'List of The Big Bang Theory episodes'] for 'Big Bang'
+- wikipedia: The page does not exist: 'Nbc Smash'
+- search_results: ['Smash (TV series)', 'Steve Madden', 'Christian Borle'] for 'Nbc Smash'
+- wikipedia: The page does not exist: 'Jennifer Garner-Ben Affleck'
+- search_results: ['Jennifer Garner', 'Ben Affleck filmography', 'Jennifer Affleck'] for 'Jennifer Garner-Ben Affleck'
+- search_results: ['Les Misérables', 'Les Misérables (musical)', 'Les Misérables (2012 film)'] for 'Les Miserables'
+- wikipedia: The page does not exist: 'Hatfieldsand Mc Coys'
+- search_results: [] for 'Hatfieldsand Mc Coys'
+- search_results: ['Sarah Palin', 'Bristol Palin', 'Governorship of Sarah Palin'] for 'Sarah Palin'
+- wikipedia: The page does not exist: 'Darcy St'
+- search_results: ['Amy Poehler', 'Pride and Prejudice', 'Thomas Darcy, 1st Baron Darcy de Darcy'] for 'Darcy St'
+- wikipedia: The page does not exist: 'Darcy Mcfudge'
+- search_results: [] for 'Darcy Mcfudge'
+- wikipedia: The page does not exist: 'Amy Poeler'
+- search_results: ['Amy Poehler'] for 'Amy Poeler'
+- wikipedia: Ambiguous. Possible matches include: ['Damien Lewis (American football)', 'Damien Lewis (filmmaker)', 'Damian Lewis', 'Damion Lewis'] for 'Damien Lewis'
+- search_results: ['Damien Lewis', 'Damien Lewis (filmmaker)', 'Damian Lewis'] for 'Damien Lewis'
+- wikipedia: Ambiguous. Possible matches include: ['International Cloud Atlas', 'Alexander George McAdie', 'Donald Platt', 'Cloud Atlas (novel)', 'Liam Callanan', 'Cloud Atlas (film)', 'Toshi Ichiyanagi', 'Mikel Rouse'] for 'Cloud Atlas'
+- search_results: ['Cloud Atlas (film)', 'Cloud Atlas (novel)', 'Cloud atlas'] for 'Cloud Atlas'
+- wikipedia: The page does not exist: 'Jon Bon'
+- search_results: ['Jon Bon Jovi', 'Bon Jovi', 'Jake Bongiovi'] for 'Jon Bon'
+- wikipedia: The page does not exist: 'Sarah K Silverman'
+- search_results: ['Sarah Silverman', 'The Sarah Silverman Program', 'I Love You, America with Sarah Silverman'] for 'Sarah K Silverman'
+- search_results: ['Tina Fey', 'Father Damien', 'Damien Williams'] for 'Damien Francisco'
+- wikipedia: The page does not exist: 'Damien Fransisco'
+- search_results: ['The Last Night (video game)', 'Carol Danvers', 'European Pétanque Championships'] for 'Damien Fransisco'
+- search_results: ['Tina Fey', 'Damián Alcázar', 'Father Damien'] for 'Damian Francisco'
+- search_results: ['Harry Reid', 'Harry Reid International Airport', 'Harry Reid (actor)'] for 'Harry Reid'
+- wikipedia: The page does not exist: 'Damion Francisco'
+- search_results: ['Notre-Dame-des-Victoires', 'Notre Dame–USC football rivalry', 'University of Notre Dame'] for 'Damion Francisco'
+- wikipedia: Ambiguous. Possible matches include: ['Notre-Dame-des-Victoires, Paris', 'Notre-Dame-des-Victoires, Quebec City', 'Notre-Dame-des-Victoires, San Francisco', 'Our Lady of Victory (disambiguation)'] for 'Damion Francisco'
+- search_results: ['John Hamm', 'Jon Hamm', 'John Ham'] for 'John Hamm'
+- wikipedia: The page does not exist: 'Mandy Patakin'
+- search_results: [] for 'Mandy Patakin'
+- search_results: ['Mandy Patinkin', 'Common Wealth Award of Distinguished Service', 'Drakkar Sauna'] for 'Mandy Patankin'
+- wikipedia: The page does not exist: 'Danielletbd - Manny'
+- search_results: [] for 'Danielletbd - Manny'
+- wikipedia: The page does not exist: 'Don Cheadle Louie'
+- search_results: ['List of The Tonight Show with Jay Leno episodes (2013–14)', "Critics' Choice Television Award for Best Actor in a Comedy Series", 'Donald Duck'] for 'Don Cheadle Louie'
+- wikipedia: The page does not exist: 'Louie Ck'
+- search_results: ['Louis C.K.', 'Louie (American TV series)', 'Come On, God'] for 'Louie Ck'
+- search_results: ['Tami Taylor', 'List of Friday Night Lights characters', 'Connie Britton'] for 'Tami Taylor'
+- wikipedia: The page does not exist: 'Michele Dockery'
+- search_results: ['Henry Golding', 'Michelle (name)', 'List of Monday Night Football commentators'] for 'Michele Dockery'
+- wikipedia: The page does not exist: 'New Girlon Fox'
+- search_results: ['New Girl (season 4)'] for 'New Girlon Fox'
+- wikipedia: The page does not exist: 'Girls Hbo'
+- search_results: ['Girls (TV series)', 'The Sex Lives of College Girls', 'One of the Girls'] for 'Girls Hbo'
+- search_results: ['List of Arrested Development characters', 'Arrested Development', 'Scott Baio'] for 'Bob Loblaw'
+- wikipedia: The page does not exist: 'Les Miserables Or'
+- search_results: ['Les Misérables', 'Les Misérables (musical)', 'Les Misérables (2012 film)'] for 'Les Miserables Or'
+- wikipedia: Ambiguous. Possible matches include: ['John Hawkes (actor)', 'John Hawkes (novelist)', 'John Hawkes (tennis)', 'John Gregory "Jack" Hawkes', 'John Henry Mason Hawkes', 'John Hawkes (horseman)', 'John Hawkes (MP)', 'Jack Hawkes (disambiguation)', 'John Hawk (disambiguation)', 'John Hawke (disambiguation)', 'John Hawks (disambiguation)'] for 'John Hawkes'
+- search_results: ['John Hawkes (actor)', 'John Hawkes', 'John Hawkes (novelist)'] for 'John Hawkes'
+- search_results: ['Jack Reacher', 'Jack Reacher (film)', 'Jack Reacher: Never Go Back'] for 'Jack Reacher'
+- wikipedia: Ambiguous. Possible matches include: ['John D. Hawks', 'John Twelve Hawks', 'John Hawks (architect)', 'John Milton Hawks', 'John Hawk (disambiguation)', 'John Hawke (disambiguation)', 'John Hawkes (disambiguation)'] for 'John Hawks'
+- search_results: ['John Hawks', 'John Hawk', 'John D. Hawks'] for 'John Hawks'
+- wikipedia: Ambiguous. Possible matches include: ['John D. Hawk', 'John Layfield', 'Hawk', 'Global Goon', 'John Hawke (disambiguation)', 'John Hawkes (disambiguation)', 'John Hawks (disambiguation)'] for 'John Hawks'
+- wikipedia: The page does not exist: 'Argofuckyourself Lincoln'
+- search_results: [] for 'Argofuckyourself Lincoln'
+---------------WinnerNameMatcher stats:---------------
+success: 1778
+failure: 3391
+total_time: 0.2312469482421875
+
+
+Processing tweet 0, elapsed time: 6.198883056640625e-06
+/home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py:389: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 389 of the file /home/chyifan/.local/lib/python3.8/site-packages/wikipedia/wikipedia.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  lis = BeautifulSoup(html).find_all('li')
+Processing tweet 10000, elapsed time: 61.326308250427246
+Processing tweet 20000, elapsed time: 77.65842938423157
+Processing tweet 30000, elapsed time: 97.63191175460815
+Processing tweet 40000, elapsed time: 108.95178151130676
+Processing tweet 50000, elapsed time: 127.80157709121704
+Processing tweet 60000, elapsed time: 145.72348260879517
+Processing tweet 70000, elapsed time: 162.2669162750244
+Processing tweet 80000, elapsed time: 191.15190315246582
+---------------WikiSearch stats:---------------
+cache_hit: 154
+cache_miss: 116
+total_time: 115.27748036384583
+---------------WikiSearch logs:---------------
+- search_results: ['Tommy Lee', 'Tommy Lee Jones', 'Tommy Lee Wallace'] for 'Tommy Lee'
+- wikipedia: The page does not exist: 'Leo Di Caprio'
+- search_results: ['Leonardo DiCaprio', 'George DiCaprio', 'Leo (2023 Indian film)'] for 'Leo Di Caprio'
+- wikipedia: The page does not exist: 'Leo Dicaprio'
+- search_results: ['Leonardo DiCaprio', 'George DiCaprio', 'Leo (2023 Indian film)'] for 'Leo Dicaprio'
+- wikipedia: The page does not exist: 'Hayden Panettier'
+- search_results: ['Jessica Szohr'] for 'Hayden Panettier'
+- search_results: ['Downton Abbey', 'Downton Abbey (film)', 'List of Downton Abbey characters'] for 'Downton Abbey'
+- search_results: ['John Williams', 'John Williams (guitarist)', 'John Williams (disambiguation)'] for 'John Williams'
+- wikipedia: Ambiguous. Possible matches include: ['John Williams (football executive)', 'John Williams (winemaker)', 'John C. Williams (economist)', 'John H. Williams (businessperson)', 'John Henry Williams (baseball)', 'John Osborn Williams', 'John P. Williams Jr.', 'John Stanton Williams', 'John Williams (Ab Ithel)', 'John Williams (archbishop of York)', 'John Williams (archdeacon of Switzerland)', 'John Williams (archdeacon of Worcester)', 'John Williams (bishop of Chichester)', 'John Williams (bishop of Connecticut)', 'John Williams (dean of Llandaff)', 'John Williams (evangelical priest)', 'John Williams (minister and physician)', 'John Williams (missionary)', 'John Williams (New England minister)', 'John Williams (Oxford academic)', 'John Williams (priest, born 1792)', 'John Williams (schoolmaster, born 1760)', 'John Albert Williams', 'Chris Williams (bishop)', 'John Elias Williams', 'John Joseph Williams', 'John Owen Williams (Pedrog)', 'John Tudno Williams', 'John Williams (British mass murderer)', 'John Williams (convict)', 'John Williams (died 1913)', 'John Allen Williams (murderer)', 'Johnny Madison Williams Jr.', 'John Williams (English judge)', 'John A. Williams (judge)', 'John Griffith Williams', 'Hugh Williams (judge)', 'B. John Williams', 'John Williams (Medal of Honor, born 1828)', 'John Williams (Medal of Honor, born 1832)', 'John Williams (Medal of Honor, 1861)', 'John B. Williams (general)', 'John F. Williams', 'John Foster Williams', 'John G. Williams Jr.', 'John J. Williams (soldier)', 'John Pugh Williams', 'John Stuart Williams', 'John Williams (British Army officer)', 'John Williams (VC)', 'Jack Williams (VC)', 'John Lloyd Williams (RAF officer)', 'John William Collman Williams', 'John Williams Wilson', 'John Edwin Ashley Williams', 'John Scott Williams', 'John Williams (bassist)', 'John Williams (guitarist)', 'John Williams (pianist)', 'John B', 'John David (musician)', 'John Gary Williams', 'John McLaughlin Williams', 'John Overton Williams', 'John Owen Williams (record producer)', 'Johnny Williams (bassist)', 'Johnny Williams (blues musician)', 'Johnny Williams (drummer)', 'Johnny Williams (saxophonist)', '"Scarface" John Williams', 'John Williams (gastroenterologist)', 'Sir John Williams, 1st Baronet, of the City of London', 'John Ralston Williams', 'John Whitridge Williams', 'John Williams (Caswell County, North Carolina)', 'John Williams (Continental Congress)', 'John Williams (Pitt County, North Carolina)', 'John Williams (Rochester, New York)', 'John Williams (Salem, New York)', 'John Williams (Tennessee politician)', 'John Williams (West Virginia politician)', 'John Bell Williams', 'John Cornelius Williams Jr.', 'Thomas Edward Williams (politician)', 'John F. Williams (American politician)', 'John Green Williams', 'John J. Williams (politician)', 'John K. Williams', 'John M. S. Williams', 'Pat Williams (Montana politician)', 'John R. Williams', 'Jack Williams (American politician)', 'John Sharp Williams', 'John Skelton Williams', 'John Stuart Williams', 'John T. Williams (politician)', 'John Willis Williams', 'John Williams (Australian senator)', 'John Williams (New South Wales colonial politician)', 'John Williams (New South Wales state politician)', 'John Williams (South Australian politician)', 'John Williams (Western Australian politician)', 'John Williams (MP for Bedford)', 'John Williams, 1st Baron Williams of Thame', 'John Williams (MP for Dorset)', 'Sir John Williams, 2nd Baronet, of Llangibby', 'Sir John Williams, 2nd Baronet, of Eltham', 'John Williams (Wales MP)', 'John Williams (died 1743)', 'John Williams (died 1751)', 'John Williams (Macclesfield MP)', 'John Williams (born 1736)', 'John Williams (Windsor MP)', 'John Williams (1777–1846)', 'John Williams (Nottinghamshire politician)', 'Sir John Williams, 1st Baronet, of the City of London', 'Jack Williams (socialist activist)', 'John Charles Williams', 'John Williams (Gower MP)', 'John Henry Williams (politician)', 'John Williams (trade unionist)', 'John Williams (Glasgow politician)', 'John L. Williams (Welsh nationalist)', 'John Williams (MP for Weymouth and Melcombe Regis)', 'John Williams (Manitoba politician)', 'John Elliot Williams', 'John G. Williams (Canadian politician)', 'John Reesor Williams', 'John Tucker Williams', 'John William Williams (Canadian politician)', 'Jack Williams (New Zealand politician)', 'John Kenneth Williams', 'John William Williams', 'John Williams (Jamaican politician)', 'John Williams (Ab Ithel)', 'John Williams (art historian)', 'John Williams (bishop of Connecticut)', 'John Williams (gastroenterologist)', 'John Williams (Oxford academic)', 'John Williams (priest, born 1792)', 'John Williams (water scientist)', 'John Williams Jr. (university president)', 'John Allen Williams', 'John Beaumont Williams', 'John Burr Williams', 'John Davis Williams', 'John Ffowcs Williams', 'John Harry Williams', 'John Henry Williams (economist)', 'John Tudno Williams', 'John Williams (footballer, born 1901)', 'John Williams (footballer, born 1960)', 'John Williams (footballer, born 1968)', 'Johnny Williams (footballer, born 1947)', 'Johnny Williams (footballer, born 1935)', 'Jonny Williams', 'John Williams (Australian footballer, born 1940)', 'John Williams (Australian footballer, born 1947)', 'John Williams (Australian footballer, born 1988)', 'John Williams (first baseman)', 'John Williams (pitcher)', 'Johnnie Williams (baseball)', 'Johnny Williams (baseball)', 'John Williams (Auckland cricketer)', 'John Williams (Canterbury cricketer)', 'John Williams (cricketer, born 1878)', 'John Williams (cricketer, born 1911)', 'John Williams (cricketer, born 1980)', 'John Williams (defensive back)', 'John Williams (offensive lineman)', 'John Williams (running back)', 'John Williams Jr. (Canadian football)', 'John L. Williams (American football)', 'John M. Williams', 'Johnny Williams (American football)', 'John Williams (rugby league, born 1985)', 'John Williams (rugby league, born 1907)', 'John Williams (rugby union, born 1940)', 'John Williams (rugby union, born 1946)', 'Jack Williams (rugby union)', 'J. J. Williams (rugby union)', 'J. P. R. Williams', 'Johnny Williams (rugby union, born 1882)', 'Johnny Williams (rugby union, born 1982)', 'Johnny Williams (rugby union, born 1996)', 'John Williams (archer)', 'John Williams (basketball, born 1966)', 'John Williams (equestrian)', 'John Williams (mixed martial artist)', 'John Williams (motorcyclist)', 'John Williams (snooker referee)', 'Ian Rotten', 'John "Hot Rod" Williams', 'John Sherman Williams', 'Johnny Williams (boxer)', 'John Williams (author, born 1961)', 'John Williams (satirist)', 'John A. Williams', 'John Bickerton Williams', 'John Edward Williams', 'John Ellis Williams', 'John Francon Williams', 'John Hartley Williams', 'John James Williams (poet)', 'John Williams Ntwali', 'John Richard Williams (poet)', 'John Sibley Williams', 'John Williams (shipbuilder)', 'Montgomery Canal', 'John Williams (actor)', 'John Williams (barrister)', 'John Williams (radio personality)', 'John Williams (goldsmith)', 'John Constantine Williams Sr.', 'John Eddie Williams', 'John G. Williams (ornithologist)', 'John H. Williams (film producer)', 'Grant Williams (actor)', 'J. Lloyd Williams', 'John T. Williams (woodcarver)', 'John W. Williams (legislative clerk) ', 'List of ships named John Williams', 'J. J. Williams (disambiguation)', 'John Williams House (disambiguation)', 'John William (disambiguation)', 'Jack Williams (disambiguation)', 'John A. Williams (disambiguation)', 'John B. Williams (disambiguation)', 'John C. Williams (disambiguation)', 'John D. Williams (disambiguation)', 'John E. Williams (disambiguation)', 'John F. Williams (disambiguation)', 'John G. Williams (disambiguation)', 'John H. Williams (disambiguation)', 'John Henry Williams (disambiguation)', 'John J. Williams (disambiguation)', 'John L. Williams (disambiguation)', 'John Lloyd Williams (disambiguation)', 'John M. Williams (disambiguation)', 'John O. Williams (disambiguation)', 'John Owen Williams (disambiguation)', 'John P. Williams (disambiguation)', 'John R. Williams (disambiguation)', 'John Richard Williams (disambiguation)', 'John S. Williams (disambiguation)', 'John T. Williams (disambiguation)', 'John W. Williams (disambiguation)', 'Jonathan Williams (disambiguation)', 'Sir John Williams, 1st Baronet (disambiguation)', 'John Williamson (disambiguation)'] for 'John Williams'
+- search_results: ['List of Homeland characters', 'Imran Nazir (cricketer)', 'Homeland (season 1)'] for 'Abu Nazir'
+- search_results: ['Taylor Swift', 'Taylor Swift: The Eras Tour', 'List of songs by Taylor Swift'] for 'Taylor Swift'
+- wikipedia: The page does not exist: 'Loved Hatfield'
+- search_results: ['Devil Anse Hatfield', 'Hatfield–McCoy feud', 'Juliana Hatfield'] for 'Loved Hatfield'
+- wikipedia: The page does not exist: 'Mac Greenfield'
+- search_results: ['Mac Tonight', 'The Henry Ford', 'Love Will Keep Us Together'] for 'Mac Greenfield'
+- search_results: ['List of Homeland characters', 'Berenson', 'Mandy Patinkin'] for 'Saul Berenson'
+- wikipedia: Ambiguous. Possible matches include: ['Anne Hathaway (wife of Shakespeare)', '"Anne Hathaway" (poem)', 'Portrait of Anne Hathaway', 'Mary Bigelow Ingham', "Anne Hathaway's Cottage"] for 'Ann Hathaway'
+- search_results: ['Anne Hathaway (disambiguation)', 'Anne Hathaway (wife of Shakespeare)', 'Anne Hathaway'] for 'Ann Hathaway'
+- wikipedia: Ambiguous. Possible matches include: ['Anne Hathaway (wife of Shakespeare)', '"Anne Hathaway" (poem)', 'Portrait of Anne Hathaway', 'Mary Bigelow Ingham', "Anne Hathaway's Cottage"] for 'Ann Hathaway'
+- wikipedia: The page does not exist: 'Ab Falecbaldwin'
+- search_results: [] for 'Ab Falecbaldwin'
+- search_results: ['Jim Pearson', 'Pearson plc', 'Jim Pearson (ice hockey)'] for 'Jim Pearson'
+- wikipedia: Ambiguous. Possible matches include: ['Mark Andrews (politician)', 'Mark Andrews (filmmaker)', 'Mark Andrews (rower)', 'Mark Andrews (swimmer)', 'Mark Andrews (rugby union)', 'Sisqó', 'Mark E. Andrews', 'Mark Andrews (wrestler)', 'Mark Andrews (American football)', 'Grand Forks International Airport', 'Mark Andrew'] for 'Mark Andrews'
+- search_results: ['Mark Andrews', 'Mark Andrews (American football)', 'Mark Andrews (wrestler)'] for 'Mark Andrews'
+- search_results: ['Big Bang', 'The Big Bang Theory', 'List of The Big Bang Theory episodes'] for 'Big Bang'
+- wikipedia: The page does not exist: 'Nbc Smash'
+- search_results: ['Smash (TV series)', 'Steve Madden', 'Christian Borle'] for 'Nbc Smash'
+- wikipedia: The page does not exist: 'Jennifer Garner-Ben Affleck'
+- search_results: ['Jennifer Garner', 'Ben Affleck filmography', 'Jennifer Affleck'] for 'Jennifer Garner-Ben Affleck'
+- search_results: ['Les Misérables', 'Les Misérables (musical)', 'Les Misérables (2012 film)'] for 'Les Miserables'
+- wikipedia: The page does not exist: 'Hatfieldsand Mc Coys'
+- search_results: [] for 'Hatfieldsand Mc Coys'
+- search_results: ['Sarah Palin', 'Lisa Ann', 'Governorship of Sarah Palin'] for 'Sarah Palin'
+- wikipedia: The page does not exist: 'Darcy St'
+- search_results: ['Amy Poehler', 'Pride and Prejudice', 'Thomas Darcy, 1st Baron Darcy de Darcy'] for 'Darcy St'
+- wikipedia: The page does not exist: 'Darcy Mcfudge'
+- search_results: [] for 'Darcy Mcfudge'
+- wikipedia: The page does not exist: 'Amy Poeler'
+- search_results: ['Amy Poehler'] for 'Amy Poeler'
+- wikipedia: Ambiguous. Possible matches include: ['Damien Lewis (American football)', 'Damien Lewis (filmmaker)', 'Damian Lewis', 'Damion Lewis'] for 'Damien Lewis'
+- search_results: ['Damien Lewis', 'Damien Lewis (filmmaker)', 'Damian Lewis'] for 'Damien Lewis'
+- wikipedia: Ambiguous. Possible matches include: ['International Cloud Atlas', 'Alexander George McAdie', 'Donald Platt', 'Cloud Atlas (novel)', 'Liam Callanan', 'Cloud Atlas (film)', 'Toshi Ichiyanagi', 'Mikel Rouse'] for 'Cloud Atlas'
+- search_results: ['Cloud Atlas (film)', 'Cloud Atlas (novel)', 'Cloud atlas'] for 'Cloud Atlas'
+- wikipedia: The page does not exist: 'Jon Bon'
+- search_results: ['Jon Bon Jovi', 'Bon Jovi', 'Jake Bongiovi'] for 'Jon Bon'
+- wikipedia: The page does not exist: 'Sarah K Silverman'
+- search_results: ['The Sarah Silverman Program', 'Sarah Silverman', 'I Love You, America with Sarah Silverman'] for 'Sarah K Silverman'
+- search_results: ['Tina Fey', 'Father Damien', 'Damien Williams'] for 'Damien Francisco'
+- wikipedia: The page does not exist: 'Damien Fransisco'
+- search_results: ['The Last Night (video game)', 'Carol Danvers', 'European Pétanque Championships'] for 'Damien Fransisco'
+- search_results: ['Tina Fey', 'Damián Alcázar', 'Father Damien'] for 'Damian Francisco'
+- search_results: ['Harry Reid', 'Harry Reid International Airport', 'Harry Reid (actor)'] for 'Harry Reid'
+- wikipedia: The page does not exist: 'Damion Francisco'
+- search_results: ['Notre-Dame-des-Victoires', 'Notre Dame–USC football rivalry', 'University of Notre Dame'] for 'Damion Francisco'
+- wikipedia: Ambiguous. Possible matches include: ['Notre-Dame-des-Victoires, Paris', 'Notre-Dame-des-Victoires, Quebec City', 'Notre-Dame-des-Victoires, San Francisco', 'Our Lady of Victory (disambiguation)'] for 'Damion Francisco'
+- search_results: ['John Hamm', 'Jon Hamm', 'John Ham'] for 'John Hamm'
+- wikipedia: The page does not exist: 'Mandy Patakin'
+- search_results: [] for 'Mandy Patakin'
+- search_results: ['Mandy Patinkin', 'Common Wealth Award of Distinguished Service', 'Drakkar Sauna'] for 'Mandy Patankin'
+- wikipedia: The page does not exist: 'Danielletbd - Manny'
+- search_results: [] for 'Danielletbd - Manny'
+- wikipedia: The page does not exist: 'Don Cheadle Louie'
+- search_results: ['List of The Tonight Show with Jay Leno episodes (2013–14)', "Critics' Choice Television Award for Best Actor in a Comedy Series", 'Donald Duck'] for 'Don Cheadle Louie'
+- wikipedia: The page does not exist: 'Louie Ck'
+- search_results: ['Louis C.K.', 'Louie (American TV series)', 'Lucky Louie'] for 'Louie Ck'
+- search_results: ['Tami Taylor', 'List of Friday Night Lights characters', 'Connie Britton'] for 'Tami Taylor'
+- wikipedia: The page does not exist: 'Michele Dockery'
+- search_results: ['Henry Golding', 'Michelle (name)', 'List of Monday Night Football commentators'] for 'Michele Dockery'
+- wikipedia: The page does not exist: 'New Girlon Fox'
+- search_results: ['New Girl (season 4)'] for 'New Girlon Fox'
+- wikipedia: The page does not exist: 'Girls Hbo'
+- search_results: ['Girls (TV series)', 'The Sex Lives of College Girls', 'One of the Girls'] for 'Girls Hbo'
+- search_results: ['List of Arrested Development characters', 'Arrested Development', 'Scott Baio'] for 'Bob Loblaw'
+- wikipedia: The page does not exist: 'Les Miserables Or'
+- search_results: ['Les Misérables', 'Les Misérables (musical)', 'Les Misérables (2012 film)'] for 'Les Miserables Or'
+- wikipedia: Ambiguous. Possible matches include: ['John Hawkes (actor)', 'John Hawkes (novelist)', 'John Hawkes (tennis)', 'John Gregory "Jack" Hawkes', 'John Henry Mason Hawkes', 'John Hawkes (horseman)', 'John Hawkes (MP)', 'Jack Hawkes (disambiguation)', 'John Hawk (disambiguation)', 'John Hawke (disambiguation)', 'John Hawks (disambiguation)'] for 'John Hawkes'
+- search_results: ['John Hawkes (actor)', 'John Hawkes (novelist)', 'John Hawkes'] for 'John Hawkes'
+- search_results: ['Jack Reacher', 'Jack Reacher (film)', 'Jack Reacher: Never Go Back'] for 'Jack Reacher'
+- wikipedia: Ambiguous. Possible matches include: ['John D. Hawks', 'John Twelve Hawks', 'John Hawks (architect)', 'John Milton Hawks', 'John Hawk (disambiguation)', 'John Hawke (disambiguation)', 'John Hawkes (disambiguation)'] for 'John Hawks'
+- search_results: ['John Hawks', 'John Hawk', 'John D. Hawks'] for 'John Hawks'
+- wikipedia: Ambiguous. Possible matches include: ['John D. Hawk', 'John Layfield', 'Hawk', 'Global Goon', 'John Hawke (disambiguation)', 'John Hawkes (disambiguation)', 'John Hawks (disambiguation)'] for 'John Hawks'
+- wikipedia: The page does not exist: 'Argofuckyourself Lincoln'
+- search_results: [] for 'Argofuckyourself Lincoln'
+---------------WinnerNameMatcher stats:---------------
+success: 22281
+failure: 62317
+total_time: 3.1747381687164307

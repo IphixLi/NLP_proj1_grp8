@@ -6,8 +6,9 @@ import string
 spacy_model = spacy.load("en_core_web_md")
 
 from similarity import compute_similarity
+from timestamp_cluster import TimestampCluster
+from handle_names import name_cleaning
 
-### TODO: delete this
 awards = json.load(open("gg2013answers.json"))['award_data'].keys()
 
 class Vote:
@@ -16,6 +17,7 @@ class Vote:
         self.awards = awards
         self.keyword_to_awards = self.get_award_keywords()
         self.award_keywords = list(self.keyword_to_awards.keys())
+        self.strict_confidence_threshold = 2.0
         self.results = {
             award: {
                 'winner': {},
@@ -45,6 +47,11 @@ class Vote:
                 "min_score": -0.5,
                 "confidence": 0.5,
             },
+            "strict": {
+                "max_score": 0.0,
+                "min_score": -0.5,
+                "confidence": 0.5,
+            },
         }
     
     def get_award_keywords(self) -> dict:
@@ -65,17 +72,30 @@ class Vote:
                         keyword_to_awards[keyword] = [award]
                     else:
                         keyword_to_awards[keyword].append(award)
-        
         return keyword_to_awards
     
     def get_update_key(self, base_confidence=1.0) -> str:
-        return "strict" if base_confidence > 1.0 else "loose"
+        return "strict" if base_confidence > self.strict_confidence_threshold else "loose"
     
     def substitute_tv(self, text: str) -> str:
         return re.sub(r'\bTV\b', 'television', text, flags=re.IGNORECASE)
+    
+    def replace_miniseries(self, text: str) -> str:
+        def repl(match):
+            word = match.group()
+            if word.islower():
+                return "mini series"
+            elif word.istitle():
+                return "Mini series"
+            elif word.isupper():
+                return "MINI SERIES"
+            return word
+
+        return re.sub(r'\bminiseries\b', repl, text, flags=re.IGNORECASE)
 
     def get_candidate_keywords(self, candidate: str) -> list:
         candidate = self.substitute_tv(candidate)
+        candidate = self.replace_miniseries(candidate)
         spacy_output = spacy_model(candidate)
         candidate_keywords = []
         for token in spacy_output:
@@ -111,6 +131,8 @@ class Vote:
 
     def award_inference(self, candidate_keywords: list, base_confidence=1.0) -> list:
         possible_awards_list = [self.keyword_to_awards[keyword] for keyword in candidate_keywords if keyword in self.keyword_to_awards]
+        if not possible_awards_list:
+            return []
         possible_award = set(possible_awards_list[0])
         for lst in possible_awards_list:
             possible_award = possible_award.intersection(lst)
@@ -123,8 +145,11 @@ class Vote:
         else:
             return []
 
+    def update_score_with_base_confidence(self, res: list, base_confidence=1.0) -> list:
+        return [(award, score * base_confidence) for award, score in res]
+
     def choose_award_to_vote(self, awards: list, award_candidates: list, base_confidence=1.0, tweet=None):
-        if not award_candidates:
+        if not award_candidates or base_confidence <= 0:
             return []
         scores = {}
         # for award in awards:
@@ -142,9 +167,9 @@ class Vote:
             res = self.award_inference(candidate_keywords, base_confidence)
             if tweet:
                 tweet['inference_res'] = res
-            return res
+            return self.update_score_with_base_confidence(res, base_confidence)
         else:
-            return [res[0]]
+            return self.update_score_with_base_confidence([res[0]], base_confidence)
     
     def vote(self, res,  winner_candidates, nominee_candidates, ts_ms=-1):
         # only collect timestamp for winner candidates
@@ -168,12 +193,13 @@ class Vote:
                     self.results[award]['nominees'][candidate] += score
                 else:
                     self.results[award]['nominees'][candidate] = score
-                
+    
+    # TODO: delete this function after doing clustering
     def base_cleaning(self, text: str) -> str:
         for_idx = text.find(" for ")
         if for_idx != -1:
             text = text[:for_idx]
-        text = ''.join(ch for ch in text if ch not in string.punctuation)
+        text = name_cleaning(text)
         return text.lower()
 
     def vote_for_awards(self, awards: list, tweets: list, modify_tweet=False):
@@ -184,16 +210,21 @@ class Vote:
                     self.vote(vote_res, candidates.get('winner_candidates', []), candidates.get('nominee_candidates', []), tweet.get('timestamp_ms', -1))
                 
     def get_results(self):
+        ts_clustuer_data = {}
         for award in self.awards:
             self.results[award]['winner'] = sorted(self.results[award]['winner'].items(), key=lambda x: x[1], reverse=True)[:10]
             self.results[award]['nominees'] = sorted(self.results[award]['nominees'].items(), key=lambda x: x[1], reverse=True)[:20]
             if self.timestamp_on:
                 timestamps = self.timestamp_list[award][self.results[award]['winner'][0][0]]
+                ts_clustuer_data[award] = timestamps
                 # choose the top 4% - 10% of the timestamps, do the average
                 timestamps = sorted(timestamps)[
                     max(0, len(timestamps) // 25) : max(2, len(timestamps) // 10)
                 ]
                 self.results[award]['timestamp'] = sum(timestamps) / len(timestamps)
+        if self.timestamp_on:
+            # save timestamp cluster data
+            TimestampCluster(ts_clustuer_data)
         return self.results
 
 if __name__ == "__main__":
