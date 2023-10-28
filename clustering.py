@@ -6,8 +6,26 @@ import numpy as np
 import json
 import string
 import re
+import sys
+import json
+from extraction import common, best_script, wins_script, goes_script, nominated_script, nominee_script, receives_script, winner_script
+
+
+f = open("gg2013.json",encoding="utf-8", errors="ignore")
+json_text=json.load(f)
+
 
 files=["best","wins","goes","nominated","nominee","receives","winner"]
+method_map = {
+    "best": best_script(json_text),
+    "wins": wins_script(json_text),
+    "goes": goes_script(json_text),
+    "nominated": nominated_script(json_text),
+    "nominee": nominee_script(json_text),
+    "receives": receives_script(json_text),
+    "winner": winner_script(json_text)
+    }
+
 # Load the spaCy English language model
 nlp = spacy.load("en_core_web_sm")
 
@@ -25,8 +43,7 @@ def custom_tokenize(text):
 def join_awards():
     all_texts={}
     for file in files:
-        f = open(f'stage/{file}_keyword.json',encoding="utf-8", errors="ignore")
-        data=json.load(f)
+        data=method_map[file]
         for key, val in data.items():
             if key not in all_texts:
                 all_texts[key]=0
@@ -85,7 +102,7 @@ def get_awards():
             max_count_item = max(cluster, key=lambda x: x[1])
 
             # if something had many iterations or was mentioned multiple times, it is more likely that it's a W
-            if (len(cluster) > 2 and max_count_item[1] > 7) or max_count_item[1]>40:
+            if (len(cluster) > 1 and max_count_item[1] > 7) or max_count_item[1]>70:
                 max_count_item.append('1')
             else:
                 max_count_item.append('0')

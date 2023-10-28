@@ -1,25 +1,30 @@
 best television series - comedy or musical,70,1
-best television series - drama,125,1
+best television series - drama,126,1
 best screenplay - motion picture,32,1
+best performance by an actress motion picture - comedy or musical,11,1
 best performance by an actress in a television series - drama,65,1
 best performance by an actress in a television series comedy or musical,15,1
-best performance by an actress in a television comedy,47,1
-best performance by an actress in a supporting role in a motion picture,484,1
-best performance by an actress in a motion picture - drama,93,1
-best performance by an actress in a motion picture - comedy or musical,167,1
-best performance by an actress in a miniseries or television movie,39,1
+best performance by an actress in a supporting role in a motion picture,506,1
+best performance by an actress in a motion picture,19,1
+best performance by an actress in a motion picture - drama,96,1
+best performance by an actress in a motion picture - comedy or musical,169,1
+best performance by an actress in a miniseries or motion picture made for television,50,1
+best performance by an actress in a comedy or musical,34,1
+best performance by an actor television series - comedy or musical,14,1
 best performance by an actor motion picture - drama,11,1
+best performance by an actor in a television series - drama,8,1
 best performance by an actor in a television series - comedy or musical,72,1
-best performance by an actor in a supporting role in a motion picture,180,1
-best performance by an actor in a motion picture - drama,125,1
-best performance by an actor in a motion picture - comedy or musical,176,1
-best performance by an actor in a miniseries or television movie,28,1
-best performance by a television series actress - comedy or musical,42,1
-best performance by a television series actor - drama,64,1
-best motion picture - comedy or musical,207,1
-best motion picture - drama,182,1
-best mini-series or television movie,16,1
-best director motion picture  awarded,47,1
-best director - motion picture,12,1
-best animated feature film,190,1
+best performance by an actor in a supporting role in a motion picture,190,1
+best performance by an actor in a musical or comedy,8,1
+best performance by an actor in a motion picture - drama,127,1
+best performance by an actor in a motion picture - comedy or musical,182,1
+best performance by an actor in a miniseries or motion picture made for television,38,1
+best original song - motion picture,27,1
+best original score - motion picture,34,1
+best motion picture - comedy or musical,227,1
+best motion picture - musical or comedy,10,1
+best motion picture - drama,228,1
+best mini-series or motion picture made for television,18,1
+best director - motion picture,20,1
+best animated feature film,192,1
 cecil b. demille award,8,1
