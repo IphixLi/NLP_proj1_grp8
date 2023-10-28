@@ -136,9 +136,8 @@ def find_detail(name, Type, url):
     return [name, Type, result]
 
 # public for get "winner" or "noms"(label) from dataset
-def findListForData(data, label):
+def findListForData(data, label, year):
     # replace to your own function to get year
-    year = findyear()
 
     keyword = ["actor", "actress", "director", 'singer', "performance", "demille"]
     returnDic = {}
@@ -158,18 +157,15 @@ def findListForData(data, label):
         for i in range(0, len(award[1][label])):
             temp = award[1][label][i][1]
             name = award[1][label][i][0]
-            candidate = IMDB.updateCandidate(name, temp, candidate)
+            candidate = updateCandidate(name, temp, candidate)
 
         details = []
         for i in range(0, len(candidate)):
-            check = IMDB.is_work_or_person(candidate[i][0], year)
+            check = is_work_or_person(candidate[i][0], year)
             if check[1] == AwardType:
-                detail = IMDB.find_detail(check)
+                detail = find_detail(check)
                 details.append(detail)
         returnDic[award[0]] = details
 
     return returnDic
 
-# please write detail
-def findyear():
-    return 2013
