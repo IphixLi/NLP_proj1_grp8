@@ -39,26 +39,33 @@ class TweetsPreprocessor:
             return json.load(f)
     
     def save_all_tweets(self):
+        if not path.exists(self.output_dir):
+            path.mkdir(self.output_dir)
         for key, filename in self.filenames.items():
             with open(filename, 'w') as f:
                 json.dump(self.tweets_classification[key], f, indent=4)
     
-    def load_all_tweets(self):
-        if not path.exists(self.filenames['foreign_tweets']):
+    def load_all_tweets(self, debug=False):
+        if debug and path.exists(self.filenames['foreign_tweets']):
+            for key, filename in self.filenames.items():
+                with open(filename) as f:
+                    self.tweets_classification[key] = json.load(f)
+        else:
             self.preprocess_tweets()
             self.split_tweets()
             self.split_result_stats()
             self.save_all_tweets()
-        for key, filename in self.filenames.items():
-            with open(filename) as f:
-                self.tweets_classification[key] = json.load(f)
     
     def load_tweets(self, key='normal_tweets') -> list or dict:
-        if not path.exists(self.filenames[key]):
+        if path.exists(self.filenames[key]):
+            with open(self.filenames[key]) as f:
+                return json.load(f)
+        else:
             self.preprocess_tweets()
+            self.split_tweets()
+            self.split_result_stats()
             self.save_all_tweets()
-        with open(self.filenames[key]) as f:
-            return json.load(f)
+            return self.tweets_classification[key]
     
     def split_tweets(self):
         for tweet in self.tweets:
@@ -116,6 +123,13 @@ class TweetsPreprocessor:
         new_text = self.delete_url(new_text)
         tweet['new_text'] = new_text
         self.fix_tweet_features(tweet)
+        
+        new_text = self.remove_golden_globes(tweet['new_text'])
+        new_text = self.substitute_tv(new_text)
+        new_text = self.replace_miniseries(new_text)
+        new_text = self.convert_upper_word_to_lower(new_text)
+        tweet['new_text'] = new_text
+        
     
     def preprocess_tweets(self):
         """Preprocess tweets, add new_text field to each tweet"""
@@ -134,6 +148,11 @@ class TweetsPreprocessor:
         new_text = self.remove_trailing_hashtags_and_usernames(new_text)
         new_text = self.fix_username(new_text)
         new_text = self.fix_hashtag(new_text)
+        
+        new_text = self.remove_golden_globes(new_text)
+        new_text = self.substitute_tv(new_text)
+        new_text = self.replace_miniseries(new_text)
+        new_text = self.convert_upper_word_to_lower(new_text)
         return new_text
         
     
@@ -148,6 +167,31 @@ class TweetsPreprocessor:
 
     def delete_url(self, text: str) -> str:
         return re.sub(r"http(s)?://\S+", "", text)
+    
+    def substitute_tv(self, text: str) -> str:
+        return re.sub(r'\bTV\b', 'television', text, flags=re.IGNORECASE)
+    
+    def replace_miniseries(self, text: str) -> str:
+        def repl(match):
+            word = match.group()
+            if word.islower():
+                return "mini series"
+            elif word.istitle():
+                return "Mini series"
+            elif word.isupper():
+                return "MINI SERIES"
+            return word
+
+        return re.sub(r'\bminiseries\b', repl, text, flags=re.IGNORECASE)
+    
+    def remove_golden_globes(self, text: str) -> str:
+        # Use regular expression to remove all forms of "golden globes"
+        text = re.sub(r'\bgolden globes\b', '', text, flags=re.IGNORECASE).strip()
+        return re.sub(r'\bgoldenglobes\b', '', text, flags=re.IGNORECASE).strip()
+    
+    def convert_upper_word_to_lower(self, text: str) -> str:
+        modified_words = [word.lower() if word.isupper() else word for word in text.split()]
+        return ' '.join(modified_words)
 
     def capitalize_all_words(self, s):
         return ' '.join(word.capitalize() for word in s.split())

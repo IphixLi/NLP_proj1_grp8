@@ -16,6 +16,22 @@ nominate_verbs = ["nominate"]                           # Y is nominated for X
 punct_pattern = r'[!"#$%&\'()*+,-./:;<=>?@^_`{|}~]'
 remove_punct_pattern = r'((?<= )' + punct_pattern + ' |^' + punct_pattern + ' | ' + punct_pattern + '$)'
 
+def identify_pronoun_category(pronoun: str) -> str:
+    pronoun = pronoun.lower()
+    human_pronouns = ["he", "him", "his", "she", "her", "hers"]
+    nonhuman_pronouns = ["it", "its"]
+
+    if pronoun in human_pronouns:
+        return "human"
+    elif pronoun in nonhuman_pronouns:
+        return "non-human"
+    else:
+        return "unknown"
+    
+def is_human_pronoun(pronoun: str) -> (bool, bool):
+    res = identify_pronoun_category(pronoun)
+    return res != "unknown", res == "human"
+
 def find_root(spacy_output) -> list:
     return [token for token in spacy_output if token.dep_ == "ROOT"]
 
