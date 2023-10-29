@@ -7,6 +7,7 @@ import json
 import string
 import re
 import json
+import sys
 from extraction import best_script, wins_script, goes_script, nominated_script, nominee_script, receives_script, winner_script
 
 
@@ -113,3 +114,6 @@ def get_awards(filename):
 
     return award_list
                 
+if __name__ == '__main__':
+    filename=sys.argv[1]
+    get_awards(filename)

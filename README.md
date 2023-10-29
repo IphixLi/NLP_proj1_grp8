@@ -14,6 +14,11 @@ python -m spacy download en_core_web_md
 
 # Getting awards
 
+- awards names are given as list by invoking main_awards.py file with file which contain tweets.
+for example:
+
+```python main_awards.py gg2013.json```
+
 1. We identified patterns through which the awards are mentioned in the tweets. we then created scripts that would allow us to extract probable award names. to inspect the patterns per given awards, see files marked by award names in ***inspect_files*** folder.
 
 for some awards, we some official names of the awards were not used in the tweets such as awards related to individual performances. for example:
