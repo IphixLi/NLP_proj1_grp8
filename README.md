@@ -19,6 +19,7 @@ for example:
 
 ```python main_awards.py gg2013.json```
 
+
 1. We identified patterns through which the awards are mentioned in the tweets. we then created scripts that would allow us to extract probable award names. to inspect the patterns per given awards, see files marked by award names in ***inspect_files*** folder.
 
 for some awards, we some official names of the awards were not used in the tweets such as awards related to individual performances. for example:
@@ -35,4 +36,16 @@ we also normalized all award names to be lowercase.
 2. we then combined all probable award names and put them in clusters of similarities such that we are able to capture the most likely true name of the award. We used Spacy library which allowed us to vectorize text into tokens and cluster award names based on Jaccard similarity.
 to inspect cluster patterns per proposed awards, see clusters.txt file in ***inspect_files*** folder.
 
+
 3. from the clusters we got the awards name which had high count from tweets. we followed the heuristic that is the award name was mentioned many times in the tweets it is likely that it was mentioned differently by users such as minor pronounciation. We also looked at awards that had no clusters but was hightly mentioned in the tweets.
+
+# Additional Goals
+
+for additional goals, we found the best dressed.
+
+- best dressed people are given as list by invoking extra_awards.py file. note that this file depends on prepocessed data which can got after running file: [file_for_pattern match].
+for example:
+
+```python extra_awards.py```
+
+We found tweets which mentions dress in them and then found sentiment score for tweets to see if the tweet was talking positively with outfit. we then found names of people mentioned in the tweet by checking in IMDB website, the real name of people mentioned. we then return people who had highest number of mentions in the tweets forbest  dressed.
