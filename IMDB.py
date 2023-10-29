@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import string
 
+
 punctuation_string = string.punctuation + "-"
 
 # for request website
@@ -60,11 +61,12 @@ def is_work_or_person(name, year):
     soup = BeautifulSoup(response.text, "html.parser")
     # Check if the result is a film or actor
     result = soup.find("h3", class_="ipc-title__text")
-    if result:
-        result_text = result.text.lower()
-        if "titles" in result_text:
-            resultInfo = soup.find_all("li",
-                                       class_="ipc-metadata-list-summary-item ipc-metadata-list-summary-item--click find-result-item find-title-result")
+
+    result_text = result.text.lower()
+    if "titles" in result_text:
+        resultInfo = soup.find_all("li",
+                                   class_="ipc-metadata-list-summary-item ipc-metadata-list-summary-item--click find-result-item find-title-result")
+        if resultInfo:
             for i in range(0, len(resultInfo)):
                 if year1 in resultInfo[i].text:
                     fullname = resultInfo[i].text[:resultInfo[i].text.index(year1)].lower()
@@ -78,14 +80,16 @@ def is_work_or_person(name, year):
                     fullname = resultInfo[i].text[:resultInfo[i].text.index(year3)].lower()
                     herf = resultInfo[i].find("a")["href"]
                     return [fullname, "work", herf]
-            return [name, "work", "notfound"]
-        elif "people" in result_text or "person" in result_text:
-            resultInfo = soup.find("a", class_="ipc-metadata-list-summary-item__t")
-            if resultInfo:
-                url = resultInfo["href"]
-                fullname = resultInfo.text.lower()
-                return [fullname, "person", url]
-            return [name, "person", url]
+                return [name, "work", "notfound"]
+    elif "people" in result_text or "person" in result_text:
+        resultInfo = soup.find("a", class_="ipc-metadata-list-summary-item__t")
+        if resultInfo:
+            href = resultInfo["href"]
+            fullname = resultInfo.text.lower()
+            return [fullname, "person", href]
+        else:
+            return [name, "person", "notfound"]
+
 
 # private Function used in find_detail
 def find_person_ident(name, href):
@@ -164,10 +168,12 @@ def findListForData(data, label, year):
         details = []
         for i in range(0, len(candidate)):
             check = is_work_or_person(candidate[i][0], year)
-            if check[1] == AwardType:
-                detail = find_detail(check[0],check[1],check[2])
-                details.append(detail)
+            if check[1] == AwardType and check[2] != "notfound":
+                details.append(check[0])
+#                detail = find_detail(check[0],check[1],check[2])
+#                details.append(detail)
         returnDic[award[0]] = details
+        print(returnDic[award[0]])
 
     return returnDic
 
@@ -187,9 +193,39 @@ def clusterPre(data,year):
         details = []
         for i in range(0, len(candidate)):
             check = is_work_or_person(candidate[i][0], year)
-            if check[1] == "person":
-                detail = find_detail(check)
-                details.append(detail)
+            if check[1] == "person" and check[2] != "notfound":
+                details.append(check[0])
+#                detail = find_detail(check)
+#                details.append(detail)
         returnDic[award[0]] = details
+        print(returnDic[award[0]])
 
     return returnDic
+
+def to_result(winnerDic, nomsDic, preDic, hosts):
+    final_dic = {}
+    final_dic["Host"] = hosts
+
+    for item in winnerDic.items():
+        namelist = []
+        tempdic = {}
+
+        tempdic["Winner"] = item[1][0]
+        namelist = namelist + [item[1][0]]
+
+        templist = nomsDic[item[0]]
+        for i in namelist:
+            if i in templist:
+                templist.remove(i)
+        tempdic["Nominees"] = templist
+        namelist = namelist + templist
+
+        templist = preDic[item[0]]
+        for i in namelist:
+            if i in templist:
+                templist.remove(i)
+        tempdic["Presenters"] = templist
+
+        final_dic[item[0]] = tempdic
+
+    return final_dic
