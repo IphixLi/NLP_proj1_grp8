@@ -1,4 +1,4 @@
-import clustering
+import main_awards
 '''Version 0.4'''
 
 def get_hosts(year):
@@ -11,7 +11,9 @@ def get_awards(year):
     '''Awards is a list of strings. Do NOT change the name
     of this function or what it returns.'''
     # Your code here
-    return clustering.get_awards()
+    filename='gg2013.json'
+
+    return main_awards.get_awards(filename)
 
 def get_nominees(year):
     '''Nominees is a dictionary with the hard coded award
@@ -50,6 +52,7 @@ def main():
     run when grading. Do NOT change the name of this function or
     what it returns.'''
     # Your code here
+    awards = get_awards(2013)
     return
 
 if __name__ == '__main__':

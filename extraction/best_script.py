@@ -75,7 +75,8 @@ def best_script(json_data):
                     
                     val = 'best '+re.sub(regex, f"performance by {article} {matched_noun}", val)
                     # print(val)
-                
+
+
                 pattern=["movie television","television movie"]
 
                 for i in pattern:

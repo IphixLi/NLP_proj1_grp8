@@ -1,4 +1,4 @@
-mets: ,26, 23, 27
+mets: ,26, 23, 28
 'not_yet_matched: '
 {'best foreign language film',
  'best performance by an actor in a supporting role in a series, mini-series '
@@ -34,7 +34,8 @@ mets: ,26, 23, 27
  'cecil b. demille award'}
 
 'extras: '
-{'best performance by an actress in a comedy or musical'}
+{'best performance by an actress in a comedy or musical',
+ 'best performance by an actress motion picture - comedy or musical'}
 
-{'2013': {'awards': {'completeness': 0.7240740740740741,
-                     'spelling': 0.939889209846651}}}
+{'2013': {'awards': {'completeness': 0.6982142857142857,
+                     'spelling': 0.9430398084603876}}}

@@ -74,7 +74,7 @@ def receives_script(json_text):
                             if words_between_by_and_role.strip() and words_between_by_and_role.strip()!='an' and words_between_by_and_role.strip()!='a':
                                 # Replace the words between "by" and the role with "an {role} in"
                                 stripped = re.sub(pattern, r'by an \1 in', stripped)
-                                
+                               
                         stripped=stripped.replace("--","-")
                         if stripped not in track:
                             track[stripped]=0

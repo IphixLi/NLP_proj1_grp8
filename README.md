@@ -1,13 +1,20 @@
 # NLP_proj1_grp8
 
-Using spacy
+# Github address
+```
+https://github.com/IphixLi/NLP_proj1_grp8.git
+```
 
-- python -m pip install spacy
-- python -m pip install scikit-learn
+# Package install
 
+Please run the following command to get libraries and model files
+```
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 python -m spacy download en_core_web_md
+```
 
-steps:
+# Getting awards
 
 - inspect patterns
 - run scripts with patterns

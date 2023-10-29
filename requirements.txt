@@ -3,3 +3,4 @@ scikit-learn
 nltk
 wikipedia
 textblob
+BeautifulSoup

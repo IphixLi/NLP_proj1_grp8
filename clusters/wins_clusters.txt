@@ -1,6 +1,0 @@
-Cluster 1:
-    best actress in a miniseries or motion picture made for television (Count: 4)
-
-Cluster 0:
-    best actor in a miniseries or motion picture made for television (Count: 5)
-
