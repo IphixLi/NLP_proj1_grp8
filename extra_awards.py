@@ -5,6 +5,7 @@ from textblob import TextBlob
 import requests
 from bs4 import BeautifulSoup
 import random
+import sys
 
 spacy_model = spacy.load("en_core_web_md")
 # for request website
@@ -71,12 +72,12 @@ def remove_s(text: str) -> str:
 def propose_welldressed(tweets):
     results={}
     for tweet in tweets:
-        if re.search(r'dress',tweet['new_text'], flags=re.IGNORECASE) :
-            blob = TextBlob(tweet['new_text'])
+        if re.search(r'dress',tweet['text'], flags=re.IGNORECASE) :
+            blob = TextBlob(tweet['text'])
             # Get the sentiment polarity score
             sentiment_score = blob.sentiment.polarity
             if sentiment_score>0.5:
-                spacy_output = spacy_model(tweet['new_text'])
+                spacy_output = spacy_model(tweet['text'])
                 proposed_people = [remove_s(person.text) for person in find_persons(spacy_output) if not re.search(r'golden', person.text, flags=re.IGNORECASE)]
                 results[tweet["user"]["screen_name"]]=proposed_people
     return results
@@ -86,18 +87,20 @@ def score_welldressed(proposed):
     for entry in proposed:
         for name in proposed[entry]:
             og=is_work_or_person(name,2013)
-            if og[0]!='found':
+            if og and og[0]!='found':
                 splitted=name.split(" ")
                 new=[is_work_or_person(i, 2013) for i in splitted]
                 for val in new:
-                    if val[0]=='found' and val[1] not in dressed:
+                    if val and val[0]=='found' and val[1] not in dressed:
                         dressed[val[1]]=1
-                    elif val[0]=='found':
+                    elif  val and  val[0]=='found':
                         dressed[val[1]]+=1
             else:
-                if og[1] not in dressed:
-                    dressed[og[1]]=0
-                dressed[og[1]]+=1
+                if og and  og[1] not in dressed:
+                    dressed[og[1]]=1
+                elif og:
+                    dressed[og[1]]+=1
+            
 
     with open("stage/best_dressed.json", "w") as f:
         json.dump(dressed, f, indent=4)
@@ -112,10 +115,17 @@ def score_welldressed(proposed):
 
 
 if __name__ == "__main__":
-    tweets = json.load(open("yifan/pattern_match.json"))
+    filename=sys.argv[1]
+    f = open(filename,encoding="utf-8", errors="ignore")
+    tweets = json.load(f)
     time_sorted_tweets=sorted(tweets, key=lambda x: x["timestamp_ms"], reverse=True)
     results=dict(propose_welldressed(time_sorted_tweets))
     ranked=score_welldressed(results)
+    d=open(f"extra_award_names.txt", "w")
+    d.write("Best Dressed \n")
+    for i in ranked:
+        d.write(i)
+    d.close()
     print(ranked)
 
 

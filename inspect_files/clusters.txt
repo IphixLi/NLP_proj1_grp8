@@ -501,7 +501,7 @@ Cluster 39:
     best performance by an actor in a television series - comedy (Count: 1)
 
 Cluster 308:
-    best performance by an actor in a television series-drama‚Äô should be renamed the jon hamm award (Count: 1)
+    best performance by an actor in a television series-dramaí should be renamed the jon hamm award (Count: 1)
 
 Cluster 19:
     best performance by an actor in a television series-comedy or musical (Count: 1)
@@ -915,7 +915,7 @@ Cluster 169:
     best drama motion picture (Count: 2)
 
 Cluster 149:
-    best director ‚Äî motion picture (Count: 1)
+    best director ó motion picture (Count: 1)
 
 Cluster 159:
     best director of a motion picture (Count: 3)
@@ -992,10 +992,10 @@ Cluster 73:
     best motion picture made for television (Count: 1)
 
 Cluster 74:
-    best animated film ‚Äù really great movie (Count: 1)
+    best animated film î really great movie (Count: 1)
 
 Cluster 40:
-    best animated film ‚Äù good movie (Count: 1)
+    best animated film î good movie (Count: 1)
 
 Cluster 55:
     best performance by an actor in a supporting role in a television series or movie (Count: 1)

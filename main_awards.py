@@ -80,7 +80,7 @@ def get_awards(filename):
         else:
             grouped_texts[label] = [text]
 
-    d=open(f"inspect_files/proposed_awards.txt", "w")
+    d=open(f"awards_names.txt", "w")
     with open(f"inspect_files/clusters.txt", "w") as temp_file:
         for label, group in grouped_texts.items():
             temp_file.write(f"Cluster {label}:\n")
@@ -107,7 +107,7 @@ def get_awards(filename):
                 if len(prep)==3 and prep[2]=='1':
                     entry=",".join(prep)
                     # print(entry, prep)
-                    d.write(f'{entry}\n')
+                    d.write(f'{prep[0]}\n')
                     award_list.append(prep[0])
             except Exception as e:
                 print(f"Unable to write text to the file: {e}")
