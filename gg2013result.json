@@ -1,0 +1,353 @@
+{
+    "hosts": [
+        "tina fey",
+        "amy poehler"
+    ],
+    "award_data": {
+        "best screenplay - motion picture": {
+            "nominees": [
+                "les miserables",
+                "zero dark thirty",
+                "silver linings playbook",
+                "titanic",
+                "greatest moments in musical history: john williams"
+            ],
+            "presenters": [
+                "robert pattinson",
+                "amanda seyfried"
+            ],
+            "winner": "django unchained"
+        },
+        "best director - motion picture": {
+            "nominees": [
+                "steven spielberg",
+                "quentin tarantino",
+                "ang lee",
+                "kathryn bigelow"
+            ],
+            "presenters": [
+                "halle berry",
+                "jennifer garner"
+            ],
+            "winner": "ben affleck"
+        },
+        "best performance by an actress in a television series - comedy or musical": {
+            "nominees": [
+                "amy poehler",
+                "zooey deschanel",
+                "julia louis-dreyfus",
+                "tina fey"
+            ],
+            "presenters": [
+                "aziz ansari",
+                "will ferrell"
+            ],
+            "winner": "lena dunham"
+        },
+        "best foreign language film": {
+            "nominees": [
+                "a royal affair",
+                "kon-tiki",
+                "jim parsons",
+                "green lantern: the animated series",
+                "damages"
+            ],
+            "presenters": [
+                "sylvester stallone",
+                "arnold schwarzenegger"
+            ],
+            "winner": "amour"
+        },
+        "best performance by an actor in a supporting role in a motion picture": {
+            "nominees": [
+                "leonardo dicaprio",
+                "tommy lee jones",
+                "alan arkin",
+                "christopher walken"
+            ],
+            "presenters": [
+                "kate hudson",
+                "bradley cooper"
+            ],
+            "winner": "christoph waltz"
+        },
+        "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television": {
+            "nominees": [
+                "sofia vergara",
+                "jennifer lawrence",
+                "hayden panettiere",
+                "archie panjabi",
+                "kate hudson"
+            ],
+            "presenters": [
+                "kerry washington",
+                "dennis quaid"
+            ],
+            "winner": "maggie smith"
+        },
+        "best motion picture - comedy or musical": {
+            "nominees": [
+                "moonrise kingdom",
+                "silver linings playbook",
+                "v/h/s",
+                "mel and his movies",
+                "ted"
+            ],
+            "presenters": [
+                "dustin hoffman",
+                "jeremy renner"
+            ],
+            "winner": "les miserables"
+        },
+        "best performance by an actress in a motion picture - comedy or musical": {
+            "nominees": [
+                "meryl streep",
+                "maggie smith",
+                "judi dench",
+                "anne hathaway",
+                "jessica chastain"
+            ],
+            "presenters": [
+                "will ferrell",
+                "kristen wiig"
+            ],
+            "winner": "jennifer lawrence"
+        },
+        "best mini-series or motion picture made for television": {
+            "nominees": [
+                "hatfields & mccoys",
+                "the hour",
+                "political animals",
+                "the girl",
+                "television zombies episode 227: bloody face"
+            ],
+            "presenters": [
+                "don cheadle",
+                "eva longoria"
+            ],
+            "winner": "game change"
+        },
+        "best original score - motion picture": {
+            "nominees": [
+                "skyfall",
+                "that guy... who was in that thing",
+                "lincoln"
+            ],
+            "presenters": [
+                "jennifer lopez",
+                "jason statham"
+            ],
+            "winner": "life of pi"
+        },
+        "best performance by an actress in a television series - drama": {
+            "nominees": [
+                "michelle dockery",
+                "connie britton",
+                "glenn close",
+                "lea michele",
+                "anne hathaway"
+            ],
+            "presenters": [
+                "lea michele",
+                "arnold schwarzenegger"
+            ],
+            "winner": "claire danes"
+        },
+        "best performance by an actress in a motion picture - drama": {
+            "nominees": [
+                "naomi watts",
+                "rachel weisz",
+                "jennifer lawrence",
+                "marion cotillard"
+            ],
+            "presenters": [
+                "george clooney",
+                "helen mirren"
+            ],
+            "winner": "jessica chastain"
+        },
+        "cecil b. demille award": {
+            "nominees": [],
+            "presenters": [
+                "robert downey jr.",
+                "robert pattinson"
+            ],
+            "winner": "jodie foster"
+        },
+        "best performance by an actor in a motion picture - comedy or musical": {
+            "nominees": [
+                "bradley cooper",
+                "jack black",
+                "tommy lee jones",
+                "daniel day lewis"
+            ],
+            "presenters": [
+                "christian bale",
+                "jennifer garner"
+            ],
+            "winner": "hugh jackman"
+        },
+        "best motion picture - drama": {
+            "nominees": [
+                "jack reacher",
+                "django unchained",
+                "life of pi",
+                "zero dark thirty",
+                "real steel: building the bots"
+            ],
+            "presenters": [
+                "julia roberts",
+                "steven spielberg"
+            ],
+            "winner": "argo"
+        },
+        "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television": {
+            "nominees": [
+                "mandy patinkin",
+                "eric stonestreet",
+                "max greenfield"
+            ],
+            "presenters": [
+                "kristen bell",
+                "kristen wiig"
+            ],
+            "winner": "ed harris"
+        },
+        "best performance by an actress in a supporting role in a motion picture": {
+            "nominees": [
+                "sally field",
+                "jennifer lawrence",
+                "amanda seyfried",
+                "audrey hepburn",
+                "lena dunham"
+            ],
+            "presenters": [
+                "megan fox",
+                "tommy lee jones"
+            ],
+            "winner": "anne hathaway"
+        },
+        "best television series - drama": {
+            "nominees": [
+                "breaking bad",
+                "downton abbey",
+                "the newsroom",
+                "dick winters: hang tough narrated by damian lewis",
+                "modern family"
+            ],
+            "presenters": [
+                "salma hayek",
+                "kate hudson"
+            ],
+            "winner": "homeland"
+        },
+        "best performance by an actor in a mini-series or motion picture made for television": {
+            "nominees": [
+                "benedict cumberbatch",
+                "toby jones",
+                "jon hamm",
+                "bryan cranston",
+                "hugh jackman"
+            ],
+            "presenters": [
+                "jessica alba",
+                "tina turner"
+            ],
+            "winner": "kevin costner"
+        },
+        "best performance by an actress in a mini-series or motion picture made for television": {
+            "nominees": [
+                "jessica lange",
+                "tina fey",
+                "amy poehler",
+                "nicole kidman",
+                "marion cotillard"
+            ],
+            "presenters": [
+                "eva longoria",
+                "jessica lange"
+            ],
+            "winner": "julianne moore"
+        },
+        "best animated feature film": {
+            "nominees": [
+                "wreck-it ralph",
+                "hotel transylvania",
+                "frankenweenie",
+                "rise of the guardians",
+                "v/h/s"
+            ],
+            "presenters": [
+                "leonard cohen",
+                "sacha baron cohen"
+            ],
+            "winner": "brave"
+        },
+        "best original song - motion picture": {
+            "nominees": [
+                "django unchained",
+                "act of valor",
+                "taylor swift feat. the civil wars: safe & sound",
+                "gale & katniss"
+            ],
+            "presenters": [
+                "jennifer lopez",
+                "taylor swift"
+            ],
+            "winner": "skyfall"
+        },
+        "best performance by an actor in a motion picture - drama": {
+            "nominees": [
+                "denzel washington",
+                "joaquin phoenix",
+                "john hawkes",
+                "hugh jackman",
+                "bradley cooper"
+            ],
+            "presenters": [
+                "robert pattinson",
+                "jessica chastain"
+            ],
+            "winner": "daniel day lewis"
+        },
+        "best television series - comedy or musical": {
+            "nominees": [
+                "modern family",
+                "the big bang theory",
+                "smash",
+                "deffchonki",
+                "boys are stupid, girls are mean"
+            ],
+            "presenters": [
+                "jay leno",
+                "jimmy fallon"
+            ],
+            "winner": "girls"
+        },
+        "best performance by an actor in a television series - drama": {
+            "nominees": [
+                "bryan cranston",
+                "jeff daniels",
+                "jon hamm",
+                "steve buscemi"
+            ],
+            "presenters": [
+                "salma hayek",
+                "jon hamm"
+            ],
+            "winner": "damian lewis"
+        },
+        "best performance by an actor in a television series - comedy or musical": {
+            "nominees": [
+                "jim parsons",
+                "louis c.k",
+                "matt leblanc"
+            ],
+            "presenters": [
+                "lucy liu",
+                "debra messing"
+            ],
+            "winner": "don cheadle"
+        }
+    }
+}

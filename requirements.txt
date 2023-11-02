@@ -3,4 +3,12 @@ scikit-learn
 nltk
 wikipedia
 textblob
-BeautifulSoup
+beautifulsoup4
+fuzzywuzzy
+python-Levenshtein
+cinemagoer
+unidecode
+nicknames
+ftfy
+inflection
+pycld3
