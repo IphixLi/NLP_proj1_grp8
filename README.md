@@ -141,11 +141,11 @@ to inspect cluster patterns per proposed awards, see clusters.txt file in ***ins
 # Additional Goals
 
 1. for additional goals, we found the best dressed.
-    - best dressed people are given as list by invoking extra_awards.py file. note that this file depends on prepocessed data which can got after running file: [file_for_pattern match].
+    - best dressed people are given as list by invoking extra_awards.py file with a file containing tweets.
     for example:
 
 
-```python extra_awards.py```
+```python extra_awards.py gg2013.json```
 
 We found tweets which mentions dress in them and then found sentiment score for tweets to see if the tweet was talking positively with outfit. we then found names of people mentioned in the tweet by checking in IMDB website, the real name of people mentioned. we then return people who had highest number of mentions in the tweets forbest  dressed.
 
